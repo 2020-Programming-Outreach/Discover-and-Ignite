@@ -1,1740 +1,1740 @@
-"City, Prov",lat,lon,Estimated Duration of Time,Next most likely Destination
-"Whitehorse, YT",60.7029,-135.0691,22,"Fredericton, NB"
-"Fredericton, NB",45.9636,-66.6431,88,"Duncan, BC"
-"Duncan, BC",48.7787,-123.7079,66,"Merritt, BC"
-"Merritt, BC",50.1128,-120.7897,24,"Sainte-Anne-des-Plaines, QC"
-"Sainte-Anne-des-Plaines, QC",45.7617,-73.8204,77,"Northern Bruce Peninsula, ON"
-"Northern Bruce Peninsula, ON",45.0800,-81.3800,98,"Ville-Marie, QC"
-"Ville-Marie, QC",47.3333,-79.4333,96,"Valcourt, QC"
-"Valcourt, QC",45.5000,-72.3167,58,"Havelock, NB"
-"Havelock, NB",45.9523,-65.3885,64,"Springfield, MB"
-"Springfield, MB",49.9292,-96.6939,55,"Cartier, MB"
-"Cartier, MB",49.9161,-97.7000,57,"Marmora and Lake, ON"
-"Marmora and Lake, ON",44.6425,-77.7372,83,"Causapscal, QC"
-"Causapscal, QC",48.3667,-67.2333,87,"Sylvan Lake, AB"
-"Sylvan Lake, AB",52.3083,-114.0964,35,"Headingley, MB"
-"Headingley, MB",49.8681,-97.3908,72,"Amulet, QC"
-"Amulet, QC",48.2938,-79.0274,80,"Windermere, BC"
-"Windermere, BC",50.4856,-115.9948,55,"Morden, MB"
-"Morden, MB",49.1919,-98.1006,39,"Saint-Joseph-de-Sorel, QC"
-"Saint-Joseph-de-Sorel, QC",46.0446,-73.1308,25,"Langham, SK"
-"Langham, SK",52.3667,-106.9667,10,"Horton, ON"
-"Horton, ON",45.5000,-76.6667,19,"Woolwich, ON"
-"Woolwich, ON",43.5667,-80.4833,22,"North Algona Wilberforce, ON"
-"North Algona Wilberforce, ON",45.6167,-77.2000,84,"Claremont, ON"
-"Claremont, ON",43.9741,-79.1316,32,"Beauceville, QC"
-"Beauceville, QC",46.2000,-70.7833,25,"Saint-Louis-du-Ha! Ha!, QC"
-"Saint-Louis-du-Ha! Ha!, QC",47.6700,-68.9800,96,"St. Francois Xavier, MB"
-"St. Francois Xavier, MB",49.9903,-97.6722,44,"Mistissini, QC"
-"Mistissini, QC",50.5707,-73.6829,51,"Macamic, QC"
-"Macamic, QC",48.7500,-79.0000,86,"Caraquet, NB"
-"Caraquet, NB",47.7853,-64.9592,81,"Tara, ON"
-"Tara, ON",44.4793,-81.1445,83,"Georgina, ON"
-"Georgina, ON",44.3000,-79.4333,40,"Greater Napanee, ON"
-"Greater Napanee, ON",44.2500,-76.9500,85,"Trois-Pistoles, QC"
-"Trois-Pistoles, QC",48.1200,-69.1800,44,"Miramichi, NB"
-"Miramichi, NB",47.0196,-65.5072,92,"Shediac, NB"
-"Shediac, NB",46.2167,-64.5333,59,"Sainte-Victoire-de-Sorel, QC"
-"Sainte-Victoire-de-Sorel, QC",45.9500,-73.0833,80,"Port Colborne, ON"
-"Port Colborne, ON",42.8833,-79.2500,55,"Mirabel, QC"
-"Mirabel, QC",45.6500,-74.0833,54,"Longue-Rive, QC"
-"Longue-Rive, QC",48.5500,-69.2500,55,"Dalhousie, NB"
-"Dalhousie, NB",48.1000,-66.6167,51,"Saint-Ludger, QC"
-"Saint-Ludger, QC",45.7500,-70.7000,90,"Lillooet, BC"
-"Lillooet, BC",50.6864,-121.9364,60,"Bois-des-Filion, QC"
-"Bois-des-Filion, QC",45.6667,-73.7500,74,"Saint-Damien-de-Buckland, QC"
-"Saint-Damien-de-Buckland, QC",46.6333,-70.6667,26,"Kensington, PE"
-"Kensington, PE",46.4333,-63.6500,28,"Maliotenam, QC"
-"Maliotenam, QC",50.2114,-66.1911,74,"Rosedale, MB"
-"Rosedale, MB",50.4397,-99.5389,82,"Notre-Dame-des-Prairies, QC"
-"Notre-Dame-des-Prairies, QC",46.0500,-73.4333,14,"Durham, NB"
-"Durham, NB",47.7631,-66.0849,22,"Saint-Amable, QC"
-"Saint-Amable, QC",45.6500,-73.3000,13,"Mont-Laurier, QC"
-"Mont-Laurier, QC",46.5500,-75.5000,74,"Ellison, BC"
-"Ellison, BC",49.9646,-119.3178,73,"Hope, BC"
-"Hope, BC",49.3858,-121.4419,75,"Pitt Meadows, BC"
-"Pitt Meadows, BC",49.2333,-122.6833,15,"Laurentian Hills, ON"
-"Laurentian Hills, ON",46.1333,-77.5500,97,"Brighton, ON"
-"Brighton, ON",44.1222,-77.7642,92,"Eckville, AB"
-"Eckville, AB",52.3622,-114.3614,79,"Brighton, NB"
-"Brighton, NB",46.3316,-67.3585,65,"Barriere, BC"
-"Barriere, BC",51.1803,-120.1261,45,"Glenella-Lansdowne, MB"
-"Glenella-Lansdowne, MB",50.4163,-99.2097,43,"North Perth, ON"
-"North Perth, ON",43.7300,-80.9500,89,"Riviere-Bleue, QC"
-"Riviere-Bleue, QC",47.4333,-69.0500,76,"Kipling, SK"
-"Kipling, SK",50.1015,-102.6324,45,"Saint-Bruno-de-Guigues, QC"
-"Saint-Bruno-de-Guigues, QC",47.4667,-79.4333,61,"Bow Island, AB"
-"Bow Island, AB",49.8667,-111.3667,39,"Saint-Germain-de-Grantham, QC"
-"Saint-Germain-de-Grantham, QC",45.8333,-72.5667,63,"Saint-Zenon, QC"
-"Saint-Zenon, QC",46.5500,-73.8167,79,"Thorold, ON"
-"Thorold, ON",43.1167,-79.2000,58,"Saint-Vallier, QC"
-"Saint-Vallier, QC",46.8833,-70.8167,95,"Notre-Dame-de-l'Ile-Perrot, QC"
-"Notre-Dame-de-l'Ile-Perrot, QC",45.3667,-73.9333,48,"Cornwallis, MB"
-"Cornwallis, MB",49.7981,-99.8481,12,"Nouvelle, QC"
-"Nouvelle, QC",48.1333,-66.3167,21,"Clermont, QC"
-"Clermont, QC",47.6833,-70.2333,17,"Dundas, NB"
-"Dundas, NB",46.3155,-64.6947,24,"Saint-Albert, QC"
-"Saint-Albert, QC",46.0000,-72.0833,78,"Thompson, MB"
-"Thompson, MB",55.7433,-97.8553,51,"Wainwright, AB"
-"Wainwright, AB",52.8333,-110.8667,34,"Lorraine, QC"
-"Lorraine, QC",45.6833,-73.7833,14,"Herbertville, QC"
-"Herbertville, QC",48.3473,-71.6784,99,"Sainte-Therese-de-Gaspe, QC"
-"Sainte-Therese-de-Gaspe, QC",48.4167,-64.4167,96,"Chester, NS"
-"Chester, NS",44.6500,-64.3000,59,"Delson, QC"
-"Delson, QC",45.3700,-73.5500,44,"Trinity Bay North, NL"
-"Trinity Bay North, NL",48.4978,-53.0860,28,"Meadow Lake, SK"
-"Meadow Lake, SK",54.1242,-108.4358,49,"Terrace Bay, ON"
-"Terrace Bay, ON",48.8000,-87.1000,87,"Digby, NS"
-"Digby, NS",44.6222,-65.7606,62,"Paradise, NL"
-"Paradise, NL",47.5333,-52.8667,98,"Port Hardy, BC"
-"Port Hardy, BC",50.7225,-127.4928,37,"Nakusp, BC"
-"Nakusp, BC",50.2434,-117.8002,98,"Igloolik, NU"
-"Igloolik, NU",69.3817,-81.6811,35,"Waswanipi, QC"
-"Waswanipi, QC",49.7883,-75.9544,74,"Winkler, MB"
-"Winkler, MB",49.1817,-97.9397,34,"Ramara, ON"
-"Ramara, ON",44.6333,-79.2167,68,"Amherst, QC"
-"Amherst, QC",46.0500,-74.7667,64,"North Cowichan, BC"
-"North Cowichan, BC",48.8236,-123.7192,30,"Simonds, NB"
-"Simonds, NB",45.3145,-65.8030,76,"Saguenay, QC"
-"Saguenay, QC",48.4167,-71.0667,68,"Pangnirtung, NU"
-"Pangnirtung, NU",66.1436,-65.6829,49,"Cobalt, ON"
-"Cobalt, ON",47.4000,-79.6833,63,"St. Clair, ON"
-"St. Clair, ON",42.7833,-82.3500,80,"St. Albert, AB"
-"St. Albert, AB",53.6303,-113.6258,95,"Biggar, SK"
-"Biggar, SK",52.0590,-107.9790,79,"Bathurst, NB"
-"Bathurst, NB",47.6200,-65.6500,15,"Red Deer, AB"
-"Red Deer, AB",52.2681,-113.8111,76,"Salisbury, NB"
-"Salisbury, NB",46.0776,-65.1996,26,"Centreville-Wareham-Trinity, NL"
-"Centreville-Wareham-Trinity, NL",48.9879,-53.9069,70,"Sainte-Anne-des-Monts, QC"
-"Sainte-Anne-des-Monts, QC",49.1333,-66.5000,28,"Lanoraie, QC"
-"Lanoraie, QC",45.9667,-73.2167,65,"Saint-Stanislas, QC"
-"Saint-Stanislas, QC",46.6167,-72.4000,46,"Hawkesbury, ON"
-"Hawkesbury, ON",45.6000,-74.6000,83,"Stuartburn, MB"
-"Stuartburn, MB",49.1331,-96.5158,53,"Altona, MB"
-"Altona, MB",49.1044,-97.5625,10,"Spaniards Bay, NL"
-"Spaniards Bay, NL",47.6181,-53.3369,40,"Tay Valley, ON"
-"Tay Valley, ON",44.8667,-76.3833,28,"Rama, SK"
-"Rama, SK",51.7578,-103.0008,11,"Wilmot, NB"
-"Wilmot, NB",46.3463,-67.7099,95,"Carnduff, SK"
-"Carnduff, SK",49.1670,-101.7830,80,"Adstock, QC"
-"Adstock, QC",46.0500,-71.0800,42,"Shippagan, NB"
-"Shippagan, NB",47.8557,-64.6012,77,"Saint James, NB"
-"Saint James, NB",45.3822,-67.3427,49,"Milton, ON"
-"Milton, ON",43.5083,-79.8833,10,"Niagara-on-the-Lake, ON"
-"Niagara-on-the-Lake, ON",43.2553,-79.0717,77,"Preeceville, SK"
-"Preeceville, SK",51.9580,-102.6673,17,"Saint-Chrysostome, QC"
-"Saint-Chrysostome, QC",45.1000,-73.7667,18,"Harbour Main-Chapel's Cove-Lakeview, NL"
-"Harbour Main-Chapel's Cove-Lakeview, NL",47.4337,-53.1458,23,"Sainte-Marie-Salome, QC"
-"Sainte-Marie-Salome, QC",45.9333,-73.5000,89,"Malartic, QC"
-"Malartic, QC",48.1333,-78.1333,44,"Owen Sound, ON"
-"Owen Sound, ON",44.5667,-80.9333,25,"Wellesley, ON"
-"Wellesley, ON",43.5500,-80.7167,89,"Saint-Claude, QC"
-"Saint-Claude, QC",45.6667,-71.9833,67,"Ajax, ON"
-"Ajax, ON",43.8583,-79.0364,18,"Grande Prairie, AB"
-"Grande Prairie, AB",55.1708,-118.7947,15,"Dufferin, MB"
-"Dufferin, MB",49.5319,-98.0700,19,"Saint-Jean-sur-Richelieu, QC"
-"Saint-Jean-sur-Richelieu, QC",45.3167,-73.2667,49,"Sainte-Anne-de-la-Pocatiere, QC"
-"Sainte-Anne-de-la-Pocatiere, QC",47.3500,-70.0000,29,"Coldstream, BC"
-"Coldstream, BC",50.2200,-119.2481,45,"Drumheller, AB"
-"Drumheller, AB",51.4636,-112.7194,52,"Saint-Paul-de-l'Ile-aux-Noix, QC"
-"Saint-Paul-de-l'Ile-aux-Noix, QC",45.1333,-73.2833,51,"Repulse Bay, NU"
-"Repulse Bay, NU",66.5628,-86.3186,49,"Valleyview, AB"
-"Valleyview, AB",55.0686,-117.2683,33,"Mont-Royal, QC"
-"Mont-Royal, QC",45.5161,-73.6431,46,"Nicolet, QC"
-"Nicolet, QC",46.2167,-72.6167,72,"Contrecoeur, QC"
-"Contrecoeur, QC",45.8500,-73.2333,20,"Sainte-Emelie-de-l'Energie, QC"
-"Sainte-Emelie-de-l'Energie, QC",46.3167,-73.6500,73,"Vanscoy No. 345, SK"
-"Vanscoy No. 345, SK",52.0073,-107.0552,84,"Shaunavon, SK"
-"Shaunavon, SK",49.6510,-108.4120,10,"Kawartha Lakes, ON"
-"Kawartha Lakes, ON",44.3500,-78.7500,20,"Scugog, ON"
-"Scugog, ON",44.0900,-78.9360,45,"Stephenville Crossing, NL"
-"Stephenville Crossing, NL",48.5167,-58.4167,74,"Mississippi Mills, ON"
-"Mississippi Mills, ON",45.2167,-76.2000,19,"Lac-Bouchette, QC"
-"Lac-Bouchette, QC",48.2500,-72.1800,82,"Clarence-Rockland, ON"
-"Clarence-Rockland, ON",45.4833,-75.2000,92,"Kerrobert, SK"
-"Kerrobert, SK",51.9200,-109.1272,22,"Foam Lake, SK"
-"Foam Lake, SK",51.6500,-103.5333,79,"Slave Lake, AB"
-"Slave Lake, AB",55.2853,-114.7706,32,"Saint-David-de-Falardeau, QC"
-"Saint-David-de-Falardeau, QC",48.6167,-71.1167,90,"Saint-Isidore, QC"
-"Saint-Isidore, QC",45.3000,-73.6800,78,"Austin, QC"
-"Austin, QC",45.1833,-72.2833,71,"Saint-Faustin--Lac-Carre, QC"
-"Saint-Faustin--Lac-Carre, QC",46.0813,-74.4668,22,"Saint-Antoine, NB"
-"Saint-Antoine, NB",46.3629,-64.7530,11,"Edenwold No. 158, SK"
-"Edenwold No. 158, SK",50.5166,-104.3451,18,"Watrous, SK"
-"Watrous, SK",51.6841,-105.4661,14,"Ladysmith, BC"
-"Ladysmith, BC",48.9975,-123.8203,84,"Sainte-Marie, QC"
-"Sainte-Marie, QC",46.4500,-71.0333,86,"Devon, AB"
-"Devon, AB",53.3633,-113.7322,13,"Vaudreuil-sur-le-Lac, QC"
-"Vaudreuil-sur-le-Lac, QC",45.4000,-74.0333,38,"Mille-Isles, QC"
-"Mille-Isles, QC",45.8200,-74.2200,58,"Algonquin Highlands, ON"
-"Algonquin Highlands, ON",45.4000,-78.7500,35,"Thurso, QC"
-"Thurso, QC",45.5969,-75.2433,84,"Mont-Tremblant, QC"
-"Mont-Tremblant, QC",46.1167,-74.6000,26,"Muskoka Falls, ON"
-"Muskoka Falls, ON",45.1264,-79.5580,11,"Cramahe, ON"
-"Cramahe, ON",44.0833,-77.8833,27,"Riviere-Ouelle, QC"
-"Riviere-Ouelle, QC",47.4333,-70.0167,55,"Central Huron, ON"
-"Central Huron, ON",43.6300,-81.5700,90,"Port-Cartier, QC"
-"Port-Cartier, QC",50.0333,-66.8667,97,"Saint-Remi, QC"
-"Saint-Remi, QC",45.2667,-73.6167,69,"Carling, ON"
-"Carling, ON",45.4333,-80.2167,96,"Kitchener, ON"
-"Kitchener, ON",43.4186,-80.4728,43,"Pembroke, ON"
-"Pembroke, ON",45.8167,-77.1000,37,"Regina Beach, SK"
-"Regina Beach, SK",50.7900,-104.9900,25,"Gordon, NB"
-"Gordon, NB",46.8363,-67.1913,62,"Ferme-Neuve, QC"
-"Ferme-Neuve, QC",46.7000,-75.4500,96,"Loyalist, ON"
-"Loyalist, ON",44.2500,-76.7500,67,"Fernie, BC"
-"Fernie, BC",49.5042,-115.0628,35,"Sainte-Anne-de-la-Perade, QC"
-"Sainte-Anne-de-la-Perade, QC",46.5833,-72.2000,30,"Longlaketon No. 219, SK"
-"Longlaketon No. 219, SK",50.9386,-104.6913,54,"Surrey, BC"
-"Surrey, BC",49.1900,-122.8489,13,"Boisbriand, QC"
-"Boisbriand, QC",45.6200,-73.8300,43,"Sainte-Sophie, QC"
-"Sainte-Sophie, QC",45.8200,-73.9000,21,"Princeville, QC"
-"Princeville, QC",46.1667,-71.8833,53,"Gimli, MB"
-"Gimli, MB",50.6619,-97.0297,92,"Berwick, NS"
-"Berwick, NS",45.0475,-64.7360,52,"Reinland, MB"
-"Reinland, MB",49.1331,-97.5942,40,"Saint-Barthelemy, QC"
-"Saint-Barthelemy, QC",46.1833,-73.1333,53,"Saint-Calixte, QC"
-"Saint-Calixte, QC",45.9500,-73.8500,91,"Brigham, QC"
-"Brigham, QC",45.2500,-72.8500,72,"Dawson, YT"
-"Dawson, YT",64.0464,-139.3893,10,"Innisfail, AB"
-"Innisfail, AB",52.0333,-113.9500,28,"Saint-Bernard-de-Lacolle, QC"
-"Saint-Bernard-de-Lacolle, QC",45.0833,-73.4167,26,"Sooke, BC"
-"Sooke, BC",48.3761,-123.7378,41,"New Richmond, QC"
-"New Richmond, QC",48.1667,-65.8667,43,"Steinbach, MB"
-"Steinbach, MB",49.5258,-96.6839,56,"Warman, SK"
-"Warman, SK",52.3219,-106.5842,80,"Harrison Park, MB"
-"Harrison Park, MB",50.5563,-100.1674,30,"Alnwick/Haldimand, ON"
-"Alnwick/Haldimand, ON",44.0833,-78.0333,19,"Orkney No. 244, SK"
-"Orkney No. 244, SK",51.2557,-102.6469,57,"Yamaska, QC"
-"Yamaska, QC",46.0236,-72.9391,57,"Sainte-Marthe-sur-le-Lac, QC"
-"Sainte-Marthe-sur-le-Lac, QC",45.5300,-73.9300,35,"Rosemere, QC"
-"Rosemere, QC",45.6369,-73.8000,92,"Pessamit, QC"
-"Pessamit, QC",49.0485,-68.6814,70,"Shuniah, ON"
-"Shuniah, ON",48.5833,-88.8333,83,"North Stormont, ON"
-"North Stormont, ON",45.2167,-75.0000,67,"Ucluelet, BC"
-"Ucluelet, BC",48.9358,-125.5433,76,"Georgian Bluffs, ON"
-"Georgian Bluffs, ON",44.6500,-81.0333,46,"Smiths Falls, ON"
-"Smiths Falls, ON",44.9000,-76.0167,46,"Lanark Highlands, ON"
-"Lanark Highlands, ON",45.0880,-76.5170,17,"Saint-Bruno, QC"
-"Saint-Bruno, QC",48.4667,-71.6500,85,"Saint-Gabriel-de-Rimouski, QC"
-"Saint-Gabriel-de-Rimouski, QC",48.4209,-68.1791,11,"Saint-Alphonse-de-Granby, QC"
-"Saint-Alphonse-de-Granby, QC",45.3333,-72.8167,37,"Seguin, ON"
-"Seguin, ON",45.2882,-79.8116,63,"Minto, NB"
-"Minto, NB",46.1497,-66.1067,86,"Roberval, QC"
-"Roberval, QC",48.5200,-72.2300,63,"Waterloo, QC"
-"Waterloo, QC",45.3500,-72.5167,45,"Wawa, ON"
-"Wawa, ON",47.9931,-84.7736,49,"Hampton, NB"
-"Hampton, NB",45.5330,-65.8330,90,"Saint-Andre-d'Argenteuil, QC"
-"Saint-Andre-d'Argenteuil, QC",45.5667,-74.3333,81,"Selkirk, MB"
-"Selkirk, MB",50.1436,-96.8839,99,"Assiniboia, SK"
-"Assiniboia, SK",49.6167,-105.9833,18,"Meaford, ON"
-"Meaford, ON",44.5800,-80.7300,33,"Summerside, PE"
-"Summerside, PE",46.4000,-63.7833,64,"Chetwynd, BC"
-"Chetwynd, BC",55.6972,-121.6333,82,"Vernon, BC"
-"Vernon, BC",50.2670,-119.2720,99,"Georgian Bay, ON"
-"Georgian Bay, ON",44.9833,-79.8167,56,"Laval, QC"
-"Laval, QC",45.5833,-73.7500,57,"Saint-Lin--Laurentides, QC"
-"Saint-Lin--Laurentides, QC",45.8500,-73.7667,40,"Fermont, QC"
-"Fermont, QC",52.7833,-67.0833,67,"Quinte West, ON"
-"Quinte West, ON",44.1833,-77.5667,63,"Weldford, NB"
-"Weldford, NB",46.5221,-65.1114,25,"Oka, QC"
-"Oka, QC",45.4700,-74.0800,38,"Edmundston, NB"
-"Edmundston, NB",47.3765,-68.3253,85,"Church Point, NS"
-"Church Point, NS",44.3333,-66.1167,85,"New Bandon, NB"
-"New Bandon, NB",47.6912,-65.2900,81,"Saint-Jean-Baptiste, QC"
-"Saint-Jean-Baptiste, QC",45.5167,-73.1167,14,"Bracebridge, ON"
-"Bracebridge, ON",45.0333,-79.3000,29,"Notre-Dame-des-Neiges, QC"
-"Notre-Dame-des-Neiges, QC",48.1167,-69.1667,48,"Salmo, BC"
-"Salmo, BC",49.1942,-117.2778,13,"Sainte-Felicite, QC"
-"Sainte-Felicite, QC",48.9000,-67.3333,66,"Wakefield, NB"
-"Wakefield, NB",46.2406,-67.6248,75,"Grand Bay-Westfield, NB"
-"Grand Bay-Westfield, NB",45.3608,-66.2415,98,"Norton, NB"
-"Norton, NB",45.6387,-65.6955,77,"Thames Centre, ON"
-"Thames Centre, ON",43.0300,-81.0800,89,"Alonsa, MB"
-"Alonsa, MB",50.9794,-99.0796,46,"Allardville, NB"
-"Allardville, NB",47.4321,-65.4383,82,"Bifrost-Riverton, MB"
-"Bifrost-Riverton, MB",51.0603,-97.1436,53,"Roxton Pond, QC"
-"Roxton Pond, QC",45.4833,-72.6667,91,"Enderby, BC"
-"Enderby, BC",50.5508,-119.1397,65,"Sainte-Madeleine, QC"
-"Sainte-Madeleine, QC",45.6000,-73.1000,99,"Candiac, QC"
-"Candiac, QC",45.3800,-73.5200,93,"Flin Flon, SK"
-"Flin Flon, SK",54.7667,-101.8778,50,"Ashfield-Colborne-Wawanosh, ON"
-"Ashfield-Colborne-Wawanosh, ON",43.8667,-81.6000,58,"Nanton, AB"
-"Nanton, AB",50.3494,-113.7717,95,"Sainte-Marie-Madeleine, QC"
-"Sainte-Marie-Madeleine, QC",45.6000,-73.1000,75,"Clarenville, NL"
-"Clarenville, NL",48.1566,-53.9650,41,"Saint-Bonaventure, QC"
-"Saint-Bonaventure, QC",45.9667,-72.6833,31,"Beaconsfield, QC"
-"Beaconsfield, QC",45.4333,-73.8667,82,"Whistler, BC"
-"Whistler, BC",50.1208,-122.9544,45,"Cap-Chat, QC"
-"Cap-Chat, QC",49.1000,-66.6833,89,"Saint-Damase, QC"
-"Saint-Damase, QC",45.5333,-73.0000,51,"Fort Erie, ON"
-"Fort Erie, ON",42.9167,-79.0167,82,"Brockville, ON"
-"Brockville, ON",44.5833,-75.6833,21,"Northesk, NB"
-"Northesk, NB",47.2569,-66.2613,30,"Stephenville, NL"
-"Stephenville, NL",48.5500,-58.5667,11,"Lake Country, BC"
-"Lake Country, BC",50.0833,-119.4142,38,"Spruce Grove, AB"
-"Spruce Grove, AB",53.5450,-113.9008,28,"Admaston/Bromley, ON"
-"Admaston/Bromley, ON",45.5292,-76.8969,97,"Metabetchouan-Lac-a-la-Croix, QC"
-"Metabetchouan-Lac-a-la-Croix, QC",48.4333,-71.8667,82,"Bertrand, NB"
-"Bertrand, NB",47.7622,-65.0686,98,"Delta, BC"
-"Delta, BC",49.0847,-123.0586,65,"Grassland, MB"
-"Grassland, MB",49.4306,-100.3103,24,"Drayton Valley, AB"
-"Drayton Valley, AB",53.2222,-114.9769,47,"Minto-Odanah, MB"
-"Minto-Odanah, MB",50.2406,-99.8056,99,"Rouyn-Noranda, QC"
-"Rouyn-Noranda, QC",48.2333,-79.0167,85,"Cornwall, PE"
-"Cornwall, PE",46.2407,-63.2009,15,"Labelle, QC"
-"Labelle, QC",46.2833,-74.7333,45,"Godmanchester, QC"
-"Godmanchester, QC",45.0800,-74.2500,82,"Addington Highlands, ON"
-"Addington Highlands, ON",45.0000,-77.2500,97,"Warfield, BC"
-"Warfield, BC",49.0953,-117.7344,74,"Saint-Norbert, QC"
-"Saint-Norbert, QC",46.1667,-73.3167,65,"Sioux Narrows-Nestor Falls, ON"
-"Sioux Narrows-Nestor Falls, ON",49.4000,-94.0800,27,"Prescott, ON"
-"Prescott, ON",44.7167,-75.5167,27,"Clarkes Beach, NL"
-"Clarkes Beach, NL",47.5447,-53.2824,86,"Calmar, AB"
-"Calmar, AB",53.2500,-113.7833,27,"Granby, QC"
-"Granby, QC",45.4000,-72.7333,68,"Marathon, ON"
-"Marathon, ON",48.7500,-86.3667,45,"Elton, MB"
-"Elton, MB",49.9750,-99.8658,13,"Prevost, QC"
-"Prevost, QC",45.8700,-74.0800,57,"Cochrane, AB"
-"Cochrane, AB",51.1890,-114.4670,75,"New-Wes-Valley, NL"
-"New-Wes-Valley, NL",49.1500,-53.5833,60,"Saint-Antonin, QC"
-"Saint-Antonin, QC",47.7667,-69.4833,73,"Eel River Crossing, NB"
-"Eel River Crossing, NB",48.0125,-66.4208,44,"Midland, ON"
-"Midland, ON",44.7500,-79.8833,58,"North Grenville, ON"
-"North Grenville, ON",44.9667,-75.6500,20,"Sainte-Clotilde-de-Horton, QC"
-"Sainte-Clotilde-de-Horton, QC",45.9833,-72.2333,90,"Martensville, SK"
-"Martensville, SK",52.2897,-106.6667,40,"Saint-Gedeon-de-Beauce, QC"
-"Saint-Gedeon-de-Beauce, QC",45.8500,-70.6333,27,"Camrose, AB"
-"Camrose, AB",53.0167,-112.8333,78,"Mulmur, ON"
-"Mulmur, ON",44.1917,-80.1083,78,"Kamloops, BC"
-"Kamloops, BC",50.6761,-120.3408,55,"Yamachiche, QC"
-"Yamachiche, QC",46.2667,-72.8333,63,"Burgeo, NL"
-"Burgeo, NL",47.6000,-57.6333,18,"Emerson-Franklin, MB"
-"Emerson-Franklin, MB",49.1333,-97.0331,58,"Papineauville, QC"
-"Papineauville, QC",45.6167,-75.0167,47,"East Gwillimbury, ON"
-"East Gwillimbury, ON",44.1333,-79.4167,42,"Hebertville, QC"
-"Hebertville, QC",48.4000,-71.6833,34,"Ellice-Archie, MB"
-"Ellice-Archie, MB",50.3239,-101.2729,84,"Channel-Port aux Basques, NL"
-"Channel-Port aux Basques, NL",47.5694,-59.1361,43,"Saint-Placide, QC"
-"Saint-Placide, QC",45.5333,-74.2000,12,"Pincher Creek, AB"
-"Pincher Creek, AB",49.4861,-113.9500,96,"Central Manitoulin, ON"
-"Central Manitoulin, ON",45.7167,-82.2000,64,"Bas Caraquet, NB"
-"Bas Caraquet, NB",47.8000,-64.8333,99,"Kedgwick, NB"
-"Kedgwick, NB",47.6456,-67.3431,25,"Wellington, ON"
-"Wellington, ON",43.9579,-77.3534,37,"Papineau-Cameron, ON"
-"Papineau-Cameron, ON",46.3000,-78.7333,63,"Frelighsburg, QC"
-"Frelighsburg, QC",45.0461,-72.8106,81,"Potton, QC"
-"Potton, QC",45.0833,-72.3667,85,"Temiscouata-sur-le-Lac, QC"
-"Temiscouata-sur-le-Lac, QC",47.6800,-68.8800,81,"Oliver, BC"
-"Oliver, BC",49.1844,-119.5500,88,"Saint-Aubert, QC"
-"Saint-Aubert, QC",47.1833,-70.2167,28,"Sainte-Cecile-de-Milton, QC"
-"Sainte-Cecile-de-Milton, QC",45.4833,-72.7500,18,"Ste. Rose, MB"
-"Ste. Rose, MB",51.0222,-99.4306,31,"Saint-Alexandre-de-Kamouraska, QC"
-"Saint-Alexandre-de-Kamouraska, QC",47.6817,-69.6250,15,"Mandeville, QC"
-"Mandeville, QC",46.3667,-73.3500,89,"Saint-Mathieu-de-Beloeil, QC"
-"Saint-Mathieu-de-Beloeil, QC",45.5667,-73.2000,51,"Fruitvale, BC"
-"Fruitvale, BC",49.1161,-117.5414,84,"Montague, ON"
-"Montague, ON",44.9667,-75.9667,33,"Wadena, SK"
-"Wadena, SK",51.9458,-103.8014,59,"Stanstead, QC"
-"Stanstead, QC",45.0167,-72.1000,94,"Sainte-Anne-de-Sabrevois, QC"
-"Sainte-Anne-de-Sabrevois, QC",45.2000,-73.2167,56,"Bluewater, ON"
-"Bluewater, ON",43.4500,-81.6000,79,"Chibougamau, QC"
-"Chibougamau, QC",49.9167,-74.3667,42,"Pointe-Calumet, QC"
-"Pointe-Calumet, QC",45.5000,-73.9700,75,"Tweed, ON"
-"Tweed, ON",44.6000,-77.3333,45,"Callander, ON"
-"Callander, ON",46.1781,-79.4125,37,"Deux-Montagnes, QC"
-"Deux-Montagnes, QC",45.5333,-73.8833,45,"Chambord, QC"
-"Chambord, QC",48.4333,-72.0667,22,"Esterhazy, SK"
-"Esterhazy, SK",50.6500,-102.0667,39,"St.-Charles, ON"
-"St.-Charles, ON",46.3422,-80.4497,33,"Saint-Alexis, QC"
-"Saint-Alexis, QC",45.9333,-73.6167,16,"Larouche, QC"
-"Larouche, QC",48.4500,-71.5167,35,"East Angus, QC"
-"East Angus, QC",45.4833,-71.6667,66,"Gibsons, BC"
-"Gibsons, BC",49.4028,-123.5036,26,"Tofield, AB"
-"Tofield, AB",53.3703,-112.6667,79,"East Ferris, ON"
-"East Ferris, ON",46.2667,-79.3000,37,"St. Laurent, MB"
-"St. Laurent, MB",50.4300,-97.7933,37,"Pelican Narrows, SK"
-"Pelican Narrows, SK",55.1883,-102.9342,52,"Saint-Laurent-de-l'Ile-d'Orleans, QC"
-"Saint-Laurent-de-l'Ile-d'Orleans, QC",46.8667,-71.0167,93,"Chertsey, QC"
-"Chertsey, QC",46.1700,-73.9200,64,"Roxton-Sud, QC"
-"Roxton-Sud, QC",45.5521,-72.5265,11,"La Guadeloupe, QC"
-"La Guadeloupe, QC",45.9500,-70.9300,78,"La Sarre, QC"
-"La Sarre, QC",48.8000,-79.2000,16,"Halton Hills, ON"
-"Halton Hills, ON",43.6300,-79.9500,76,"Pelham, ON"
-"Pelham, ON",43.0333,-79.3333,95,"South Qu'Appelle No. 157, SK"
-"South Qu'Appelle No. 157, SK",50.5389,-104.0141,82,"Henryville, QC"
-"Henryville, QC",45.1333,-73.1833,72,"Kelowna, BC"
-"Kelowna, BC",49.8881,-119.4956,70,"Hamilton Township, ON"
-"Hamilton Township, ON",44.0540,-78.2164,44,"Povungnituk, QC"
-"Povungnituk, QC",60.0477,-77.2751,20,"North Frontenac, ON"
-"North Frontenac, ON",44.9500,-76.9000,92,"Stellarton, NS"
-"Stellarton, NS",45.5567,-62.6600,92,"Saint-Zacharie, QC"
-"Saint-Zacharie, QC",46.1333,-70.3667,44,"Hastings Highlands, ON"
-"Hastings Highlands, ON",45.2333,-77.9333,24,"Massey Drive, NL"
-"Massey Drive, NL",48.9372,-57.9000,11,"Saint-Felix-de-Valois, QC"
-"Saint-Felix-de-Valois, QC",46.1700,-73.4300,37,"Brenda-Waskada, MB"
-"Brenda-Waskada, MB",49.1775,-100.7019,11,"Grand Forks, BC"
-"Grand Forks, BC",49.0333,-118.4400,33,"Saint-Norbert-d'Arthabaska, QC"
-"Saint-Norbert-d'Arthabaska, QC",46.1000,-71.8167,15,"Minnedosa, MB"
-"Minnedosa, MB",50.2453,-99.8428,96,"Blackfalds, AB"
-"Blackfalds, AB",52.3833,-113.8000,28,"Augusta, ON"
-"Augusta, ON",44.7511,-75.6003,85,"Saint-Lazare-de-Bellechasse, QC"
-"Saint-Lazare-de-Bellechasse, QC",46.6500,-70.8000,38,"Beaubassin East / Beaubassin-est, NB"
-"Beaubassin East / Beaubassin-est, NB",46.1726,-64.3122,99,"Richmond, NB"
-"Richmond, NB",46.0776,-67.7248,24,"Sackville, NB"
-"Sackville, NB",45.9000,-64.3667,50,"Peachland, BC"
-"Peachland, BC",49.7736,-119.7369,48,"Sundre, AB"
-"Sundre, AB",51.7972,-114.6406,78,"Quesnel, BC"
-"Quesnel, BC",52.9784,-122.4927,59,"Saugeen Shores, ON"
-"Saugeen Shores, ON",44.4333,-81.3667,59,"Hudson Hope, BC"
-"Hudson Hope, BC",56.0316,-121.9057,10,"Tres-Saint-Sacrement, QC"
-"Tres-Saint-Sacrement, QC",45.1833,-73.8500,84,"Saint Marys, NB"
-"Saint Marys, NB",46.1748,-66.4897,21,"Collingwood, ON"
-"Collingwood, ON",44.5000,-80.2167,10,"Saint-Paul-d'Abbotsford, QC"
-"Saint-Paul-d'Abbotsford, QC",45.4333,-72.8833,52,"Central Saanich, BC"
-"Central Saanich, BC",48.5142,-123.3839,27,"Chisholm, ON"
-"Chisholm, ON",46.1000,-79.2333,88,"Brebeuf, QC"
-"Brebeuf, QC",46.0667,-74.6667,36,"Fox Creek, AB"
-"Fox Creek, AB",54.3950,-116.8092,18,"Argyle, NS"
-"Argyle, NS",43.8000,-65.8500,62,"Clearwater, BC"
-"Clearwater, BC",51.6500,-120.0333,64,"White Rock, BC"
-"White Rock, BC",49.0250,-122.8028,28,"St. George's, NL"
-"St. George's, NL",48.4275,-58.4778,52,"Lac-au-Saumon, QC"
-"Lac-au-Saumon, QC",48.4167,-67.3500,73,"Turner Valley, AB"
-"Turner Valley, AB",50.6739,-114.2786,29,"Trenton, NS"
-"Trenton, NS",45.6193,-62.6332,99,"Notre-Dame-de-Lourdes, QC"
-"Notre-Dame-de-Lourdes, QC",46.1000,-73.4333,28,"Saint-Mathias-sur-Richelieu, QC"
-"Saint-Mathias-sur-Richelieu, QC",45.4667,-73.2667,30,"Langenburg, SK"
-"Langenburg, SK",50.8333,-101.7000,82,"Springdale, NL"
-"Springdale, NL",49.4974,-56.0727,18,"Magrath, AB"
-"Magrath, AB",49.4239,-112.8683,28,"Grande Cache, AB"
-"Grande Cache, AB",53.8773,-119.1199,25,"Berthier-sur-Mer, QC"
-"Berthier-sur-Mer, QC",46.9167,-70.7333,78,"Roxton Falls, QC"
-"Roxton Falls, QC",45.5667,-72.5167,22,"Dunham, QC"
-"Dunham, QC",45.1333,-72.8000,96,"Saint-Constant, QC"
-"Saint-Constant, QC",45.3700,-73.5700,53,"Lajord No. 128, SK"
-"Lajord No. 128, SK",50.1965,-104.2507,93,"Saint David, NB"
-"Saint David, NB",45.2918,-67.1983,23,"Pipestone, MB"
-"Pipestone, MB",49.6653,-101.1444,69,"Langley, BC"
-"Langley, BC",49.1044,-122.5827,32,"Tay, ON"
-"Tay, ON",44.7167,-79.7667,83,"Saint-Charles-sur-Richelieu, QC"
-"Saint-Charles-sur-Richelieu, QC",45.6833,-73.1833,23,"Onoway, AB"
-"Onoway, AB",53.7011,-114.1981,24,"Rossland, BC"
-"Rossland, BC",49.0786,-117.7992,68,"Morris, MB"
-"Morris, MB",49.3986,-97.4592,68,"Arran-Elderslie, ON"
-"Arran-Elderslie, ON",44.4000,-81.2000,78,"Saint-Francois-du-Lac, QC"
-"Saint-Francois-du-Lac, QC",46.0667,-72.8333,99,"Dalmeny, SK"
-"Dalmeny, SK",52.3411,-106.7733,18,"Beaupre, QC"
-"Beaupre, QC",47.0500,-70.9000,94,"Renfrew, ON"
-"Renfrew, ON",45.4717,-76.6831,17,"Cape Dorset, NU"
-"Cape Dorset, NU",64.2237,-76.5405,86,"Air Ronge, SK"
-"Air Ronge, SK",55.0872,-105.3318,18,"Sainte-Jeanne-d'Arc, QC"
-"Sainte-Jeanne-d'Arc, QC",48.8575,-72.0939,72,"Beaumont, AB"
-"Beaumont, AB",53.3572,-113.4147,23,"Bay Roberts, NL"
-"Bay Roberts, NL",47.5847,-53.2783,90,"Farnham, QC"
-"Farnham, QC",45.2833,-72.9833,72,"Weyburn, SK"
-"Weyburn, SK",49.6611,-103.8525,84,"Saint-Apollinaire, QC"
-"Saint-Apollinaire, QC",46.6167,-71.5167,36,"Coaldale, AB"
-"Coaldale, AB",49.7333,-112.6167,25,"Burlington, ON"
-"Burlington, ON",43.3167,-79.8000,16,"Squamish, BC"
-"Squamish, BC",49.7017,-123.1589,46,"Pointe-Claire, QC"
-"Pointe-Claire, QC",45.4500,-73.8167,91,"Erin, ON"
-"Erin, ON",43.7667,-80.0667,99,"Edwardsburgh/Cardinal, ON"
-"Edwardsburgh/Cardinal, ON",44.8333,-75.5000,69,"Timmins, ON"
-"Timmins, ON",48.4667,-81.3333,94,"Saint-Edouard-de-Lotbiniere, QC"
-"Saint-Edouard-de-Lotbiniere, QC",46.5667,-71.8333,28,"Fort St. John, BC"
-"Fort St. John, BC",56.2465,-120.8476,31,"North Huron, ON"
-"North Huron, ON",43.8300,-81.4200,91,"Riding Mountain West, MB"
-"Riding Mountain West, MB",50.8347,-101.0961,72,"Deschambault, QC"
-"Deschambault, QC",46.6436,-72.0236,77,"Northern Rockies, BC"
-"Northern Rockies, BC",59.0000,-123.7500,82,"Boischatel, QC"
-"Boischatel, QC",46.9000,-71.1500,12,"Cobourg, ON"
-"Cobourg, ON",43.9667,-78.1667,86,"Huntsville, ON"
-"Huntsville, ON",45.3333,-79.2167,47,"Saint-Casimir, QC"
-"Saint-Casimir, QC",46.6500,-72.1333,90,"Chatsworth, ON"
-"Chatsworth, ON",44.3800,-80.8700,52,"Saint-Felicien, QC"
-"Saint-Felicien, QC",48.6500,-72.4500,37,"Kent, BC"
-"Kent, BC",49.2833,-121.7500,34,"Pierreville, QC"
-"Pierreville, QC",46.0667,-72.8167,99,"Sainte-Anne-de-Beaupre, QC"
-"Sainte-Anne-de-Beaupre, QC",47.0167,-70.9333,50,"Saint-Patrice-de-Beaurivage, QC"
-"Saint-Patrice-de-Beaurivage, QC",46.4167,-71.2333,79,"Taber, AB"
-"Taber, AB",49.7847,-112.1508,58,"Burns Lake, BC"
-"Burns Lake, BC",54.2292,-125.7625,37,"Lac-Megantic, QC"
-"Lac-Megantic, QC",45.5833,-70.8833,44,"Riverdale, MB"
-"Riverdale, MB",49.9750,-100.2789,10,"Trois-Rivieres, QC"
-"Trois-Rivieres, QC",46.3500,-72.5500,48,"Strathroy-Caradoc, ON"
-"Strathroy-Caradoc, ON",42.9575,-81.6167,37,"Telkwa, BC"
-"Telkwa, BC",54.6972,-127.0500,70,"Wedgeport, NS"
-"Wedgeport, NS",43.7323,-65.9797,61,"Sainte-Anne-de-Sorel, QC"
-"Sainte-Anne-de-Sorel, QC",46.0500,-73.0667,50,"Piney, MB"
-"Piney, MB",49.2069,-95.8333,11,"Sainte-Clotilde, QC"
-"Sainte-Clotilde, QC",45.1500,-73.6833,56,"North Dumfries, ON"
-"North Dumfries, ON",43.3200,-80.3800,18,"Oliver Paipoonge, ON"
-"Oliver Paipoonge, ON",48.3900,-89.5200,23,"Grimsby, ON"
-"Grimsby, ON",43.2000,-79.5500,20,"Labrecque, QC"
-"Labrecque, QC",48.6667,-71.5333,97,"Saint John, NB"
-"Saint John, NB",45.2806,-66.0761,59,"Amos, QC"
-"Amos, QC",48.5667,-78.1167,39,"La Malbaie, QC"
-"La Malbaie, QC",47.6500,-70.1500,23,"Alma, QC"
-"Alma, QC",48.5500,-71.6500,72,"Essex, ON"
-"Essex, ON",42.0833,-82.9000,92,"East Garafraxa, ON"
-"East Garafraxa, ON",43.8500,-80.2500,52,"Deloraine-Winchester, MB"
-"Deloraine-Winchester, MB",49.1775,-100.4322,24,"Saint-Joseph, NB"
-"Saint-Joseph, NB",47.5580,-68.3082,68,"Valemount, BC"
-"Valemount, BC",52.8284,-119.2659,56,"Saint-Georges-de-Clarenceville, QC"
-"Saint-Georges-de-Clarenceville, QC",45.0667,-73.2500,26,"Sainte-Genevieve-de-Batiscan, QC"
-"Sainte-Genevieve-de-Batiscan, QC",46.5333,-72.3333,77,"Abbotsford, BC"
-"Abbotsford, BC",49.0500,-122.3167,51,"Morinville, AB"
-"Morinville, AB",53.8022,-113.6497,33,"Pinehouse, SK"
-"Pinehouse, SK",55.5136,-106.5986,30,"Rigaud, QC"
-"Rigaud, QC",45.4833,-74.3000,12,"Rockwood, MB"
-"Rockwood, MB",50.2856,-97.2869,34,"Campbell River, BC"
-"Campbell River, BC",50.0244,-125.2475,27,"Gaspe, QC"
-"Gaspe, QC",48.8333,-64.4833,28,"L'Ancienne-Lorette, QC"
-"L'Ancienne-Lorette, QC",46.8000,-71.3500,49,"Youbou, BC"
-"Youbou, BC",48.8562,-124.1731,37,"Saint-Rene-de-Matane, QC"
-"Saint-Rene-de-Matane, QC",48.7000,-67.3833,83,"Sicamous, BC"
-"Sicamous, BC",50.8378,-118.9703,25,"High River, AB"
-"High River, AB",50.5808,-113.8744,12,"La Broquerie, MB"
-"La Broquerie, MB",49.3994,-96.5103,84,"L'Isle-aux-Allumettes, QC"
-"L'Isle-aux-Allumettes, QC",45.8667,-77.0667,94,"Saint-Francois-de-la-Riviere-du-Sud, QC"
-"Saint-Francois-de-la-Riviere-du-Sud, QC",46.8833,-70.7167,97,"Ethelbert, MB"
-"Ethelbert, MB",51.5364,-100.4981,61,"Saint-Leon-de-Standon, QC"
-"Saint-Leon-de-Standon, QC",46.4833,-70.6167,13,"Carstairs, AB"
-"Carstairs, AB",51.5619,-114.0953,62,"Brudenell, Lyndoch and Raglan, ON"
-"Brudenell, Lyndoch and Raglan, ON",45.3167,-77.4000,32,"Macdonald, Meredith and Aberdeen Additional, ON"
-"Macdonald, Meredith and Aberdeen Additional, ON",46.4833,-84.0667,50,"Osoyoos, BC"
-"Osoyoos, BC",49.0325,-119.4661,91,"Powerview-Pine Falls, MB"
-"Powerview-Pine Falls, MB",50.5661,-96.1981,34,"Bright, NB"
-"Bright, NB",46.1205,-67.0545,20,"Cleveland, QC"
-"Cleveland, QC",45.6700,-72.0800,97,"Shawinigan, QC"
-"Shawinigan, QC",46.5667,-72.7500,50,"Windsor, NS"
-"Windsor, NS",44.9803,-64.1292,22,"Shelburne, NS"
-"Shelburne, NS",43.7633,-65.3236,67,"Lakeview, BC"
-"Lakeview, BC",49.9026,-119.5699,77,"Grindrod, BC"
-"Grindrod, BC",50.6300,-119.1314,86,"Fort Smith, NT"
-"Fort Smith, NT",60.0260,-112.0821,81,"Blandford-Blenheim, ON"
-"Blandford-Blenheim, ON",43.2333,-80.6000,95,"Inukjuak, QC"
-"Inukjuak, QC",58.4824,-78.1309,74,"Prairie View, MB"
-"Prairie View, MB",50.3304,-100.9803,28,"Melfort, SK"
-"Melfort, SK",52.8564,-104.6100,35,"McMasterville, QC"
-"McMasterville, QC",45.5500,-73.2333,23,"Harbour Grace, NL"
-"Harbour Grace, NL",47.6917,-53.2167,68,"Brampton, ON"
-"Brampton, ON",43.6833,-79.7667,81,"Jasper, AB"
-"Jasper, AB",52.9013,-118.1312,62,"Hensall, ON"
-"Hensall, ON",43.4345,-81.5040,92,"Piedmont, QC"
-"Piedmont, QC",45.9000,-74.1300,64,"Marystown, NL"
-"Marystown, NL",47.1667,-55.1667,23,"Pouch Cove, NL"
-"Pouch Cove, NL",47.7670,-52.7670,91,"Saint-Leonard-d'Aston, QC"
-"Saint-Leonard-d'Aston, QC",46.1000,-72.3667,28,"Spiritwood No. 496, SK"
-"Spiritwood No. 496, SK",53.4435,-107.4495,48,"Yorkton, SK"
-"Yorkton, SK",51.2139,-102.4628,10,"Waldheim, SK"
-"Waldheim, SK",52.6500,-106.6167,11,"Lac-des-Ecorces, QC"
-"Lac-des-Ecorces, QC",46.5500,-75.3500,33,"Powassan, ON"
-"Powassan, ON",46.0825,-79.3619,72,"Sainte-Anne-de-Bellevue, QC"
-"Sainte-Anne-de-Bellevue, QC",45.4039,-73.9525,95,"Sept-Iles, QC"
-"Sept-Iles, QC",50.2167,-66.3833,59,"Notre-Dame-du-Laus, QC"
-"Notre-Dame-du-Laus, QC",46.0833,-75.6167,36,"Lions Bay, BC"
-"Lions Bay, BC",49.4581,-123.2369,32,"Malpeque, PE"
-"Malpeque, PE",46.5000,-63.6667,26,"Sainte-Genevieve-de-Berthier, QC"
-"Sainte-Genevieve-de-Berthier, QC",46.0833,-73.2167,16,"One Hundred Mile House, BC"
-"One Hundred Mile House, BC",51.6413,-121.3127,16,"Rankin Inlet, NU"
-"Rankin Inlet, NU",62.8300,-92.1321,27,"Glenelg, NB"
-"Glenelg, NB",46.9455,-65.2893,74,"Bentley, AB"
-"Bentley, AB",52.4667,-114.0500,70,"Victoria, MB"
-"Victoria, MB",49.6644,-98.9153,85,"Winnipeg, MB"
-"Winnipeg, MB",49.8844,-97.1464,22,"Windsor, QC"
-"Windsor, QC",45.5667,-72.0000,80,"Prairie Lakes, MB"
-"Prairie Lakes, MB",49.4034,-99.6298,13,"Montreal, QC"
-"Montreal, QC",45.5089,-73.5617,29,"Essa, ON"
-"Essa, ON",44.2500,-79.7833,39,"Hudson, QC"
-"Hudson, QC",45.4500,-74.1500,25,"Saint-Zotique, QC"
-"Saint-Zotique, QC",45.2500,-74.2500,54,"Carberry, MB"
-"Carberry, MB",49.8689,-99.3594,62,"Les Iles-de-la-Madeleine, QC"
-"Les Iles-de-la-Madeleine, QC",47.3833,-61.8667,50,"Alberton, PE"
-"Alberton, PE",46.8167,-64.0667,48,"Brock, ON"
-"Brock, ON",44.3167,-79.0833,20,"Port Hope, ON"
-"Port Hope, ON",43.9500,-78.3000,73,"Saint-Ambroise-de-Kildare, QC"
-"Saint-Ambroise-de-Kildare, QC",46.0833,-73.5500,58,"Westville, NS"
-"Westville, NS",45.5500,-62.7000,70,"Bayfield, ON"
-"Bayfield, ON",43.5615,-81.6983,94,"Saint-Ours, QC"
-"Saint-Ours, QC",45.8833,-73.1500,95,"Magog, QC"
-"Magog, QC",45.2667,-72.1500,73,"Lucan Biddulph, ON"
-"Lucan Biddulph, ON",43.2000,-81.3833,74,"Neuville, QC"
-"Neuville, QC",46.7000,-71.5833,49,"Saint-Urbain, QC"
-"Saint-Urbain, QC",47.5500,-70.5333,51,"Westmount, QC"
-"Westmount, QC",45.4833,-73.6000,54,"Kirkland, QC"
-"Kirkland, QC",45.4500,-73.8667,12,"Argyle, MB"
-"Argyle, MB",49.3697,-99.1506,39,"Pointe-Lebel, QC"
-"Pointe-Lebel, QC",49.1667,-68.2000,43,"Saint-Ferdinand, QC"
-"Saint-Ferdinand, QC",46.1000,-71.5667,17,"Montreal-Est, QC"
-"Montreal-Est, QC",45.6300,-73.5200,70,"Conception Bay South, NL"
-"Conception Bay South, NL",47.5167,-52.9833,17,"Saint-Roch-de-l'Achigan, QC"
-"Saint-Roch-de-l'Achigan, QC",45.8500,-73.6000,26,"Macdonald, MB"
-"Macdonald, MB",49.6725,-97.4472,47,"Sainte-Justine, QC"
-"Sainte-Justine, QC",46.4000,-70.3500,24,"Salluit, QC"
-"Salluit, QC",62.2013,-75.6337,75,"Saint-Patrice-de-Sherrington, QC"
-"Saint-Patrice-de-Sherrington, QC",45.1667,-73.5167,65,"Port Hawkesbury, NS"
-"Port Hawkesbury, NS",45.6153,-61.3642,95,"Sainte-Agathe-de-Lotbiniere, QC"
-"Sainte-Agathe-de-Lotbiniere, QC",46.3833,-71.4167,85,"Temiscaming, QC"
-"Temiscaming, QC",46.7167,-79.1000,26,"Mattawa, ON"
-"Mattawa, ON",46.3167,-78.7000,59,"Richmond, QC"
-"Richmond, QC",45.6667,-72.1500,97,"Wabasca, AB"
-"Wabasca, AB",55.9855,-113.8566,37,"Saint-Jerome, QC"
-"Saint-Jerome, QC",45.7833,-74.0000,44,"Dildo, NL"
-"Dildo, NL",47.5685,-53.5471,44,"Montmagny, QC"
-"Montmagny, QC",46.9833,-70.5500,94,"Dorchester, NB"
-"Dorchester, NB",45.9016,-64.5161,26,"Greater Madawaska, ON"
-"Greater Madawaska, ON",45.2722,-76.8589,51,"Prince George, BC"
-"Prince George, BC",53.9169,-122.7494,43,"Kentville, NS"
-"Kentville, NS",45.0775,-64.4958,48,"Saint-Narcisse-de-Rimouski, QC"
-"Saint-Narcisse-de-Rimouski, QC",48.2800,-68.4300,95,"Brantford, ON"
-"Brantford, ON",43.1667,-80.2500,70,"Sainte-Beatrix, QC"
-"Sainte-Beatrix, QC",46.2000,-73.6167,67,"West Perth, ON"
-"West Perth, ON",43.4700,-81.2000,67,"Sainte-Anne-des-Lacs, QC"
-"Sainte-Anne-des-Lacs, QC",45.8500,-74.1333,30,"Saint-Guillaume, QC"
-"Saint-Guillaume, QC",45.8833,-72.7667,69,"Lloydminster, SK"
-"Lloydminster, SK",53.2783,-110.0050,34,"Saint-Charles-Borromee, QC"
-"Saint-Charles-Borromee, QC",46.0500,-73.4667,33,"Fortune, NL"
-"Fortune, NL",47.0733,-55.8217,11,"Queens, NS"
-"Queens, NS",44.0333,-64.7167,11,"Balmoral, NB"
-"Balmoral, NB",47.9667,-66.4500,83,"Baie-Comeau, QC"
-"Baie-Comeau, QC",49.2167,-68.1500,31,"Saint-Ubalde, QC"
-"Saint-Ubalde, QC",46.7500,-72.2667,83,"Lake of Bays, ON"
-"Lake of Bays, ON",45.3043,-79.0180,39,"Conestogo, ON"
-"Conestogo, ON",43.5441,-80.4997,42,"Richelieu, QC"
-"Richelieu, QC",45.4500,-73.2500,29,"Coverdale, NB"
-"Coverdale, NB",46.0003,-64.8859,50,"South Huron, ON"
-"South Huron, ON",43.3200,-81.5000,86,"Cardwell, NB"
-"Cardwell, NB",45.7848,-65.3037,92,"Guelph, ON"
-"Guelph, ON",43.5500,-80.2500,58,"Lebel-sur-Quevillon, QC"
-"Lebel-sur-Quevillon, QC",49.0500,-76.9833,54,"Oro-Medonte, ON"
-"Oro-Medonte, ON",44.5667,-79.5833,27,"Saint-Esprit, QC"
-"Saint-Esprit, QC",45.9000,-73.6667,74,"Saint-Sauveur, QC"
-"Saint-Sauveur, QC",45.9000,-74.1700,32,"Saint-Raymond, QC"
-"Saint-Raymond, QC",46.9000,-71.8333,98,"Saint-Ambroise, QC"
-"Saint-Ambroise, QC",48.5500,-71.3333,95,"Whitby, ON"
-"Whitby, ON",43.8833,-78.9417,13,"Saint-Valere, QC"
-"Saint-Valere, QC",46.0667,-72.1000,30,"De Salaberry, MB"
-"De Salaberry, MB",49.4403,-96.9844,81,"Medicine Hat, AB"
-"Medicine Hat, AB",50.0417,-110.6775,70,"Whitehead, MB"
-"Whitehead, MB",49.7981,-100.2575,55,"Saint-Augustin-de-Desmaures, QC"
-"Saint-Augustin-de-Desmaures, QC",46.7333,-71.4667,78,"Douglas, NB"
-"Douglas, NB",46.2819,-66.9420,79,"Shippegan, NB"
-"Shippegan, NB",47.7439,-64.7178,39,"Metchosin, BC"
-"Metchosin, BC",48.3819,-123.5378,28,"Saint-Anselme, QC"
-"Saint-Anselme, QC",46.6333,-70.9667,11,"Brant, ON"
-"Brant, ON",43.1167,-80.3667,79,"Parrsboro, NS"
-"Parrsboro, NS",45.3998,-64.3312,21,"Val-Morin, QC"
-"Val-Morin, QC",46.0000,-74.1800,27,"Canwood No. 494, SK"
-"Canwood No. 494, SK",53.4574,-106.7768,24,"North Saanich, BC"
-"North Saanich, BC",48.6142,-123.4200,96,"Sioux Lookout, ON"
-"Sioux Lookout, ON",50.1000,-91.9167,93,"Harbour Breton, NL"
-"Harbour Breton, NL",47.4833,-55.8333,24,"Vercheres, QC"
-"Vercheres, QC",45.7833,-73.3500,50,"Leeds and the Thousand Islands, ON"
-"Leeds and the Thousand Islands, ON",44.4500,-76.0800,27,"Les Mechins, QC"
-"Les Mechins, QC",49.0000,-66.9833,12,"Sainte-Lucie-des-Laurentides, QC"
-"Sainte-Lucie-des-Laurentides, QC",46.1300,-74.1800,59,"Puslinch, ON"
-"Puslinch, ON",43.4500,-80.1667,47,"Saint-Cyprien, QC"
-"Saint-Cyprien, QC",47.9000,-69.0167,24,"Grand Bank, NL"
-"Grand Bank, NL",47.1000,-55.7833,91,"Yamaska-Est, QC"
-"Yamaska-Est, QC",46.0000,-72.9200,87,"Florenceville, NB"
-"Florenceville, NB",46.4435,-67.6152,69,"Calgary, AB"
-"Calgary, AB",51.0500,-114.0667,95,"Saint-Charles, NB"
-"Saint-Charles, NB",46.6692,-65.0184,16,"Huron East, ON"
-"Huron East, ON",43.6300,-81.2800,81,"Kindersley, SK"
-"Kindersley, SK",51.4678,-109.1567,86,"Lewisporte, NL"
-"Lewisporte, NL",49.2300,-55.0700,32,"Emo, ON"
-"Emo, ON",48.6333,-93.8333,96,"Boissevain, MB"
-"Boissevain, MB",49.1779,-100.0955,84,"North Cypress-Langford, MB"
-"North Cypress-Langford, MB",49.9969,-99.3982,24,"Sainte-Martine, QC"
-"Sainte-Martine, QC",45.2500,-73.8000,41,"Saint-Joseph-du-Lac, QC"
-"Saint-Joseph-du-Lac, QC",45.5333,-74.0000,52,"Trent Lakes, ON"
-"Trent Lakes, ON",44.6667,-78.4333,84,"Saints-Anges, QC"
-"Saints-Anges, QC",46.4167,-70.8833,67,"Saint-Thomas, QC"
-"Saint-Thomas, QC",46.0167,-73.3500,29,"Sainte-Anne-du-Sault, QC"
-"Sainte-Anne-du-Sault, QC",46.1733,-72.1415,12,"La Dore, QC"
-"La Dore, QC",48.7200,-72.6500,96,"Chatham, ON"
-"Chatham, ON",42.4229,-82.1324,74,"North Bay, ON"
-"North Bay, ON",46.3000,-79.4500,93,"Saint-Pierre-de-l'Ile-d'Orleans, QC"
-"Saint-Pierre-de-l'Ile-d'Orleans, QC",46.8833,-71.0667,68,"Upper Island Cove, NL"
-"Upper Island Cove, NL",47.6472,-53.2233,43,"Hillsburg-Roblin-Shell River, MB"
-"Hillsburg-Roblin-Shell River, MB",51.3343,-101.2929,98,"Manners Sutton, NB"
-"Manners Sutton, NB",45.6417,-67.0609,43,"Saint-Michel-du-Squatec, QC"
-"Saint-Michel-du-Squatec, QC",47.8800,-68.7200,87,"Grande-Riviere, QC"
-"Grande-Riviere, QC",48.4000,-64.5000,56,"Champlain, ON"
-"Champlain, ON",45.5333,-74.6500,74,"Huntingdon, QC"
-"Huntingdon, QC",45.0800,-74.1700,95,"Britannia No. 502, SK"
-"Britannia No. 502, SK",53.4236,-109.7772,12,"Stukely-Sud, QC"
-"Stukely-Sud, QC",45.3167,-72.4167,21,"Shellbrook, SK"
-"Shellbrook, SK",53.2167,-106.4000,32,"Bowden, AB"
-"Bowden, AB",51.9306,-114.0256,70,"South Frontenac, ON"
-"South Frontenac, ON",44.5081,-76.4939,44,"Lavaltrie, QC"
-"Lavaltrie, QC",45.8833,-73.2833,14,"Lakeshore, ON"
-"Lakeshore, ON",42.2399,-82.6511,20,"Nipawin No. 487, SK"
-"Nipawin No. 487, SK",53.2881,-104.0544,24,"Sechelt, BC"
-"Sechelt, BC",49.4742,-123.7542,88,"Beauharnois, QC"
-"Beauharnois, QC",45.3200,-73.8700,13,"Killarney - Turtle Mountain, MB"
-"Killarney - Turtle Mountain, MB",49.1775,-99.6906,29,"Manitouwadge, ON"
-"Manitouwadge, ON",49.1333,-85.8333,95,"Moose Jaw, SK"
-"Moose Jaw, SK",50.3933,-105.5519,87,"Plympton-Wyoming, ON"
-"Plympton-Wyoming, ON",43.0167,-82.0833,56,"Saint-Hubert-de-Riviere-du-Loup, QC"
-"Saint-Hubert-de-Riviere-du-Loup, QC",47.8167,-69.1500,40,"Tillsonburg, ON"
-"Tillsonburg, ON",42.8667,-80.7333,69,"Laird No. 404, SK"
-"Laird No. 404, SK",52.5696,-106.7312,67,"Sainte-Adele, QC"
-"Sainte-Adele, QC",45.9500,-74.1300,12,"Deep River, ON"
-"Deep River, ON",46.1000,-77.4917,77,"Bayham, ON"
-"Bayham, ON",42.7333,-80.7833,28,"Upton, QC"
-"Upton, QC",45.6500,-72.6833,21,"Logy Bay-Middle Cove-Outer Cove, NL"
-"Logy Bay-Middle Cove-Outer Cove, NL",47.6300,-52.6800,54,"Oak Bay, BC"
-"Oak Bay, BC",48.4264,-123.3228,87,"Edmonton, AB"
-"Edmonton, AB",53.5344,-113.4903,48,"Bay Bulls, NL"
-"Bay Bulls, NL",47.3158,-52.8103,55,"East St. Paul, MB"
-"East St. Paul, MB",49.9772,-97.0103,39,"Wasagamack, MB"
-"Wasagamack, MB",53.9056,-94.9412,71,"Saint-Hippolyte, QC"
-"Saint-Hippolyte, QC",45.9300,-74.0200,27,"Saint-Maxime-du-Mont-Louis, QC"
-"Saint-Maxime-du-Mont-Louis, QC",49.2333,-65.7333,29,"Sorrento, BC"
-"Sorrento, BC",50.8832,-119.4782,26,"West Interlake, MB"
-"West Interlake, MB",50.9837,-98.3572,70,"Berthierville, QC"
-"Berthierville, QC",46.0833,-73.1833,64,"Woodlands, MB"
-"Woodlands, MB",50.2408,-97.7358,58,"Stratford, PE"
-"Stratford, PE",46.2167,-63.0893,90,"Saint-Hilarion, QC"
-"Saint-Hilarion, QC",47.5667,-70.4000,33,"South River, ON"
-"South River, ON",45.8417,-79.3750,75,"Taloyoak, NU"
-"Taloyoak, NU",69.5554,-93.4972,15,"Pincourt, QC"
-"Pincourt, QC",45.3833,-73.9833,77,"Sainte-Petronille, QC"
-"Sainte-Petronille, QC",46.8500,-71.1333,70,"Sainte-Henedine, QC"
-"Sainte-Henedine, QC",46.5500,-70.9833,65,"La Pocatiere, QC"
-"La Pocatiere, QC",47.3667,-70.0333,99,"Claresholm, AB"
-"Claresholm, AB",50.0194,-113.5783,11,"West Nipissing / Nipissing Ouest, ON"
-"West Nipissing / Nipissing Ouest, ON",46.3667,-79.9167,22,"Saint-Simon, QC"
-"Saint-Simon, QC",45.7190,-72.8463,86,"Asphodel-Norwood, ON"
-"Asphodel-Norwood, ON",44.3531,-78.0183,60,"Grunthal, MB"
-"Grunthal, MB",49.4065,-96.8603,98,"Belledune, NB"
-"Belledune, NB",47.9000,-65.8167,81,"Marieville, QC"
-"Marieville, QC",45.4333,-73.1667,59,"Happy Valley, NL"
-"Happy Valley, NL",53.3396,-60.4467,39,"Legal, AB"
-"Legal, AB",53.9492,-113.5950,31,"Ritchot, MB"
-"Ritchot, MB",49.6647,-97.1167,79,"Wicklow, NB"
-"Wicklow, NB",46.5017,-67.7067,65,"Beckwith, ON"
-"Beckwith, ON",45.0833,-76.0667,52,"Didsbury, AB"
-"Didsbury, AB",51.6658,-114.1311,32,"Brossard, QC"
-"Brossard, QC",45.4667,-73.4500,62,"Saint-Prosper, QC"
-"Saint-Prosper, QC",46.2167,-70.4833,14,"Cold Lake, AB"
-"Cold Lake, AB",54.4642,-110.1825,81,"Saint-Boniface, QC"
-"Saint-Boniface, QC",46.5000,-72.8167,22,"L'Epiphanie, QC"
-"L'Epiphanie, QC",45.8500,-73.4833,17,"North Battleford, SK"
-"North Battleford, SK",52.7575,-108.2861,38,"New Maryland, NB"
-"New Maryland, NB",45.8911,-66.6847,38,"Saint-Cyprien-de-Napierville, QC"
-"Saint-Cyprien-de-Napierville, QC",45.1833,-73.4167,89,"The Pas, MB"
-"The Pas, MB",53.8250,-101.2533,89,"St. Marys, ON"
-"St. Marys, ON",43.2583,-81.1333,36,"Ascot Corner, QC"
-"Ascot Corner, QC",45.4500,-71.7667,33,"Rideau Lakes, ON"
-"Rideau Lakes, ON",44.6667,-76.2167,24,"Saint-Robert, QC"
-"Saint-Robert, QC",45.9667,-73.0000,22,"Notre-Dame-des-Pins, QC"
-"Notre-Dame-des-Pins, QC",46.1833,-70.7167,36,"Sainte-Catherine-de-Hatley, QC"
-"Sainte-Catherine-de-Hatley, QC",45.2500,-72.0500,97,"The Nation / La Nation, ON"
-"The Nation / La Nation, ON",45.3500,-75.0333,55,"Waterville, QC"
-"Waterville, QC",45.2667,-71.9000,21,"Caplan, QC"
-"Caplan, QC",48.1000,-65.6833,20,"Petrolia, ON"
-"Petrolia, ON",42.8833,-82.1417,86,"Saint-Gedeon, QC"
-"Saint-Gedeon, QC",48.5000,-71.7667,84,"Sainte-Angele-de-Monnoir, QC"
-"Sainte-Angele-de-Monnoir, QC",45.3833,-73.1000,29,"Grenville-sur-la-Rouge, QC"
-"Grenville-sur-la-Rouge, QC",45.6500,-74.6333,66,"Souris-Glenwood, MB"
-"Souris-Glenwood, MB",49.6208,-100.2581,12,"Ragueneau, QC"
-"Ragueneau, QC",49.0667,-68.5333,38,"Kimberley, BC"
-"Kimberley, BC",49.6697,-115.9775,31,"Komoka, ON"
-"Komoka, ON",42.9580,-81.4001,95,"Terrasse-Vaudreuil, QC"
-"Terrasse-Vaudreuil, QC",45.4000,-73.9833,82,"Armour, ON"
-"Armour, ON",45.6289,-79.3436,30,"Wilton No. 472, SK"
-"Wilton No. 472, SK",53.1240,-109.7885,19,"Clyde River, NU"
-"Clyde River, NU",70.4632,-68.4822,37,"Gander, NL"
-"Gander, NL",48.9569,-54.6089,49,"Joliette, QC"
-"Joliette, QC",46.0167,-73.4500,47,"Yellowknife, NT"
-"Yellowknife, NT",62.4709,-114.4053,86,"Grenville, QC"
-"Grenville, QC",45.6333,-74.6000,98,"Saint-Cyrille-de-Wendover, QC"
-"Saint-Cyrille-de-Wendover, QC",45.9333,-72.4333,12,"Gold River, BC"
-"Gold River, BC",49.7769,-126.0514,58,"Qualicum Beach, BC"
-"Qualicum Beach, BC",49.3500,-124.4333,71,"Trecesson, QC"
-"Trecesson, QC",48.6500,-78.3167,54,"Salaberry-de-Valleyfield, QC"
-"Salaberry-de-Valleyfield, QC",45.2500,-74.1300,39,"Moosonee, ON"
-"Moosonee, ON",51.2722,-80.6431,91,"Saint-Jacques, NB"
-"Saint-Jacques, NB",47.5634,-68.3693,71,"Markham, ON"
-"Markham, ON",43.8767,-79.2633,61,"Maskinonge, QC"
-"Maskinonge, QC",46.2333,-73.0167,21,"Virden, MB"
-"Virden, MB",49.8508,-100.9317,32,"Woodstock, NB"
-"Woodstock, NB",46.1522,-67.5983,98,"Hanwell, NB"
-"Hanwell, NB",45.8681,-66.7947,69,"Saint-Christophe-d'Arthabaska, QC"
-"Saint-Christophe-d'Arthabaska, QC",46.0333,-71.8833,95,"Saint-Maurice, QC"
-"Saint-Maurice, QC",46.4667,-72.5333,60,"Sayabec, QC"
-"Sayabec, QC",48.5667,-67.6833,26,"Saint-Damien, QC"
-"Saint-Damien, QC",46.3300,-73.4800,73,"Cumberland, BC"
-"Cumberland, BC",49.6206,-125.0261,36,"Whitewater Region, ON"
-"Whitewater Region, ON",45.7167,-76.8333,30,"Saskatoon, SK"
-"Saskatoon, SK",52.1333,-106.6833,96,"Maple Ridge, BC"
-"Maple Ridge, BC",49.2167,-122.6000,27,"Pemberton, BC"
-"Pemberton, BC",50.3203,-122.8053,87,"Hinton, AB"
-"Hinton, AB",53.4114,-117.5639,61,"Mansfield-et-Pontefract, QC"
-"Mansfield-et-Pontefract, QC",45.8611,-76.7392,80,"Sainte-Agathe-des-Monts, QC"
-"Sainte-Agathe-des-Monts, QC",46.0500,-74.2800,89,"Saltair, BC"
-"Saltair, BC",48.9504,-123.7637,90,"Thetford Mines, QC"
-"Thetford Mines, QC",46.1000,-71.3000,27,"Winnipeg Beach, MB"
-"Winnipeg Beach, MB",50.5058,-96.9742,42,"Redwater, AB"
-"Redwater, AB",53.9489,-113.1067,15,"Inuvik, NT"
-"Inuvik, NT",68.3407,-133.6096,21,"Nantes, QC"
-"Nantes, QC",45.6333,-71.0333,36,"Douro-Dummer, ON"
-"Douro-Dummer, ON",44.4500,-78.1000,43,"Coombs, BC"
-"Coombs, BC",49.3008,-124.4049,33,"Penetanguishene, ON"
-"Penetanguishene, ON",44.7667,-79.9333,19,"Ashcroft, BC"
-"Ashcroft, BC",50.7256,-121.2806,97,"Neebing, ON"
-"Neebing, ON",48.1833,-89.4667,83,"Pohenegamook, QC"
-"Pohenegamook, QC",47.4667,-69.2167,96,"Hudson Bay, SK"
-"Hudson Bay, SK",52.8510,-102.3920,86,"Saint-Antoine-de-Tilly, QC"
-"Saint-Antoine-de-Tilly, QC",46.6667,-71.5833,20,"Dawson Creek, BC"
-"Dawson Creek, BC",55.7606,-120.2356,26,"Coldwell, MB"
-"Coldwell, MB",50.6389,-98.0417,39,"Banff, AB"
-"Banff, AB",51.1781,-115.5719,88,"Saint-Honore-de-Shenley, QC"
-"Saint-Honore-de-Shenley, QC",45.9667,-70.8333,76,"Mont-Saint-Gregoire, QC"
-"Mont-Saint-Gregoire, QC",45.3333,-73.1667,92,"Saint-Marc-des-Carrieres, QC"
-"Saint-Marc-des-Carrieres, QC",46.6833,-72.0500,43,"Kingsey Falls, QC"
-"Kingsey Falls, QC",45.8500,-72.0667,44,"Maniwaki, QC"
-"Maniwaki, QC",46.3750,-75.9667,73,"Saint George, NB"
-"Saint George, NB",45.2916,-66.8501,59,"Fort Frances, ON"
-"Fort Frances, ON",48.6167,-93.4000,44,"Lameque, NB"
-"Lameque, NB",47.7925,-64.6532,56,"Quebec City, QC"
-"Quebec City, QC",46.8139,-71.2081,92,"Maugerville, NB"
-"Maugerville, NB",46.1301,-66.2859,68,"Desbiens, QC"
-"Desbiens, QC",48.4167,-71.9500,27,"Pont-Rouge, QC"
-"Pont-Rouge, QC",46.7500,-71.7000,10,"Tecumseh, ON"
-"Tecumseh, ON",42.2431,-82.9256,56,"Coteau-du-Lac, QC"
-"Coteau-du-Lac, QC",45.3000,-74.1800,34,"Frampton, QC"
-"Frampton, QC",46.4667,-70.8000,20,"Oxbow, SK"
-"Oxbow, SK",49.2333,-102.1667,82,"Arviat, NU"
-"Arviat, NU",61.0996,-94.1688,60,"Forestville, QC"
-"Forestville, QC",48.7333,-69.0833,22,"Two Hills, AB"
-"Two Hills, AB",53.7150,-111.7461,47,"South-West Oxford, ON"
-"South-West Oxford, ON",42.9500,-80.8000,71,"Oyen, AB"
-"Oyen, AB",51.3522,-110.4739,69,"Kamsack, SK"
-"Kamsack, SK",51.5650,-101.8947,95,"Iroquois Falls, ON"
-"Iroquois Falls, ON",48.7667,-80.6667,38,"Sutton, QC"
-"Sutton, QC",45.0910,-72.5792,69,"Mount Pearl Park, NL"
-"Mount Pearl Park, NL",47.5189,-52.8058,58,"Saint-Pierre-les-Becquets, QC"
-"Saint-Pierre-les-Becquets, QC",46.5000,-72.2000,93,"Perth South, ON"
-"Perth South, ON",43.3000,-81.1500,83,"Uashat, QC"
-"Uashat, QC",50.2330,-66.3947,81,"Saint-Etienne-des-Gres, QC"
-"Saint-Etienne-des-Gres, QC",46.4333,-72.7667,56,"Swan River, MB"
-"Swan River, MB",52.1058,-101.2667,58,"Mayerthorpe, AB"
-"Mayerthorpe, AB",53.9503,-115.1336,67,"Saint-Cesaire, QC"
-"Saint-Cesaire, QC",45.4167,-73.0000,43,"Saint-Armand, QC"
-"Saint-Armand, QC",45.0333,-73.0500,96,"Gilbert Plains, MB"
-"Gilbert Plains, MB",51.1547,-100.4381,79,"Parksville, BC"
-"Parksville, BC",49.3150,-124.3120,48,"La Loche, SK"
-"La Loche, SK",56.4833,-109.4333,91,"Saint-Justin, QC"
-"Saint-Justin, QC",46.2500,-73.0833,27,"Kelsey, MB"
-"Kelsey, MB",53.7356,-101.3950,82,"Stouffville, ON"
-"Stouffville, ON",43.9667,-79.2500,25,"Central Elgin, ON"
-"Central Elgin, ON",42.7667,-81.1000,94,"Deseronto, ON"
-"Deseronto, ON",44.2000,-77.0500,69,"Placentia, NL"
-"Placentia, NL",47.2458,-53.9611,66,"St. Joseph, ON"
-"St. Joseph, ON",46.2667,-84.0000,52,"Mississauga, ON"
-"Mississauga, ON",43.6000,-79.6500,10,"Saint-Georges-de-Cacouna, QC"
-"Saint-Georges-de-Cacouna, QC",47.9167,-69.5000,43,"Perry, ON"
-"Perry, ON",45.5000,-79.2833,66,"Tiny, ON"
-"Tiny, ON",44.6833,-79.9500,41,"Saint-Adolphe-d'Howard, QC"
-"Saint-Adolphe-d'Howard, QC",45.9700,-74.3300,59,"Saint-Honore, QC"
-"Saint-Honore, QC",48.5333,-71.0833,77,"Castlegar, BC"
-"Castlegar, BC",49.3256,-117.6661,44,"Englehart, ON"
-"Englehart, ON",47.8167,-79.8667,13,"Val-Shefford, QC"
-"Val-Shefford, QC",45.3500,-72.5667,74,"Napierville, QC"
-"Napierville, QC",45.1833,-73.4000,17,"Saint-Victor, QC"
-"Saint-Victor, QC",46.1500,-70.9000,22,"Grand Valley, ON"
-"Grand Valley, ON",43.9500,-80.3667,96,"Wendake, QC"
-"Wendake, QC",46.8693,-71.3628,26,"Blainville, QC"
-"Blainville, QC",45.6700,-73.8800,50,"Saint-Narcisse-de-Beaurivage, QC"
-"Saint-Narcisse-de-Beaurivage, QC",46.4833,-71.2333,96,"Saint-Leonard-de-Portneuf, QC"
-"Saint-Leonard-de-Portneuf, QC",46.8833,-71.9167,91,"Frenchman Butte, SK"
-"Frenchman Butte, SK",53.6052,-109.4298,27,"Sacre-Coeur-Saguenay, QC"
-"Sacre-Coeur-Saguenay, QC",48.2479,-69.8540,15,"Teulon, MB"
-"Teulon, MB",50.3858,-97.2611,11,"Westlock, AB"
-"Westlock, AB",54.1522,-113.8511,91,"Carbonear, NL"
-"Carbonear, NL",47.7375,-53.2294,93,"Old Chelsea, QC"
-"Old Chelsea, QC",45.5000,-75.7833,32,"L'Islet-sur-Mer, QC"
-"L'Islet-sur-Mer, QC",47.1000,-70.3500,30,"Norwich, ON"
-"Norwich, ON",42.9833,-80.6000,36,"Saint-Jean-de-Dieu, QC"
-"Saint-Jean-de-Dieu, QC",48.0000,-69.0500,91,"Rocky Mountain House, AB"
-"Rocky Mountain House, AB",52.3753,-114.9217,16,"Saint-Basile-le-Grand, QC"
-"Saint-Basile-le-Grand, QC",45.5333,-73.2833,44,"Kippens, NL"
-"Kippens, NL",48.5492,-58.6236,88,"Kugluktuk, NU"
-"Kugluktuk, NU",67.8055,-115.3223,70,"Disraeli, QC"
-"Disraeli, QC",45.9000,-71.3500,63,"Amaranth, ON"
-"Amaranth, ON",43.9833,-80.2333,35,"Brockton, ON"
-"Brockton, ON",44.1667,-81.2167,44,"Saint-Henri, QC"
-"Saint-Henri, QC",46.7000,-71.0667,62,"Canmore, AB"
-"Canmore, AB",51.0890,-115.3590,18,"Port Alberni, BC"
-"Port Alberni, BC",49.2339,-124.8050,57,"Mercier, QC"
-"Mercier, QC",45.3200,-73.7500,95,"Hamiota, MB"
-"Hamiota, MB",50.1964,-100.6342,29,"Gravelbourg, SK"
-"Gravelbourg, SK",49.8740,-106.5550,46,"Hilliers, BC"
-"Hilliers, BC",49.3022,-124.4727,17,"Highlands, BC"
-"Highlands, BC",48.5200,-123.5000,40,"Tyendinaga, ON"
-"Tyendinaga, ON",44.3000,-77.2000,19,"Plaisance, QC"
-"Plaisance, QC",45.6167,-75.1167,15,"Coalhurst, AB"
-"Coalhurst, AB",49.7457,-112.9319,87,"Beauport, QC"
-"Beauport, QC",46.9667,-71.3000,25,"Saint-Barnabe, QC"
-"Saint-Barnabe, QC",46.4000,-72.8833,41,"Shawville, QC"
-"Shawville, QC",45.6000,-76.4833,42,"Grand Falls, NL"
-"Grand Falls, NL",48.9578,-55.6633,52,"Okotoks, AB"
-"Okotoks, AB",50.7250,-113.9750,54,"Saint-Pascal, QC"
-"Saint-Pascal, QC",47.5333,-69.8000,61,"Iqaluit, NU"
-"Iqaluit, NU",63.7598,-68.5107,44,"Cap Sante, QC"
-"Cap Sante, QC",46.6667,-71.7833,40,"Saint-Louis-de-Gonzague, QC"
-"Saint-Louis-de-Gonzague, QC",45.2000,-73.9800,18,"Blind River, ON"
-"Blind River, ON",46.1833,-82.9500,33,"Bancroft, ON"
-"Bancroft, ON",45.0500,-77.8500,47,"Saint-Flavien, QC"
-"Saint-Flavien, QC",46.5167,-71.6000,59,"South Bruce, ON"
-"South Bruce, ON",44.0333,-81.2000,59,"Lorette, MB"
-"Lorette, MB",49.7414,-96.8761,78,"Glovertown, NL"
-"Glovertown, NL",48.6667,-54.0500,40,"Palmarolle, QC"
-"Palmarolle, QC",48.6667,-79.2000,98,"Saint-Tite, QC"
-"Saint-Tite, QC",46.7333,-72.5667,70,"Assiginack, ON"
-"Assiginack, ON",45.7333,-81.8000,67,"Raymond, AB"
-"Raymond, AB",49.4658,-112.6508,42,"Saanich, BC"
-"Saanich, BC",48.4840,-123.3810,86,"St. Clements, MB"
-"St. Clements, MB",50.2689,-96.6742,40,"Elizabethtown-Kitley, ON"
-"Elizabethtown-Kitley, ON",44.7000,-75.8833,49,"Dryden, ON"
-"Dryden, ON",49.7833,-92.8333,62,"Dunsmuir, BC"
-"Dunsmuir, BC",49.3696,-124.5772,37,"Longueuil, QC"
-"Longueuil, QC",45.5333,-73.5167,52,"Black Diamond, AB"
-"Black Diamond, AB",50.6881,-114.2333,20,"Chambly, QC"
-"Chambly, QC",45.4311,-73.2873,69,"Wood Buffalo, AB"
-"Wood Buffalo, AB",57.6042,-111.3284,55,"Portage La Prairie, MB"
-"Portage La Prairie, MB",49.9728,-98.2919,12,"Mitchell, MB"
-"Mitchell, MB",49.5363,-96.7634,71,"Carleton Place, ON"
-"Carleton Place, ON",45.1333,-76.1333,72,"Tingwick, QC"
-"Tingwick, QC",45.8873,-71.9244,81,"Delisle, SK"
-"Delisle, SK",51.9254,-107.1333,48,"Saint-Elie-de-Caxton, QC"
-"Saint-Elie-de-Caxton, QC",46.4833,-72.9667,51,"Saint-Pamphile, QC"
-"Saint-Pamphile, QC",46.9667,-69.7833,76,"Levis, QC"
-"Levis, QC",46.8000,-71.1833,12,"Senneterre, QC"
-"Senneterre, QC",48.3833,-77.2333,30,"Central Frontenac, ON"
-"Central Frontenac, ON",44.7167,-76.8000,61,"Sainte-Julienne, QC"
-"Sainte-Julienne, QC",45.9700,-73.7200,19,"Saint-Marc-sur-Richelieu, QC"
-"Saint-Marc-sur-Richelieu, QC",45.6833,-73.2000,89,"North Glengarry, ON"
-"North Glengarry, ON",45.3333,-74.7333,21,"Grand Falls, NB"
-"Grand Falls, NB",47.0344,-67.7394,47,"Mackenzie, BC"
-"Mackenzie, BC",55.3381,-123.0944,77,"Bury, QC"
-"Bury, QC",45.4667,-71.5000,30,"Montreal-Ouest, QC"
-"Montreal-Ouest, QC",45.4536,-73.6472,41,"Bedford, QC"
-"Bedford, QC",45.1167,-72.9833,29,"Scott, QC"
-"Scott, QC",46.5120,-71.0770,18,"Saint-Gabriel-de-Valcartier, QC"
-"Saint-Gabriel-de-Valcartier, QC",46.9333,-71.4667,30,"Elk Point, AB"
-"Elk Point, AB",53.8967,-110.8972,51,"Faraday, ON"
-"Faraday, ON",45.0000,-77.9167,55,"Pinawa, MB"
-"Pinawa, MB",50.1707,-95.9547,40,"Portugal Cove-St. Philip's, NL"
-"Portugal Cove-St. Philip's, NL",47.6272,-52.8506,61,"Sifton, MB"
-"Sifton, MB",49.6653,-100.6678,54,"Saint-Cuthbert, QC"
-"Saint-Cuthbert, QC",46.1500,-73.2333,30,"Athabasca, AB"
-"Athabasca, AB",54.7197,-113.2856,44,"Girardville, QC"
-"Girardville, QC",49.0000,-72.5500,52,"North Dundas, ON"
-"North Dundas, ON",45.0833,-75.3500,33,"Portneuf, QC"
-"Portneuf, QC",46.7000,-71.8833,69,"Chipman, NB"
-"Chipman, NB",46.1710,-65.8840,87,"Creston, BC"
-"Creston, BC",49.0900,-116.5100,75,"Bridgewater, NS"
-"Bridgewater, NS",44.3700,-64.5200,90,"Saint-Denis, QC"
-"Saint-Denis, QC",45.7833,-73.1500,33,"Saint-Charles-de-Bellechasse, QC"
-"Saint-Charles-de-Bellechasse, QC",46.7667,-70.9500,50,"Esquimalt, BC"
-"Esquimalt, BC",48.4306,-123.4147,89,"Matagami, QC"
-"Matagami, QC",49.7500,-77.6333,37,"Gore, QC"
-"Gore, QC",45.7700,-74.2500,38,"Weedon-Centre, QC"
-"Weedon-Centre, QC",45.7000,-71.4667,26,"St. Paul, AB"
-"St. Paul, AB",53.9928,-111.2972,11,"Kuujjuaq, QC"
-"Kuujjuaq, QC",58.1429,-68.3742,86,"Brooks, AB"
-"Brooks, AB",50.5642,-111.8989,60,"Bruederheim, AB"
-"Bruederheim, AB",53.8042,-112.9278,15,"Smooth Rock Falls, ON"
-"Smooth Rock Falls, ON",49.2833,-81.6333,22,"Burford, ON"
-"Burford, ON",43.1036,-80.4240,27,"Ponoka, AB"
-"Ponoka, AB",52.6833,-113.5667,54,"Wolfville, NS"
-"Wolfville, NS",45.0833,-64.3667,15,"Val-Joli, QC"
-"Val-Joli, QC",45.6000,-71.9700,80,"Cap Pele, NB"
-"Cap Pele, NB",46.2172,-64.2822,10,"Lantz, NS"
-"Lantz, NS",44.9894,-63.4736,74,"Vancouver, BC"
-"Vancouver, BC",49.2500,-123.1000,45,"Sarnia, ON"
-"Sarnia, ON",42.9994,-82.3089,56,"Vulcan, AB"
-"Vulcan, AB",50.4000,-113.2500,35,"Prince Albert No. 461, SK"
-"Prince Albert No. 461, SK",53.1089,-105.6574,41,"Orillia, ON"
-"Orillia, ON",44.6000,-79.4167,60,"Upper Miramichi, NB"
-"Upper Miramichi, NB",46.5254,-66.2085,51,"Burnaby, BC"
-"Burnaby, BC",49.2667,-122.9667,95,"Saint-Come, QC"
-"Saint-Come, QC",46.2700,-73.7800,37,"Botwood, NL"
-"Botwood, NL",49.1500,-55.3667,50,"Newmarket, ON"
-"Newmarket, ON",44.0500,-79.4667,68,"Hanna, AB"
-"Hanna, AB",51.6383,-111.9419,71,"Espanola, ON"
-"Espanola, ON",46.2500,-81.7667,80,"Saint-Jude, QC"
-"Saint-Jude, QC",45.7667,-72.9833,69,"Saint-Bernard, QC"
-"Saint-Bernard, QC",46.5000,-71.1333,87,"Kapuskasing, ON"
-"Kapuskasing, ON",49.4167,-82.4333,64,"Nauwigewauk, NB"
-"Nauwigewauk, NB",45.4812,-65.8738,97,"Flin Flon (Part), MB"
-"Flin Flon (Part), MB",54.7712,-101.8419,75,"Courtenay, BC"
-"Courtenay, BC",49.6878,-124.9944,21,"Cranbrook, BC"
-"Cranbrook, BC",49.5097,-115.7667,51,"Saint-Gabriel-de-Brandon, QC"
-"Saint-Gabriel-de-Brandon, QC",46.2667,-73.3833,48,"Hinchinbrooke, QC"
-"Hinchinbrooke, QC",45.0500,-74.1000,12,"Laird, ON"
-"Laird, ON",46.3833,-84.0667,63,"Saint-Alexis-des-Monts, QC"
-"Saint-Alexis-des-Monts, QC",46.4667,-73.1333,11,"Charlottetown, PE"
-"Charlottetown, PE",46.2403,-63.1347,26,"High Level, AB"
-"High Level, AB",58.5169,-117.1361,14,"Bishops Falls, NL"
-"Bishops Falls, NL",49.0167,-55.5167,81,"Moonbeam, ON"
-"Moonbeam, ON",49.3500,-82.1500,72,"Perce, QC"
-"Perce, QC",48.5333,-64.2167,78,"Guelph/Eramosa, ON"
-"Guelph/Eramosa, ON",43.6300,-80.2200,50,"Charlemagne, QC"
-"Charlemagne, QC",45.7167,-73.4833,49,"Alberta Beach, AB"
-"Alberta Beach, AB",53.6767,-114.3500,36,"Mervin No. 499, SK"
-"Mervin No. 499, SK",53.5455,-108.8762,38,"Saint-Leonard, NB"
-"Saint-Leonard, NB",47.1625,-67.9250,50,"Saint-Mathieu-du-Parc, QC"
-"Saint-Mathieu-du-Parc, QC",46.5667,-72.9167,57,"Buctouche, NB"
-"Buctouche, NB",46.4719,-64.7249,39,"Osler, SK"
-"Osler, SK",52.3700,-106.5400,61,"Fort Simpson, NT"
-"Fort Simpson, NT",61.8082,-121.3199,68,"Coleraine, QC"
-"Coleraine, QC",45.9649,-71.3734,47,"Quispamsis, NB"
-"Quispamsis, NB",45.4322,-65.9462,98,"Saint-Colomban, QC"
-"Saint-Colomban, QC",45.7300,-74.1300,25,"La Tuque, QC"
-"La Tuque, QC",48.0652,-74.0528,92,"Saint-Jacques-le-Mineur, QC"
-"Saint-Jacques-le-Mineur, QC",45.2833,-73.4167,85,"Southampton, NB"
-"Southampton, NB",46.0789,-67.3124,87,"Frontenac Islands, ON"
-"Frontenac Islands, ON",44.2000,-76.3833,96,"Canora, SK"
-"Canora, SK",51.6339,-102.4369,84,"Oromocto, NB"
-"Oromocto, NB",45.8488,-66.4788,23,"Sainte-Marcelline-de-Kildare, QC"
-"Sainte-Marcelline-de-Kildare, QC",46.1167,-73.6000,56,"Saint-Aime-des-Lacs, QC"
-"Saint-Aime-des-Lacs, QC",47.6833,-70.3000,91,"Creighton, SK"
-"Creighton, SK",54.7561,-101.8973,16,"Millet, AB"
-"Millet, AB",53.0978,-113.4728,22,"McNab/Braeside, ON"
-"McNab/Braeside, ON",45.4500,-76.5000,73,"Durham-Sud, QC"
-"Durham-Sud, QC",45.6667,-72.3333,44,"Dollard-des-Ormeaux, QC"
-"Dollard-des-Ormeaux, QC",45.4833,-73.8167,78,"Manning, AB"
-"Manning, AB",56.9142,-117.6272,74,"East Zorra-Tavistock, ON"
-"East Zorra-Tavistock, ON",43.2333,-80.7833,53,"Wainfleet, ON"
-"Wainfleet, ON",42.9250,-79.3750,81,"Pointe-aux-Outardes, QC"
-"Pointe-aux-Outardes, QC",49.0500,-68.4333,85,"Degelis, QC"
-"Degelis, QC",47.5500,-68.6500,97,"Saint-Prime, QC"
-"Saint-Prime, QC",48.5800,-72.3300,26,"Invermere, BC"
-"Invermere, BC",50.5083,-116.0303,56,"Carman, MB"
-"Carman, MB",49.4992,-98.0008,44,"Saint-Martin, QC"
-"Saint-Martin, QC",45.9667,-70.6500,94,"L' Isle-Verte, QC"
-"L' Isle-Verte, QC",48.0167,-69.3333,61,"Gananoque, ON"
-"Gananoque, ON",44.3300,-76.1700,23,"Harrison Hot Springs, BC"
-"Harrison Hot Springs, BC",49.3000,-121.7819,29,"Baie Verte, NL"
-"Baie Verte, NL",49.9167,-56.1833,84,"Lac-Brome, QC"
-"Lac-Brome, QC",45.2167,-72.5167,82,"Peel, NB"
-"Peel, NB",46.4058,-67.5278,11,"St. George, NB"
-"St. George, NB",45.1333,-66.8167,61,"Lorne, MB"
-"Lorne, MB",49.4436,-98.7494,68,"Adjala-Tosorontio, ON"
-"Adjala-Tosorontio, ON",44.1333,-79.9333,41,"Atikokan, ON"
-"Atikokan, ON",48.7500,-91.6167,47,"Saint-Jean-Port-Joli, QC"
-"Saint-Jean-Port-Joli, QC",47.2167,-70.2667,20,"McAdam, NB"
-"McAdam, NB",45.5944,-67.3258,82,"Stone Mills, ON"
-"Stone Mills, ON",44.4500,-76.9167,37,"McKellar, ON"
-"McKellar, ON",45.4833,-79.8500,58,"Nobleford, AB"
-"Nobleford, AB",49.8822,-113.0531,47,"Kingston, NB"
-"Kingston, NB",45.4663,-66.0217,45,"Mont-Carmel, QC"
-"Mont-Carmel, QC",47.4397,-69.8586,97,"Unity, SK"
-"Unity, SK",52.4333,-109.1667,17,"Lac-Etchemin, QC"
-"Lac-Etchemin, QC",46.4000,-70.5000,86,"Fisher, MB"
-"Fisher, MB",51.0825,-97.6611,42,"Toronto, ON"
-"Toronto, ON",43.7417,-79.3733,78,"Sidney, BC"
-"Sidney, BC",48.6506,-123.3986,44,"Dysart et al, ON"
-"Dysart et al, ON",45.2042,-78.4047,22,"Cartwright-Roblin, MB"
-"Cartwright-Roblin, MB",49.1331,-99.2797,27,"Dundurn No. 314, SK"
-"Dundurn No. 314, SK",51.8261,-106.5416,93,"Birch Hills, SK"
-"Birch Hills, SK",52.9833,-105.4333,14,"Saint-Gervais, QC"
-"Saint-Gervais, QC",46.7167,-70.8833,59,"South Dundas, ON"
-"South Dundas, ON",44.9167,-75.2667,77,"Richmond, BC"
-"Richmond, BC",49.1667,-123.1333,94,"Nipawin, SK"
-"Nipawin, SK",53.3572,-104.0192,21,"Humboldt, SK"
-"Humboldt, SK",52.2019,-105.1231,16,"St. Andrews, MB"
-"St. Andrews, MB",50.2700,-96.9747,94,"Port Moody, BC"
-"Port Moody, BC",49.2831,-122.8317,97,"Beresford, NB"
-"Beresford, NB",47.7181,-65.8794,58,"Centre Wellington, ON"
-"Centre Wellington, ON",43.7000,-80.3667,79,"Ripon, QC"
-"Ripon, QC",45.7833,-75.1000,37,"Cantley, QC"
-"Cantley, QC",45.5667,-75.7833,48,"St. Catharines, ON"
-"St. Catharines, ON",43.1833,-79.2333,15,"Sainte-Marguerite-du-Lac-Masson, QC"
-"Sainte-Marguerite-du-Lac-Masson, QC",46.0560,-74.0723,58,"Sainte-Catherine-de-la-Jacques-Cartier, QC"
-"Sainte-Catherine-de-la-Jacques-Cartier, QC",46.8500,-71.6167,36,"St. Alban's, NL"
-"St. Alban's, NL",47.8753,-55.8414,84,"Sexsmith, AB"
-"Sexsmith, AB",55.3508,-118.7825,88,"Inverness, NS"
-"Inverness, NS",46.2000,-61.1000,61,"Oakview, MB"
-"Oakview, MB",50.1964,-100.2167,89,"Donnacona, QC"
-"Donnacona, QC",46.6747,-71.7294,83,"Penhold, AB"
-"Penhold, AB",52.1333,-113.8667,92,"Gatineau, QC"
-"Gatineau, QC",45.4833,-75.6500,39,"Amherst, NS"
-"Amherst, NS",45.8167,-64.2167,74,"WestLake-Gladstone, MB"
-"WestLake-Gladstone, MB",50.2862,-98.8415,21,"Coquitlam, BC"
-"Coquitlam, BC",49.2839,-122.7919,14,"Oshawa, ON"
-"Oshawa, ON",43.9000,-78.8500,60,"Saint-Malachie, QC"
-"Saint-Malachie, QC",46.5333,-70.7667,96,"Vanderhoof, BC"
-"Vanderhoof, BC",54.0143,-124.0089,73,"Niagara Falls, ON"
-"Niagara Falls, ON",43.0600,-79.1067,22,"South Glengarry, ON"
-"South Glengarry, ON",45.2000,-74.5833,60,"Merrickville, ON"
-"Merrickville, ON",44.8539,-75.8269,64,"Paspebiac, QC"
-"Paspebiac, QC",48.0333,-65.2500,25,"Lumsden, SK"
-"Lumsden, SK",50.6463,-104.8676,45,"Wilmot, ON"
-"Wilmot, ON",43.4000,-80.6500,20,"Saint-Hugues, QC"
-"Saint-Hugues, QC",45.8000,-72.8667,76,"Highlands East, ON"
-"Highlands East, ON",44.9667,-78.2500,18,"Swan Hills, AB"
-"Swan Hills, AB",54.7106,-115.4133,51,"Davidson, SK"
-"Davidson, SK",51.2667,-105.9667,31,"Gravenhurst, ON"
-"Gravenhurst, ON",44.9167,-79.3667,41,"Norfolk-Treherne, MB"
-"Norfolk-Treherne, MB",49.6653,-98.5967,63,"Saint-Mathieu, QC"
-"Saint-Mathieu, QC",45.3167,-73.5164,32,"Lethbridge, AB"
-"Lethbridge, AB",49.6942,-112.8328,26,"Middlesex Centre, ON"
-"Middlesex Centre, ON",43.0500,-81.4500,61,"Torch River No. 488, SK"
-"Torch River No. 488, SK",53.5445,-104.4619,46,"Compton, QC"
-"Compton, QC",45.2333,-71.8167,32,"Wellington North, ON"
-"Wellington North, ON",43.9000,-80.5700,41,"New Westminster, BC"
-"New Westminster, BC",49.2069,-122.9111,79,"Wabana, NL"
-"Wabana, NL",47.6500,-52.9333,62,"Tofino, BC"
-"Tofino, BC",49.1275,-125.8852,84,"Chase, BC"
-"Chase, BC",50.8189,-119.6844,75,"Morin-Heights, QC"
-"Morin-Heights, QC",45.9000,-74.2500,40,"Hudson Bay No. 394, SK"
-"Hudson Bay No. 394, SK",53.0295,-102.3122,37,"Otonabee-South Monaghan, ON"
-"Otonabee-South Monaghan, ON",44.2333,-78.2333,39,"Orangeville, ON"
-"Orangeville, ON",43.9167,-80.1167,37,"Mission, BC"
-"Mission, BC",49.1337,-122.3112,97,"Plaster Rock, NB"
-"Plaster Rock, NB",46.8833,-67.3833,93,"Saint-Joachim-de-Shefford, QC"
-"Saint-Joachim-de-Shefford, QC",45.4500,-72.5333,16,"Dudswell, QC"
-"Dudswell, QC",45.5833,-71.5833,11,"Pembina, MB"
-"Pembina, MB",49.1775,-98.5408,23,"Clarington, ON"
-"Clarington, ON",43.9350,-78.6083,94,"South Algonquin, ON"
-"South Algonquin, ON",45.4967,-78.0239,25,"Havelock-Belmont-Methuen, ON"
-"Havelock-Belmont-Methuen, ON",44.5667,-77.9000,78,"Lakeshore, MB"
-"Lakeshore, MB",51.2440,-99.6562,76,"Chapleau, ON"
-"Chapleau, ON",47.8333,-83.4000,14,"Perth, ON"
-"Perth, ON",44.9000,-76.2500,28,"North Vancouver, BC"
-"North Vancouver, BC",49.3641,-123.0066,80,"North Middlesex, ON"
-"North Middlesex, ON",43.1500,-81.6333,47,"Yellowhead, MB"
-"Yellowhead, MB",50.4847,-100.4828,23,"Wickham, QC"
-"Wickham, QC",45.7500,-72.5000,60,"Manouane, QC"
-"Manouane, QC",47.2091,-74.3833,31,"Chute-aux-Outardes, QC"
-"Chute-aux-Outardes, QC",49.1167,-68.4000,69,"Northampton, NB"
-"Northampton, NB",46.1313,-67.4713,19,"Lac-Nominingue, QC"
-"Lac-Nominingue, QC",46.4000,-75.0333,49,"Wotton, QC"
-"Wotton, QC",45.7333,-71.8000,61,"Saint-Eugene, QC"
-"Saint-Eugene, QC",45.8000,-72.7000,62,"South Bruce Peninsula, ON"
-"South Bruce Peninsula, ON",44.7333,-81.2000,21,"Corman Park No. 344, SK"
-"Corman Park No. 344, SK",52.2291,-106.8002,92,"East Kelowna, BC"
-"East Kelowna, BC",49.8625,-119.5833,70,"La Minerve, QC"
-"La Minerve, QC",46.2500,-74.9333,96,"Danville, QC"
-"Danville, QC",45.7833,-72.0167,44,"Saint Mary, NB"
-"Saint Mary, NB",46.3987,-64.8681,70,"Two Borders, MB"
-"Two Borders, MB",49.2668,-101.1124,43,"Lambton Shores, ON"
-"Lambton Shores, ON",43.1833,-81.9000,28,"Tring-Jonction, QC"
-"Tring-Jonction, QC",46.2667,-70.9833,19,"Outlook, SK"
-"Outlook, SK",51.5000,-107.0500,44,"Vegreville, AB"
-"Vegreville, AB",53.4928,-112.0522,73,"Westfield Beach, NB"
-"Westfield Beach, NB",45.3432,-66.2868,60,"Blucher, SK"
-"Blucher, SK",52.0134,-106.2176,28,"Grahamdale, MB"
-"Grahamdale, MB",51.4200,-98.3733,71,"Greenstone, ON"
-"Greenstone, ON",50.0000,-86.7333,74,"Perth, NB"
-"Perth, NB",46.7393,-67.6984,51,"Sainte-Catherine, QC"
-"Sainte-Catherine, QC",45.4000,-73.5800,42,"Sainte-Sabine, QC"
-"Sainte-Sabine, QC",45.2333,-73.0167,61,"Niverville, MB"
-"Niverville, MB",49.6056,-97.0417,57,"Witless Bay, NL"
-"Witless Bay, NL",47.2800,-52.8300,70,"West Lincoln, ON"
-"West Lincoln, ON",43.0667,-79.5667,24,"Beausejour, MB"
-"Beausejour, MB",50.0622,-96.5161,79,"Rosser, MB"
-"Rosser, MB",49.9900,-97.4592,77,"Queensbury, NB"
-"Queensbury, NB",45.9918,-67.0632,40,"Lery, QC"
-"Lery, QC",45.3500,-73.8000,56,"Les Coteaux, QC"
-"Les Coteaux, QC",45.2800,-74.2300,31,"Hardwicke, NB"
-"Hardwicke, NB",47.0208,-65.0302,17,"Goderich, ON"
-"Goderich, ON",43.7333,-81.7000,61,"Saint-Dominique, QC"
-"Saint-Dominique, QC",45.5667,-72.8500,41,"Saint-Pie, QC"
-"Saint-Pie, QC",45.5000,-72.9000,45,"Cambridge Bay, NU"
-"Cambridge Bay, NU",69.1528,-105.1707,36,"French River / Riviere des Francais, ON"
-"French River / Riviere des Francais, ON",46.1667,-80.5000,87,"Rosthern No. 403, SK"
-"Rosthern No. 403, SK",52.6206,-106.3967,93,"Melbourne, QC"
-"Melbourne, QC",45.5800,-72.1700,87,"Lincoln, ON"
-"Lincoln, ON",43.1300,-79.4300,68,"Redcliff, AB"
-"Redcliff, AB",50.0792,-110.7783,10,"Les Cedres, QC"
-"Les Cedres, QC",45.3000,-74.0500,10,"Irricana, AB"
-"Irricana, AB",51.3189,-113.6106,57,"Princeton, BC"
-"Princeton, BC",49.4589,-120.5060,20,"Pennfield Ridge, NB"
-"Pennfield Ridge, NB",45.1924,-66.6858,50,"Zorra, ON"
-"Zorra, ON",43.1500,-80.9500,84,"Cowansville, QC"
-"Cowansville, QC",45.2000,-72.7500,62,"Alnwick, NB"
-"Alnwick, NB",47.2656,-65.2292,62,"Provost, AB"
-"Provost, AB",52.3539,-110.2686,99,"Greenwich, NB"
-"Greenwich, NB",45.5112,-66.1229,34,"Russell, ON"
-"Russell, ON",45.2569,-75.3583,44,"Bonavista, NL"
-"Bonavista, NL",48.6597,-53.1208,28,"Hillsburgh, ON"
-"Hillsburgh, ON",43.7914,-80.1354,44,"Springbrook, AB"
-"Springbrook, AB",52.1796,-113.8850,71,"Lacolle, QC"
-"Lacolle, QC",45.0833,-73.3667,22,"Regina, SK"
-"Regina, SK",50.4547,-104.6067,77,"Clanwilliam-Erickson, MB"
-"Clanwilliam-Erickson, MB",50.5061,-99.8156,42,"Cap-Saint-Ignace, QC"
-"Cap-Saint-Ignace, QC",47.0333,-70.4667,22,"Barrie, ON"
-"Barrie, ON",44.3711,-79.6769,98,"Newcastle, NB"
-"Newcastle, NB",47.1725,-65.5551,33,"Mistassini, QC"
-"Mistassini, QC",48.8229,-72.2154,85,"King, ON"
-"King, ON",44.0463,-79.6044,33,"Gjoa Haven, NU"
-"Gjoa Haven, NU",68.6448,-95.8912,33,"Nipissing, ON"
-"Nipissing, ON",46.0500,-79.5500,44,"Penticton, BC"
-"Penticton, BC",49.4911,-119.5886,61,"Saint-Modeste, QC"
-"Saint-Modeste, QC",47.8333,-69.4000,27,"Maidstone, SK"
-"Maidstone, SK",53.0920,-109.2940,77,"Cochrane, ON"
-"Cochrane, ON",49.0667,-81.0167,37,"Peterborough, ON"
-"Peterborough, ON",44.3000,-78.3167,12,"Moncton, NB"
-"Moncton, NB",46.1328,-64.7714,49,"Chapais, QC"
-"Chapais, QC",49.7819,-74.8544,16,"Ingersoll, ON"
-"Ingersoll, ON",43.0392,-80.8836,21,"Parry Sound, ON"
-"Parry Sound, ON",45.3333,-80.0333,41,"Saint Stephen, NB"
-"Saint Stephen, NB",45.2000,-67.2833,70,"Petitcodiac, NB"
-"Petitcodiac, NB",45.9333,-65.1667,12,"Bowen Island, BC"
-"Bowen Island, BC",49.3833,-123.3833,43,"Innisfil, ON"
-"Innisfil, ON",44.3000,-79.5833,84,"Montague, PE"
-"Montague, PE",46.1652,-62.6500,46,"Naramata, BC"
-"Naramata, BC",49.5886,-119.5838,80,"Spallumcheen, BC"
-"Spallumcheen, BC",50.4462,-119.2121,74,"Breslau, ON"
-"Breslau, ON",43.4816,-80.4080,73,"Lachute, QC"
-"Lachute, QC",45.6500,-74.3333,64,"Saint-Nazaire, QC"
-"Saint-Nazaire, QC",48.5833,-71.5333,60,"Twillingate, NL"
-"Twillingate, NL",49.6444,-54.7436,93,"Saint-Pacome, QC"
-"Saint-Pacome, QC",47.4000,-69.9500,46,"Stirling-Rawdon, ON"
-"Stirling-Rawdon, ON",44.3667,-77.5917,89,"Cookshire, QC"
-"Cookshire, QC",45.3729,-71.6720,46,"Nisga'a, BC"
-"Nisga'a, BC",55.1078,-129.4293,56,"Messines, QC"
-"Messines, QC",46.2333,-76.0167,20,"Mossey River, MB"
-"Mossey River, MB",51.7550,-99.9664,59,"Southesk, NB"
-"Southesk, NB",46.9901,-66.4336,83,"La Presentation, QC"
-"La Presentation, QC",45.6667,-73.0500,41,"Amherstburg, ON"
-"Amherstburg, ON",42.1000,-83.0833,45,"Coaticook, QC"
-"Coaticook, QC",45.1333,-71.8000,11,"Lamont, AB"
-"Lamont, AB",53.7603,-112.7778,14,"St-Pierre-Jolys, MB"
-"St-Pierre-Jolys, MB",49.4403,-96.9844,75,"Swift Current No. 137, SK"
-"Swift Current No. 137, SK",50.2211,-107.8559,65,"Paquetville, NB"
-"Paquetville, NB",47.6334,-65.1803,94,"Memramcook, NB"
-"Memramcook, NB",46.0000,-64.5500,92,"Elkford, BC"
-"Elkford, BC",50.0214,-114.9158,52,"Saint-Paul, QC"
-"Saint-Paul, QC",45.9833,-73.4500,43,"Obedjiwan, QC"
-"Obedjiwan, QC",48.6686,-74.9289,17,"Black River-Matheson, ON"
-"Black River-Matheson, ON",48.5333,-80.4667,41,"Saint-Lucien, QC"
-"Saint-Lucien, QC",45.8667,-72.2667,65,"Saint-Anaclet-de-Lessard, QC"
-"Saint-Anaclet-de-Lessard, QC",48.4800,-68.4200,16,"Victoriaville, QC"
-"Victoriaville, QC",46.0500,-71.9667,12,"Richibucto, NB"
-"Richibucto, NB",46.6189,-64.8385,15,"Ignace, ON"
-"Ignace, ON",49.4167,-91.6667,86,"Tisdale, SK"
-"Tisdale, SK",52.8500,-104.0500,93,"New Glasgow, NS"
-"New Glasgow, NS",45.5926,-62.6455,56,"Morris-Turnberry, ON"
-"Morris-Turnberry, ON",43.8500,-81.2500,34,"Sainte-Marguerite, QC"
-"Sainte-Marguerite, QC",46.5167,-70.9333,68,"Lambton, QC"
-"Lambton, QC",45.8300,-71.0800,93,"Estevan, SK"
-"Estevan, SK",49.1392,-102.9861,72,"Grey Highlands, ON"
-"Grey Highlands, ON",44.3333,-80.5000,58,"Lappe, ON"
-"Lappe, ON",48.5693,-89.3573,71,"Glenboro-South Cypress, MB"
-"Glenboro-South Cypress, MB",49.6650,-99.3708,67,"Burin, NL"
-"Burin, NL",47.0500,-55.1800,57,"Melancthon, ON"
-"Melancthon, ON",44.1500,-80.2667,17,"Bromont, QC"
-"Bromont, QC",45.3167,-72.6500,18,"Labrador City, NL"
-"Labrador City, NL",52.9500,-66.9167,53,"Grey, MB"
-"Grey, MB",49.7094,-98.0736,60,"Sainte-Julie, QC"
-"Sainte-Julie, QC",45.5833,-73.3333,91,"Huron-Kinloss, ON"
-"Huron-Kinloss, ON",44.0500,-81.5333,34,"Alfred and Plantagenet, ON"
-"Alfred and Plantagenet, ON",45.5667,-74.9167,15,"Summerland, BC"
-"Summerland, BC",49.6006,-119.6778,22,"Aurora, ON"
-"Aurora, ON",44.0000,-79.4667,87,"Atholville, NB"
-"Atholville, NB",47.9894,-66.7125,72,"Stonewall, MB"
-"Stonewall, MB",50.1344,-97.3261,72,"Tumbler Ridge, BC"
-"Tumbler Ridge, BC",55.1333,-121.0000,60,"Wemotaci, QC"
-"Wemotaci, QC",47.9219,-73.7872,51,"Sainte-Therese, QC"
-"Sainte-Therese, QC",45.6333,-73.8500,14,"Melville, SK"
-"Melville, SK",50.9306,-102.8078,79,"Reynolds, MB"
-"Reynolds, MB",49.7678,-95.8842,60,"Saint-Paulin, QC"
-"Saint-Paulin, QC",46.4167,-73.0333,76,"Hay River, NT"
-"Hay River, NT",60.7531,-115.9004,95,"Ootischenia, BC"
-"Ootischenia, BC",49.2916,-117.6323,65,"Saint-Joachim, QC"
-"Saint-Joachim, QC",47.0500,-70.8500,71,"Rosetown, SK"
-"Rosetown, SK",51.5500,-107.9833,82,"Pictou, NS"
-"Pictou, NS",45.6814,-62.7119,77,"Mont-Orford, QC"
-"Mont-Orford, QC",45.3661,-72.1838,25,"L'Ile-Perrot, QC"
-"L'Ile-Perrot, QC",45.3833,-73.9500,95,"Beloeil, QC"
-"Beloeil, QC",45.5667,-73.2000,95,"Dauphin, MB"
-"Dauphin, MB",51.1992,-100.0633,12,"Sainte-Melanie, QC"
-"Sainte-Melanie, QC",46.1333,-73.5167,58,"Mashteuiatsh, QC"
-"Mashteuiatsh, QC",48.5690,-72.2495,46,"Falher, AB"
-"Falher, AB",55.7372,-117.2014,64,"Trochu, AB"
-"Trochu, AB",51.8236,-113.2328,68,"Saint-Philippe, QC"
-"Saint-Philippe, QC",45.3500,-73.4700,24,"Ayer's Cliff, QC"
-"Ayer's Cliff, QC",45.1667,-72.0500,81,"Cote-Saint-Luc, QC"
-"Cote-Saint-Luc, QC",45.4687,-73.6673,97,"Saint-Theodore-d'Acton, QC"
-"Saint-Theodore-d'Acton, QC",45.6833,-72.5833,79,"Notre-Dame-du-Nord, QC"
-"Notre-Dame-du-Nord, QC",47.6000,-79.4833,93,"Bristol, QC"
-"Bristol, QC",45.5333,-76.4667,83,"Laurierville, QC"
-"Laurierville, QC",46.3000,-71.6500,34,"LaSalle, ON"
-"LaSalle, ON",42.2167,-83.0667,34,"Houston, BC"
-"Houston, BC",54.3975,-126.6419,10,"Saint-Joseph-de-Beauce, QC"
-"Saint-Joseph-de-Beauce, QC",46.3000,-70.8833,29,"Port-Daniel--Gascons, QC"
-"Port-Daniel--Gascons, QC",48.1833,-64.9667,65,"Sainte-Ursule, QC"
-"Sainte-Ursule, QC",46.2833,-73.0333,42,"Saint-Majorique-de-Grantham, QC"
-"Saint-Majorique-de-Grantham, QC",45.9333,-72.5833,58,"Comox, BC"
-"Comox, BC",49.6733,-124.9022,50,"Lake Cowichan, BC"
-"Lake Cowichan, BC",48.8258,-124.0542,14,"Athens, ON"
-"Athens, ON",44.6250,-75.9500,93,"Cardston, AB"
-"Cardston, AB",49.2025,-113.3019,99,"Hindon Hill, ON"
-"Hindon Hill, ON",44.9333,-78.7333,16,"St. Thomas, ON"
-"St. Thomas, ON",42.7750,-81.1833,78,"Bonnechere Valley, ON"
-"Bonnechere Valley, ON",45.5333,-77.1000,55,"Red Lake, ON"
-"Red Lake, ON",51.0333,-93.8333,80,"Sorel-Tracy, QC"
-"Sorel-Tracy, QC",46.0333,-73.1167,56,"Whitecourt, AB"
-"Whitecourt, AB",54.1417,-115.6833,30,"Uxbridge, ON"
-"Uxbridge, ON",44.1167,-79.1333,30,"Wallace-Woodworth, MB"
-"Wallace-Woodworth, MB",49.9156,-100.9389,77,"Miltonvale Park, PE"
-"Miltonvale Park, PE",46.3180,-63.2370,12,"Saint-Clet, QC"
-"Saint-Clet, QC",45.3500,-74.2200,85,"Enniskillen, ON"
-"Enniskillen, ON",42.8167,-82.1250,40,"Wellington, NB"
-"Wellington, NB",46.4768,-64.7478,99,"Vallee-Jonction, QC"
-"Vallee-Jonction, QC",46.3667,-70.9167,85,"Souris, PE"
-"Souris, PE",46.3554,-62.2542,69,"Waterloo, ON"
-"Waterloo, ON",43.4667,-80.5167,16,"Saint-Liguori, QC"
-"Saint-Liguori, QC",46.0167,-73.5667,92,"Salmon Arm, BC"
-"Salmon Arm, BC",50.7022,-119.2722,62,"Dutton/Dunwich, ON"
-"Dutton/Dunwich, ON",42.6667,-81.5000,52,"Airdrie, AB"
-"Airdrie, AB",51.2917,-114.0144,78,"Oakland-Wawanesa, MB"
-"Oakland-Wawanesa, MB",49.6208,-99.8481,72,"Stoneham-et-Tewkesbury, QC"
-"Stoneham-et-Tewkesbury, QC",47.1667,-71.4333,14,"Saint-Jean-de-Matha, QC"
-"Saint-Jean-de-Matha, QC",46.2300,-73.5300,73,"Botsford, NB"
-"Botsford, NB",46.1145,-63.9804,33,"Sainte-Elisabeth, QC"
-"Sainte-Elisabeth, QC",46.0833,-73.3500,39,"Williams Lake, BC"
-"Williams Lake, BC",52.1294,-122.1383,81,"West Elgin, ON"
-"West Elgin, ON",42.5833,-81.6667,71,"Denmark, NB"
-"Denmark, NB",47.1155,-67.4771,29,"Saint-Come--Liniere, QC"
-"Saint-Come--Liniere, QC",46.0667,-70.5167,99,"Cocagne, NB"
-"Cocagne, NB",46.3406,-64.6200,17,"Thessalon, ON"
-"Thessalon, ON",46.2500,-83.5500,74,"Hamilton, ON"
-"Hamilton, ON",43.2567,-79.8692,32,"Chilliwack, BC"
-"Chilliwack, BC",49.1577,-121.9509,65,"Oakville, ON"
-"Oakville, ON",43.4500,-79.6833,97,"Howick, ON"
-"Howick, ON",43.9000,-81.0700,71,"Shannon, QC"
-"Shannon, QC",46.8833,-71.5167,28,"Landmark, MB"
-"Landmark, MB",49.6711,-96.8179,78,"Ormstown, QC"
-"Ormstown, QC",45.1300,-74.0000,22,"Frontenac, QC"
-"Frontenac, QC",45.5800,-70.8300,21,"Grand View, MB"
-"Grand View, MB",51.1550,-100.7892,97,"Tache, MB"
-"Tache, MB",49.7081,-96.6736,32,"Eston, SK"
-"Eston, SK",51.1500,-108.7500,44,"Viking, AB"
-"Viking, AB",53.0953,-111.7769,33,"Maple Creek No. 111, SK"
-"Maple Creek No. 111, SK",49.8044,-109.6508,28,"Chateauguay, QC"
-"Chateauguay, QC",45.3800,-73.7500,99,"Prince Albert, SK"
-"Prince Albert, SK",53.2000,-105.7500,39,"L'Anse-Saint-Jean, QC"
-"L'Anse-Saint-Jean, QC",48.2333,-70.2000,75,"Herouxville, QC"
-"Herouxville, QC",46.6667,-72.6167,54,"Baie-du-Febvre, QC"
-"Baie-du-Febvre, QC",46.1300,-72.7200,72,"Saint-Simeon, QC"
-"Saint-Simeon, QC",48.0667,-65.5667,98,"Duck Lake No. 463, SK"
-"Duck Lake No. 463, SK",52.9596,-106.2089,79,"Rosthern, SK"
-"Rosthern, SK",52.6500,-106.3333,18,"Severn, ON"
-"Severn, ON",44.7500,-79.5167,31,"Trent Hills, ON"
-"Trent Hills, ON",44.3142,-77.8514,57,"Logan Lake, BC"
-"Logan Lake, BC",50.4911,-120.8153,78,"Hillsborough, NB"
-"Hillsborough, NB",45.9052,-64.7652,65,"Charlo, NB"
-"Charlo, NB",48.0000,-66.3200,34,"Chisasibi, QC"
-"Chisasibi, QC",53.6645,-78.7938,66,"Chandler, QC"
-"Chandler, QC",48.3500,-64.6833,75,"West Grey, ON"
-"West Grey, ON",44.1833,-80.8167,58,"Laurier-Station, QC"
-"Laurier-Station, QC",46.5333,-71.6333,66,"Saint-Bruno-de-Montarville, QC"
-"Saint-Bruno-de-Montarville, QC",45.5333,-73.3500,49,"Prince Rupert, BC"
-"Prince Rupert, BC",54.3122,-130.3271,55,"Saint-Sulpice, QC"
-"Saint-Sulpice, QC",45.8333,-73.3500,14,"Saint-Narcisse, QC"
-"Saint-Narcisse, QC",46.5667,-72.4667,11,"Bonnyville, AB"
-"Bonnyville, AB",54.2667,-110.7500,78,"Estevan No. 5, SK"
-"Estevan No. 5, SK",49.1308,-103.0126,47,"Sables-Spanish Rivers, ON"
-"Sables-Spanish Rivers, ON",46.2333,-82.0000,78,"Mont-Joli, QC"
-"Mont-Joli, QC",48.5800,-68.1800,61,"Adelaide-Metcalfe, ON"
-"Adelaide-Metcalfe, ON",42.9500,-81.7000,48,"Eastman, QC"
-"Eastman, QC",45.3341,-72.3041,63,"Lyster, QC"
-"Lyster, QC",46.3667,-71.6167,86,"Elliot Lake, ON"
-"Elliot Lake, ON",46.3833,-82.6500,22,"Sainte-Brigide-d'Iberville, QC"
-"Sainte-Brigide-d'Iberville, QC",45.3167,-73.0667,37,"Riviere-Rouge, QC"
-"Riviere-Rouge, QC",46.4167,-74.8667,64,"Wentworth-Nord, QC"
-"Wentworth-Nord, QC",45.8500,-74.4500,14,"Westbank, BC"
-"Westbank, BC",49.8423,-119.6743,96,"Venise-en-Quebec, QC"
-"Venise-en-Quebec, QC",45.0833,-73.1333,24,"Saint-Sylvestre, QC"
-"Saint-Sylvestre, QC",46.3667,-71.2333,11,"Barrhead, AB"
-"Barrhead, AB",54.1167,-114.4000,59,"Kingsclear, NB"
-"Kingsclear, NB",45.8796,-66.8695,94,"Alexander, MB"
-"Alexander, MB",50.4222,-96.0750,32,"Grand-Remous, QC"
-"Grand-Remous, QC",46.6167,-75.9000,26,"Behchoko, NT"
-"Behchoko, NT",62.8184,-115.9933,62,"Pond Inlet, NU"
-"Pond Inlet, NU",72.6808,-77.7503,87,"Fort Saskatchewan, AB"
-"Fort Saskatchewan, AB",53.7128,-113.2133,76,"Baie-Saint-Paul, QC"
-"Baie-Saint-Paul, QC",47.4500,-70.5000,19,"Louiseville, QC"
-"Louiseville, QC",46.2500,-72.9500,24,"Perth East, ON"
-"Perth East, ON",43.4700,-80.9500,37,"Edson, AB"
-"Edson, AB",53.5817,-116.4344,63,"Nipigon, ON"
-"Nipigon, ON",49.0153,-88.2683,72,"Racine, QC"
-"Racine, QC",45.5000,-72.2500,53,"Victoria, BC"
-"Victoria, BC",48.4283,-123.3647,97,"Saint-Michel-des-Saints, QC"
-"Saint-Michel-des-Saints, QC",46.6833,-73.9167,68,"Pasadena, NL"
-"Pasadena, NL",49.0161,-57.6050,35,"Kincardine, ON"
-"Kincardine, ON",44.1667,-81.6333,11,"Saint-Agapit, QC"
-"Saint-Agapit, QC",46.5667,-71.4333,44,"Anmore, BC"
-"Anmore, BC",49.3144,-122.8564,65,"South Stormont, ON"
-"South Stormont, ON",45.0833,-74.9667,37,"Cavan Monaghan, ON"
-"Cavan Monaghan, ON",44.2000,-78.4667,55,"Rimouski, QC"
-"Rimouski, QC",48.4500,-68.5300,56,"Caledon, ON"
-"Caledon, ON",43.8667,-79.8667,58,"La Prairie, QC"
-"La Prairie, QC",45.4200,-73.5000,55,"Havre-Saint-Pierre, QC"
-"Havre-Saint-Pierre, QC",50.2333,-63.6000,81,"Cape Breton, NS"
-"Cape Breton, NS",46.1389,-60.1931,38,"Acton Vale, QC"
-"Acton Vale, QC",45.6500,-72.5667,95,"Fort Macleod, AB"
-"Fort Macleod, AB",49.7256,-113.3975,84,"Saint-Michel, QC"
-"Saint-Michel, QC",45.2333,-73.5667,68,"Montcalm, MB"
-"Montcalm, MB",49.1775,-97.3247,45,"Notre-Dame-du-Portage, QC"
-"Notre-Dame-du-Portage, QC",47.7667,-69.6167,56,"Halifax, NS"
-"Halifax, NS",44.6475,-63.5906,58,"Tracadie, NB"
-"Tracadie, NB",47.5124,-64.9101,41,"Saint-Alexandre, QC"
-"Saint-Alexandre, QC",45.2333,-73.1167,61,"Rogersville, NB"
-"Rogersville, NB",46.7167,-65.4167,15,"Warwick, QC"
-"Warwick, QC",45.9500,-71.9833,35,"Belleville, ON"
-"Belleville, ON",44.1667,-77.3833,35,"Saint-Polycarpe, QC"
-"Saint-Polycarpe, QC",45.3000,-74.3000,86,"city_ascii, province_id"
-"city_ascii, province_id",lat,lng,87,"Sainte-Croix, QC"
-"Sainte-Croix, QC",46.6200,-71.7300,72,"Plessisville, QC"
-"Plessisville, QC",46.2167,-71.7833,60,"Three Hills, AB"
-"Three Hills, AB",51.7072,-113.2647,22,"Saint-Ferreol-les-Neiges, QC"
-"Saint-Ferreol-les-Neiges, QC",47.1167,-70.8500,22,"Drummondville, QC"
-"Drummondville, QC",45.8833,-72.4833,46,"Sainte-Claire, QC"
-"Sainte-Claire, QC",46.6000,-70.8667,87,"Leamington, ON"
-"Leamington, ON",42.0667,-82.5833,96,"Arnprior, ON"
-"Arnprior, ON",45.4333,-76.3500,85,"Rougemont, QC"
-"Rougemont, QC",45.4333,-73.0500,82,"Brandon, MB"
-"Brandon, MB",49.8483,-99.9500,53,"Riviere-Heva, QC"
-"Riviere-Heva, QC",48.2333,-78.2167,14,"Casselman, ON"
-"Casselman, ON",45.3000,-75.0833,18,"Lumsden No. 189, SK"
-"Lumsden No. 189, SK",50.6734,-104.7686,41,"Lanigan, SK"
-"Lanigan, SK",51.8500,-105.0333,42,"Saint-Louis, NB"
-"Saint-Louis, NB",46.7048,-65.1046,73,"McDougall, ON"
-"McDougall, ON",45.4500,-80.0167,75,"Meadow Lake No. 588, SK"
-"Meadow Lake No. 588, SK",54.1213,-108.2837,45,"Saint-Michel-de-Bellechasse, QC"
-"Saint-Michel-de-Bellechasse, QC",46.8667,-70.9167,67,"Antigonish, NS"
-"Antigonish, NS",45.6167,-61.9833,23,"Saint-Frederic, QC"
-"Saint-Frederic, QC",46.3000,-70.9667,25,"Gibbons, AB"
-"Gibbons, AB",53.8278,-113.3228,20,"Noonan, NB"
-"Noonan, NB",45.9544,-66.4868,38,"Nain, NL"
-"Nain, NL",56.5422,-61.6928,96,"St. John's, NL"
-"St. John's, NL",47.4817,-52.7971,58,"New Carlisle, QC"
-"New Carlisle, QC",48.0167,-65.3333,11,"Cowichan Bay, BC"
-"Cowichan Bay, BC",48.7666,-123.6743,98,"Petawawa, ON"
-"Petawawa, ON",45.9000,-77.2833,96,"Battle River No. 438, SK"
-"Battle River No. 438, SK",52.7343,-108.4452,14,"Val-d'Or, QC"
-"Val-d'Or, QC",48.1000,-77.7833,30,"London, ON"
-"London, ON",42.9836,-81.2497,76,"Louise, MB"
-"Louise, MB",49.1772,-98.8794,23,"Chestermere, AB"
-"Chestermere, AB",51.0500,-113.8225,30,"Rothesay, NB"
-"Rothesay, NB",45.3831,-65.9969,86,"Beaver River, SK"
-"Beaver River, SK",54.3531,-109.5575,16,"Cambridge, ON"
-"Cambridge, ON",43.3972,-80.3114,23,"Stettler, AB"
-"Stettler, AB",52.3236,-112.7192,83,"Killaloe, Hagarty and Richards, ON"
-"Killaloe, Hagarty and Richards, ON",45.6000,-77.5000,44,"Sussex, NB"
-"Sussex, NB",45.7167,-65.5167,20,"Kindersley No. 290, SK"
-"Kindersley No. 290, SK",51.4894,-109.0979,64,"Saint-Elzear, QC"
-"Saint-Elzear, QC",46.4000,-71.0667,29,"Fogo Island, NL"
-"Fogo Island, NL",49.6667,-54.1833,19,"Saint-Andre-Avellin, QC"
-"Saint-Andre-Avellin, QC",45.7167,-75.0667,23,"Saint-Urbain-Premier, QC"
-"Saint-Urbain-Premier, QC",45.2200,-73.7300,24,"Sainte-Brigitte-de-Laval, QC"
-"Sainte-Brigitte-de-Laval, QC",47.0000,-71.2000,24,"Pontiac, QC"
-"Pontiac, QC",45.5833,-76.1333,65,"Saint-Benoit-Labre, QC"
-"Saint-Benoit-Labre, QC",46.0667,-70.8000,95,"L'Avenir, QC"
-"L'Avenir, QC",45.7667,-72.3000,52,"Saint-Eustache, QC"
-"Saint-Eustache, QC",45.5700,-73.9000,71,"Baker Lake, NU"
-"Baker Lake, NU",64.3287,-96.0308,40,"Kitimat, BC"
-"Kitimat, BC",54.0000,-128.7000,46,"Sainte-Helene-de-Bagot, QC"
-"Sainte-Helene-de-Bagot, QC",45.7333,-72.7333,70,"Matane, QC"
-"Matane, QC",48.8500,-67.5333,19,"Hearst, ON"
-"Hearst, ON",49.6869,-83.6544,98,"West St. Paul, MB"
-"West St. Paul, MB",50.0119,-97.1150,61,"Normandin, QC"
-"Normandin, QC",48.8333,-72.5333,42,"Neepawa, MB"
-"Neepawa, MB",50.2289,-99.4656,72,"Beaverlodge, AB"
-"Beaverlodge, AB",55.2094,-119.4292,68,"Richmond Hill, ON"
-"Richmond Hill, ON",43.8667,-79.4333,66,"Southgate, ON"
-"Southgate, ON",44.1000,-80.5833,43,"Maple Creek, SK"
-"Maple Creek, SK",49.9167,-109.4667,68,"Madawaska Valley, ON"
-"Madawaska Valley, ON",45.5000,-77.6667,14,"Crabtree, QC"
-"Crabtree, QC",45.9667,-73.4667,66,"Saint-Basile, QC"
-"Saint-Basile, QC",46.7500,-71.8167,24,"Yarmouth, NS"
-"Yarmouth, NS",43.8361,-66.1175,77,"Peace River, AB"
-"Peace River, AB",56.2339,-117.2897,42,"Battleford, SK"
-"Battleford, SK",52.7383,-108.3153,69,"Vaudreuil-Dorion, QC"
-"Vaudreuil-Dorion, QC",45.4000,-74.0333,42,"Pointe-des-Cascades, QC"
-"Pointe-des-Cascades, QC",45.3333,-73.9667,54,"Saint-Ignace-de-Loyola, QC"
-"Saint-Ignace-de-Loyola, QC",46.0667,-73.1333,33,"Pointe-a-la-Croix, QC"
-"Pointe-a-la-Croix, QC",48.0167,-66.6833,94,"Saint-Gabriel, QC"
-"Saint-Gabriel, QC",46.3000,-73.3833,81,"Deer Lake, NL"
-"Deer Lake, NL",49.1744,-57.4269,24,"Schreiber, ON"
-"Schreiber, ON",48.8167,-87.2667,37,"Crossfield, AB"
-"Crossfield, AB",51.4333,-114.0333,69,"Buffalo Narrows, SK"
-"Buffalo Narrows, SK",55.8769,-108.5244,45,"Prince, ON"
-"Prince, ON",46.5333,-84.5000,78,"Sainte-Luce, QC"
-"Sainte-Luce, QC",48.5500,-68.3800,59,"Blanc-Sablon, QC"
-"Blanc-Sablon, QC",51.4167,-57.1333,48,"Point Edward, ON"
-"Point Edward, ON",42.9931,-82.4083,85,"Springfield, NB"
-"Springfield, NB",45.7005,-65.8079,84,"Boucherville, QC"
-"Boucherville, QC",45.6000,-73.4500,55,"Lunenburg, NS"
-"Lunenburg, NS",44.3833,-64.3167,95,"West Vancouver, BC"
-"West Vancouver, BC",49.3667,-123.1667,76,"Wabush, NL"
-"Wabush, NL",52.9081,-66.8690,92,"High Prairie, AB"
-"High Prairie, AB",55.4325,-116.4861,45,"Kaleden, BC"
-"Kaleden, BC",49.3926,-119.5955,41,"Armstrong, MB"
-"Armstrong, MB",50.6400,-97.4950,34,"Grand Manan, NB"
-"Grand Manan, NB",44.6900,-66.8200,80,"Repentigny, QC"
-"Repentigny, QC",45.7333,-73.4667,25,"Pickering, ON"
-"Pickering, ON",43.8354,-79.0890,68,"Bon Accord, AB"
-"Bon Accord, AB",53.8328,-113.4189,32,"Saint-Gilles, QC"
-"Saint-Gilles, QC",46.5167,-71.3667,45,"Strong, ON"
-"Strong, ON",45.7500,-79.4000,45,"Lumby, BC"
-"Lumby, BC",50.2494,-118.9656,48,"Bonaventure, QC"
-"Bonaventure, QC",48.0500,-65.4833,24,"Eeyou Istchee Baie-James, QC"
-"Eeyou Istchee Baie-James, QC",52.3382,-75.1977,45,"Russell-Binscarth, MB"
-"Russell-Binscarth, MB",50.7272,-101.3689,78,"Maria, QC"
-"Maria, QC",48.1667,-65.9833,83,"Colwood, BC"
-"Colwood, BC",48.4236,-123.4958,92,"Moosomin, SK"
-"Moosomin, SK",50.1420,-101.6700,79,"Port McNeill, BC"
-"Port McNeill, BC",50.5903,-127.0847,93,"Holyrood, NL"
-"Holyrood, NL",47.3833,-53.1333,80,"Stony Plain, AB"
-"Stony Plain, AB",53.5264,-114.0069,96,"Fort St. James, BC"
-"Fort St. James, BC",54.4431,-124.2542,18,"Franklin Centre, QC"
-"Franklin Centre, QC",45.0467,-73.9005,74,"Aylmer, ON"
-"Aylmer, ON",42.7667,-80.9833,40,"Drummond/North Elmsley, ON"
-"Drummond/North Elmsley, ON",44.9667,-76.2000,89,"Southwest Middlesex, ON"
-"Southwest Middlesex, ON",42.7500,-81.7000,15,"Front of Yonge, ON"
-"Front of Yonge, ON",44.5333,-75.8667,70,"Northeastern Manitoulin and the Islands, ON"
-"Northeastern Manitoulin and the Islands, ON",45.9667,-81.9333,61,"View Royal, BC"
-"View Royal, BC",48.4517,-123.4339,20,"Golden, BC"
-"Golden, BC",51.3019,-116.9667,84,"Southwold, ON"
-"Southwold, ON",42.7500,-81.3167,58,"Becancour, QC"
-"Becancour, QC",46.3333,-72.4333,46,"Leduc, AB"
-"Leduc, AB",53.2594,-113.5492,38,"Saint Andrews, NB"
-"Saint Andrews, NB",45.0740,-67.0521,17,"Vaughan, ON"
-"Vaughan, ON",43.8333,-79.5000,83,"New Tecumseth, ON"
-"New Tecumseth, ON",44.0833,-79.7500,84,"Irishtown-Summerside, NL"
-"Irishtown-Summerside, NL",48.9833,-57.9500,33,"Musquash, NB"
-"Musquash, NB",45.1836,-66.3514,49,"Pilot Butte, SK"
-"Pilot Butte, SK",50.4667,-104.4167,65,"Mont-Saint-Hilaire, QC"
-"Mont-Saint-Hilaire, QC",45.5622,-73.1917,96,"Sainte-Thecle, QC"
-"Sainte-Thecle, QC",46.8167,-72.5000,93,"Baie-d'Urfe, QC"
-"Baie-d'Urfe, QC",45.4167,-73.9167,35,"Saint-Blaise-sur-Richelieu, QC"
-"Saint-Blaise-sur-Richelieu, QC",45.2167,-73.2833,64,"Saint-Arsene, QC"
-"Saint-Arsene, QC",47.9167,-69.4333,30,"Minto, ON"
-"Minto, ON",43.9167,-80.8667,40,"Strathmore, AB"
-"Strathmore, AB",51.0378,-113.4003,20,"Champlain, QC"
-"Champlain, QC",46.4500,-72.3500,78,"Stanley, MB"
-"Stanley, MB",49.1331,-98.0656,87,"Saint-Wenceslas, QC"
-"Saint-Wenceslas, QC",46.1667,-72.3333,57,"Ile-a-la-Crosse, SK"
-"Ile-a-la-Crosse, SK",55.4500,-107.8833,33,"Lincoln, NB"
-"Lincoln, NB",45.8716,-66.5437,68,"Akwesasne, QC"
-"Akwesasne, QC",45.0155,-74.5769,77,"Saint-Alphonse-Rodriguez, QC"
-"Saint-Alphonse-Rodriguez, QC",46.1833,-73.7000,53,"Lac-Drolet, QC"
-"Lac-Drolet, QC",45.7200,-70.8500,14,"Upham, NB"
-"Upham, NB",45.5083,-65.6618,67,"Falmouth, NS"
-"Falmouth, NS",44.9967,-64.1634,32,"Noyan, QC"
-"Noyan, QC",45.0667,-73.3000,16,"The Blue Mountains, ON"
-"The Blue Mountains, ON",44.4833,-80.3833,72,"Ste. Anne, MB"
-"Ste. Anne, MB",49.6186,-96.5708,79,"Sagamok, ON"
-"Sagamok, ON",46.1529,-82.2072,39,"Centreville, NS"
-"Centreville, NS",45.1300,-64.5224,87,"Sherbrooke, QC"
-"Sherbrooke, QC",45.4000,-71.9000,55,"Rossburn, MB"
-"Rossburn, MB",50.7272,-100.7408,57,"L'Ascension-de-Notre-Seigneur, QC"
-"L'Ascension-de-Notre-Seigneur, QC",48.7000,-71.6833,80,"Madoc, ON"
-"Madoc, ON",44.5833,-77.5167,34,"Fossambault-sur-le-Lac, QC"
-"Fossambault-sur-le-Lac, QC",46.8667,-71.6167,73,"Riviere-Beaudette, QC"
-"Riviere-Beaudette, QC",45.2333,-74.3333,36,"St. Louis No. 431, SK"
-"St. Louis No. 431, SK",52.8277,-105.7873,28,"White City, SK"
-"White City, SK",50.4353,-104.3572,90,"Hampstead, QC"
-"Hampstead, QC",45.4833,-73.6333,78,"Sudbury, ON"
-"Sudbury, ON",46.4900,-81.0100,19,"Smithers, BC"
-"Smithers, BC",54.7819,-127.1681,84,"Blumenort, MB"
-"Blumenort, MB",49.6033,-96.7006,73,"Dawn-Euphemia, ON"
-"Dawn-Euphemia, ON",42.7000,-82.0167,28,"Warwick, ON"
-"Warwick, ON",43.0000,-81.8917,35,"Saint-Odilon-de-Cranbourne, QC"
-"Saint-Odilon-de-Cranbourne, QC",46.3667,-70.6833,20,"Waskaganish, QC"
-"Waskaganish, QC",51.3674,-78.7069,15,"Albanel, QC"
-"Albanel, QC",48.8833,-72.4500,72,"Deleage, QC"
-"Deleage, QC",46.3833,-75.9167,21,"Saint-Tite-des-Caps, QC"
-"Saint-Tite-des-Caps, QC",47.1333,-70.7667,58,"Sussex Corner, NB"
-"Sussex Corner, NB",45.7122,-65.4719,69,"Crowsnest Pass, AB"
-"Crowsnest Pass, AB",49.5955,-114.5136,60,"St. Anthony, NL"
-"St. Anthony, NL",51.3725,-55.5947,68,"Saint-Stanislas-de-Kostka, QC"
-"Saint-Stanislas-de-Kostka, QC",45.1800,-74.1300,74,"Wynyard, SK"
-"Wynyard, SK",51.7667,-104.1833,84,"Sparwood, BC"
-"Sparwood, BC",49.7331,-114.8853,86,"Sault Ste. Marie, ON"
-"Sault Ste. Marie, ON",46.5333,-84.3500,17,"Beachburg, ON"
-"Beachburg, ON",45.7303,-76.8559,56,"Errington, BC"
-"Errington, BC",49.2874,-124.3433,54,"Thunder Bay, ON"
-"Thunder Bay, ON",48.3822,-89.2461,54,"Clearview, ON"
-"Clearview, ON",44.3981,-80.0742,28,"Wilkie, SK"
-"Wilkie, SK",52.4167,-108.7000,31,"Chateau-Richer, QC"
-"Chateau-Richer, QC",46.9667,-71.0167,76,"Vermilion, AB"
-"Vermilion, AB",53.3542,-110.8528,20,"Burton, NB"
-"Burton, NB",45.8009,-66.4066,58,"Lac-Superieur, QC"
-"Lac-Superieur, QC",46.2000,-74.4667,80,"Gracefield, QC"
-"Gracefield, QC",46.0926,-75.9574,62,"Goulds, NL"
-"Goulds, NL",47.4517,-52.7647,69,"Gillam, MB"
-"Gillam, MB",56.3472,-94.7078,57,"Riverview, NB"
-"Riverview, NB",46.0613,-64.8052,52,"Olds, AB"
-"Olds, AB",51.7928,-114.1067,25,"Keremeos, BC"
-"Keremeos, BC",49.2025,-119.8294,26,"Grimshaw, AB"
-"Grimshaw, AB",56.1908,-117.6117,68,"La Ronge, SK"
-"La Ronge, SK",55.1000,-105.3000,59,"Port Coquitlam, BC"
-"Port Coquitlam, BC",49.2625,-122.7811,77,"Riviere-Blanche, QC"
-"Riviere-Blanche, QC",48.7833,-67.7000,84,"Barrington, NS"
-"Barrington, NS",43.5646,-65.5639,45,"Stoke, QC"
-"Stoke, QC",45.5333,-71.8000,22,"Otterburn Park, QC"
-"Otterburn Park, QC",45.5333,-73.2167,87,"Saint-Hyacinthe, QC"
-"Saint-Hyacinthe, QC",45.6167,-72.9500,26,"Sainte-Barbe, QC"
-"Sainte-Barbe, QC",45.1667,-74.2000,88,"Magnetawan, ON"
-"Magnetawan, ON",45.6667,-79.6333,67,"Listuguj, QC"
-"Listuguj, QC",48.0609,-66.7491,49,"Indian Head, SK"
-"Indian Head, SK",50.5333,-103.6667,42,"Neguac, NB"
-"Neguac, NB",47.2333,-65.0500,11,"Trail, BC"
-"Trail, BC",49.0950,-117.7100,27,"Hemmingford, QC"
-"Hemmingford, QC",45.0833,-73.5833,10,"Val-David, QC"
-"Val-David, QC",46.0300,-74.2200,98,"L'Isle-aux-Coudres, QC"
-"L'Isle-aux-Coudres, QC",47.4000,-70.3833,97,"Saint-Donat, QC"
-"Saint-Donat, QC",46.3167,-74.2167,74,"Stratford, ON"
-"Stratford, ON",43.3708,-80.9819,97,"Arborg, MB"
-"Arborg, MB",50.9075,-97.2182,25,"Lorrainville, QC"
-"Lorrainville, QC",47.3613,-79.3382,49,"Les Escoumins, QC"
-"Les Escoumins, QC",48.3500,-69.4000,91,"Les Eboulements, QC"
-"Les Eboulements, QC",47.4833,-70.3167,37,"Kirkland Lake, ON"
-"Kirkland Lake, ON",48.1500,-80.0333,23,"Malahide, ON"
-"Malahide, ON",42.7928,-80.9361,29,"Torbay, NL"
-"Torbay, NL",47.6500,-52.7333,66,"Carlyle, SK"
-"Carlyle, SK",49.6333,-102.2667,79,"Bonfield, ON"
-"Bonfield, ON",46.2167,-79.1333,47,"Humbermouth, NL"
-"Humbermouth, NL",49.0156,-58.1678,43,"Saint-Valerien-de-Milton, QC"
-"Saint-Valerien-de-Milton, QC",45.5667,-72.7167,72,"Rawdon, QC"
-"Rawdon, QC",46.0500,-73.7167,49,"Gambo, NL"
-"Gambo, NL",48.7833,-54.2167,69,"Centre Hastings, ON"
-"Centre Hastings, ON",44.4167,-77.4417,68,"Picture Butte, AB"
-"Picture Butte, AB",49.8731,-112.7800,64,"Macklin, SK"
-"Macklin, SK",52.3300,-109.9400,30,"Fort-Coulonge, QC"
-"Fort-Coulonge, QC",45.8500,-76.7333,76,"Sainte-Marthe, QC"
-"Sainte-Marthe, QC",45.4000,-74.3000,59,"Riviere-du-Loup, QC"
-"Riviere-du-Loup, QC",47.8333,-69.5333,84,"Notre-Dame-du-Mont-Carmel, QC"
-"Notre-Dame-du-Mont-Carmel, QC",46.4833,-72.6500,40,"La Macaza, QC"
-"La Macaza, QC",46.3667,-74.7667,43,"Petit Rocher, NB"
-"Petit Rocher, NB",47.7839,-65.7159,68,"Lacombe, AB"
-"Lacombe, AB",52.4683,-113.7369,41,"Amqui, QC"
-"Amqui, QC",48.4667,-67.4333,89,"Huron Shores, ON"
-"Huron Shores, ON",46.2833,-83.2000,86,"Mono, ON"
-"Mono, ON",44.0167,-80.0667,97,"Wemindji, QC"
-"Wemindji, QC",53.0440,-78.7384,39,"Saint-Ephrem-de-Beauce, QC"
-"Saint-Ephrem-de-Beauce, QC",46.0516,-70.9374,98,"Cedar, BC"
-"Cedar, BC",49.0853,-123.8259,71,"Saint-Lazare, QC"
-"Saint-Lazare, QC",45.4000,-74.1333,96,"Hanover, ON"
-"Hanover, ON",44.1500,-81.0333,58,"Swift Current, SK"
-"Swift Current, SK",50.2881,-107.7939,26,"Woodstock, ON"
-"Woodstock, ON",43.1306,-80.7467,16,"Mapleton, ON"
-"Mapleton, ON",43.7358,-80.6681,65,"Varennes, QC"
-"Varennes, QC",45.6833,-73.4333,90,"Grande-Vallee, QC"
-"Grande-Vallee, QC",49.2167,-65.1333,65,"Powell River, BC"
-"Powell River, BC",49.8353,-124.5247,49,"Shellbrook No. 493, SK"
-"Shellbrook No. 493, SK",53.3545,-106.2553,82,"Notre-Dame-du-Bon-Conseil, QC"
-"Notre-Dame-du-Bon-Conseil, QC",46.0000,-72.3500,48,"Buckland No. 491, SK"
-"Buckland No. 491, SK",53.3276,-105.7804,41,"East Broughton, QC"
-"East Broughton, QC",46.2167,-71.0667,30,"Saint-Andre, NB"
-"Saint-Andre, NB",47.1392,-67.7444,17,"L'Assomption, QC"
-"L'Assomption, QC",45.8333,-73.4167,55,"Asbestos, QC"
-"Asbestos, QC",45.7667,-71.9333,32,"Saint-Jacques, QC"
-"Saint-Jacques, QC",45.9500,-73.5667,90,"Lloydminster, AB"
-"Lloydminster, AB",53.2807,-110.0350,17,"Rimbey, AB"
-"Rimbey, AB",52.6333,-114.2167,92,"Stewiacke, NS"
-"Stewiacke, NS",45.1422,-63.3483,47,"Nelson, BC"
-"Nelson, BC",49.5000,-117.2833,83,"La Peche, QC"
-"La Peche, QC",45.6833,-75.9833,39,"Price, QC"
-"Price, QC",48.6017,-68.1227,25,"Taylor, BC"
-"Taylor, BC",56.1590,-120.6878,47,"Corner Brook, NL"
-"Corner Brook, NL",48.9287,-57.9260,88,"Clarendon, QC"
-"Clarendon, QC",45.6500,-76.5167,70,"Armstrong, ON"
-"Armstrong, ON",47.7083,-79.8250,37,"North Norfolk, MB"
-"North Norfolk, MB",49.9308,-98.8356,23,"Brownsburg, QC"
-"Brownsburg, QC",45.6703,-74.4467,23,"Studholm, NB"
-"Studholm, NB",45.8133,-65.5747,85,"Balgonie, SK"
-"Balgonie, SK",50.4880,-104.2690,40,"Saint-Edouard, QC"
-"Saint-Edouard, QC",45.2333,-73.5167,32,"Saint-Francois-Xavier-de-Brompton, QC"
-"Saint-Francois-Xavier-de-Brompton, QC",45.5333,-72.0500,81,"Armstrong, BC"
-"Armstrong, BC",50.4483,-119.1961,84,"Kent, NB"
-"Kent, NB",46.6221,-67.2953,41,"Val-des-Monts, QC"
-"Val-des-Monts, QC",45.6500,-75.6667,16,"Langford Station, BC"
-"Langford Station, BC",48.4506,-123.5058,21,"Saint-Liboire, QC"
-"Saint-Liboire, QC",45.6500,-72.7667,86,"Weyburn No. 67, SK"
-"Weyburn No. 67, SK",49.6535,-103.8348,32,"Minitonas-Bowsman, MB"
-"Minitonas-Bowsman, MB",52.1433,-100.9772,82,"Markstay, ON"
-"Markstay, ON",46.4912,-80.4717,44,"Hatley, QC"
-"Hatley, QC",45.2700,-71.9500,18,"Barraute, QC"
-"Barraute, QC",48.4333,-77.6333,61,"Saint-Fulgence, QC"
-"Saint-Fulgence, QC",48.4500,-70.9000,50,"Ottawa, ON"
-"Ottawa, ON",45.4247,-75.6950,16,"Saint-Joseph-de-Coleraine, QC"
-"Saint-Joseph-de-Coleraine, QC",45.9700,-71.3700,70,"Bassano, AB"
-"Bassano, AB",50.7833,-112.4667,67,"Saint-Roch-de-Richelieu, QC"
-"Saint-Roch-de-Richelieu, QC",45.8833,-73.1667,98,"Laurentian Valley, ON"
-"Laurentian Valley, ON",45.7681,-77.2239,78,"North Kawartha, ON"
-"North Kawartha, ON",44.7500,-78.1000,39,"Carignan, QC"
-"Carignan, QC",45.4500,-73.3000,88,"Roland, MB"
-"Roland, MB",49.3547,-97.8997,97,"Saint-Denis-de-Brompton, QC"
-"Saint-Denis-de-Brompton, QC",45.4500,-72.0833,87,"Wasaga Beach, ON"
-"Wasaga Beach, ON",44.5206,-80.0167,75,"Terrace, BC"
-"Terrace, BC",54.5164,-128.5997,51,"Saint-Lambert-de-Lauzon, QC"
-"Saint-Lambert-de-Lauzon, QC",46.5865,-71.2271,26,"Terrebonne, QC"
-"Terrebonne, QC",45.7000,-73.6333,13,"Middleton, NS"
-"Middleton, NS",44.9418,-65.0686,74,"Flat Rock, NL"
-"Flat Rock, NL",47.7086,-52.7144,99,"L'Ange-Gardien, QC"
-"L'Ange-Gardien, QC",45.5833,-75.4500,41,"Saint-Antoine-sur-Richelieu, QC"
-"Saint-Antoine-sur-Richelieu, QC",45.7833,-73.1833,25,"La Conception, QC"
-"La Conception, QC",46.1500,-74.7000,24,"Saint-Alban, QC"
-"Saint-Alban, QC",46.7167,-72.0833,27,"Truro, NS"
-"Truro, NS",45.3647,-63.2800,47,"Saint-Raphael, QC"
-"Saint-Raphael, QC",46.8000,-70.7500,59,"Vauxhall, AB"
-"Vauxhall, AB",50.0689,-112.0975,67,"Lac-aux-Sables, QC"
-"Lac-aux-Sables, QC",46.8667,-72.4000,75,"Duchess, AB"
-"Duchess, AB",50.7333,-111.9000,63,"Lac du Bonnet, MB"
-"Lac du Bonnet, MB",50.2577,-96.1209,11,"Melita, MB"
-"Melita, MB",49.2681,-100.9958,64,"Alvinston, ON"
-"Alvinston, ON",42.8489,-81.9049,72,"Windsor, ON"
-"Windsor, ON",42.2833,-83.0000,60,"Mascouche, QC"
-"Mascouche, QC",45.7500,-73.6000,31,"Saint-Lambert, QC"
-"Saint-Lambert, QC",45.5000,-73.5167,77,"Shelburne, ON"
-"Shelburne, ON",44.0833,-80.2000,37,"McCreary, MB"
-"McCreary, MB",50.7494,-99.4850,13,"Mahone Bay, NS"
-"Mahone Bay, NS",44.4489,-64.3819,21,"Campbellton, NB"
-"Campbellton, NB",48.0050,-66.6731,70,"Welland, ON"
-"Welland, ON",42.9833,-79.2333,92,"Moose Jaw No. 161, SK"
-"Moose Jaw No. 161, SK",50.4433,-105.5091,79,"Royston, BC"
-"Royston, BC",49.6405,-124.9406,59,"Kingsville, ON"
-"Kingsville, ON",42.1000,-82.7167,82,"Bradford West Gwillimbury, ON"
-"Bradford West Gwillimbury, ON",44.1333,-79.6333,33,"Popkum, BC"
-"Popkum, BC",49.1911,-121.7553,36,"Oxford, NS"
-"Oxford, NS",45.7306,-63.8733,73,"Dorval, QC"
-"Dorval, QC",45.4500,-73.7500,82,"Wetaskiwin, AB"
-"Wetaskiwin, AB",52.9694,-113.3769,56,"Kenora, ON"
-"Kenora, ON",49.7667,-94.4833,12,"Saint-Felix-de-Kingsey, QC"
-"Saint-Felix-de-Kingsey, QC",45.8000,-72.1833,45,"Saint-Fabien, QC"
-"Saint-Fabien, QC",48.3000,-68.8700,92,"Wembley, AB"
-"Wembley, AB",55.1572,-119.1392,55,"Saint Martins, NB"
-"Saint Martins, NB",45.4563,-65.4395,19,"Temiskaming Shores, ON"
-"Temiskaming Shores, ON",47.5167,-79.6833,47,"Swan Valley West, MB"
-"Swan Valley West, MB",51.9978,-101.3944,53,"Dieppe, NB"
-"Dieppe, NB",46.0989,-64.7242,44,"Saint-Anicet, QC"
-"Saint-Anicet, QC",45.1200,-74.3500,85,"Saint-Quentin, NB"
-"Saint-Quentin, NB",47.5135,-67.3921,87,"Selwyn, ON"
-"Selwyn, ON",44.4167,-78.3333,23,"Plantagenet, ON"
-"Plantagenet, ON",45.5321,-74.9956,61,"Fort Qu'Appelle, SK"
-"Fort Qu'Appelle, SK",50.7667,-103.7833,19,"St. Lawrence, NL"
-"St. Lawrence, NL",46.9244,-55.3928,38,"Nanaimo, BC"
-"Nanaimo, BC",49.1642,-123.9364,64,"Cornwall, ON"
-"Cornwall, ON",45.0275,-74.7400,51,"Hanover, MB"
-"Hanover, MB",49.4433,-96.8492,69,"Brokenhead, MB"
-"Brokenhead, MB",50.1428,-96.5319,83,"Grenfell, SK"
-"Grenfell, SK",50.4167,-102.9167,55,"East Hawkesbury, ON"
-"East Hawkesbury, ON",45.5167,-74.4667,44,"Carleton-sur-Mer, QC"
-"Carleton-sur-Mer, QC",48.1000,-66.1333,28,"Springwater, ON"
-"Springwater, ON",44.4333,-79.7333,55,"Victoria, NL"
-"Victoria, NL",47.7675,-53.2411,88,"Whitehorse, YT"
+"City, Prov",lat,lon,Estimated Duration of Time
+"Bright, NB",46.1205,-67.0545,34
+"Havre-Saint-Pierre, QC",50.2333,-63.6000,71
+"Oakland-Wawanesa, MB",49.6208,-99.8481,48
+"Breslau, ON",43.4816,-80.4080,13
+"Langford Station, BC",48.4506,-123.5058,29
+"Douro-Dummer, ON",44.4500,-78.1000,96
+"Sainte-Julienne, QC",45.9700,-73.7200,49
+"Saint-Adolphe-d'Howard, QC",45.9700,-74.3300,67
+"The Pas, MB",53.8250,-101.2533,24
+"Chatham, ON",42.4229,-82.1324,86
+"Millet, AB",53.0978,-113.4728,87
+"Saint-Stanislas-de-Kostka, QC",45.1800,-74.1300,69
+"Summerside, PE",46.4000,-63.7833,72
+"Mapleton, ON",43.7358,-80.6681,17
+"Tisdale, SK",52.8500,-104.0500,56
+"Saint-Alban, QC",46.7167,-72.0833,20
+"Air Ronge, SK",55.0872,-105.3318,68
+"North Cowichan, BC",48.8236,-123.7192,60
+"Nipissing, ON",46.0500,-79.5500,91
+"Spaniards Bay, NL",47.6181,-53.3369,29
+"Lewisporte, NL",49.2300,-55.0700,20
+"Magog, QC",45.2667,-72.1500,40
+"Oakview, MB",50.1964,-100.2167,37
+"Kent, NB",46.6221,-67.2953,48
+"Montreal-Est, QC",45.6300,-73.5200,82
+"Neuville, QC",46.7000,-71.5833,89
+"Rimbey, AB",52.6333,-114.2167,88
+"Sept-Iles, QC",50.2167,-66.3833,38
+"Royston, BC",49.6405,-124.9406,72
+"Moosonee, ON",51.2722,-80.6431,62
+"Mont-Saint-Hilaire, QC",45.5622,-73.1917,26
+"Tofield, AB",53.3703,-112.6667,66
+"Lanark Highlands, ON",45.0880,-76.5170,16
+"Maskinonge, QC",46.2333,-73.0167,98
+"Warwick, QC",45.9500,-71.9833,71
+"Ascot Corner, QC",45.4500,-71.7667,35
+"East Hawkesbury, ON",45.5167,-74.4667,41
+"Trochu, AB",51.8236,-113.2328,73
+"Inuvik, NT",68.3407,-133.6096,19
+"Swift Current No. 137, SK",50.2211,-107.8559,55
+"Inverness, NS",46.2000,-61.1000,69
+"Saint-Dominique, QC",45.5667,-72.8500,62
+"Central Elgin, ON",42.7667,-81.1000,76
+"Scugog, ON",44.0900,-78.9360,24
+"Mirabel, QC",45.6500,-74.0833,40
+"Ootischenia, BC",49.2916,-117.6323,46
+"Ste. Rose, MB",51.0222,-99.4306,22
+"Port Moody, BC",49.2831,-122.8317,14
+"Salmon Arm, BC",50.7022,-119.2722,93
+"Saint-Lin--Laurentides, QC",45.8500,-73.7667,27
+"Terrebonne, QC",45.7000,-73.6333,19
+"Notre-Dame-de-l'Ile-Perrot, QC",45.3667,-73.9333,63
+"Cap-Saint-Ignace, QC",47.0333,-70.4667,76
+"Huron East, ON",43.6300,-81.2800,46
+"Sainte-Felicite, QC",48.9000,-67.3333,29
+"Lanoraie, QC",45.9667,-73.2167,33
+"Guelph/Eramosa, ON",43.6300,-80.2200,53
+"Bristol, QC",45.5333,-76.4667,23
+"Saint-Urbain-Premier, QC",45.2200,-73.7300,48
+"Saint-Mathieu-de-Beloeil, QC",45.5667,-73.2000,48
+"Riviere-Blanche, QC",48.7833,-67.7000,44
+"La Sarre, QC",48.8000,-79.2000,11
+"Corman Park No. 344, SK",52.2291,-106.8002,88
+"Saint-Boniface, QC",46.5000,-72.8167,46
+"Gold River, BC",49.7769,-126.0514,53
+"Saint-Prime, QC",48.5800,-72.3300,79
+"Wadena, SK",51.9458,-103.8014,28
+"Killarney - Turtle Mountain, MB",49.1775,-99.6906,31
+"Brokenhead, MB",50.1428,-96.5319,55
+"Weyburn, SK",49.6611,-103.8525,86
+"Sainte-Claire, QC",46.6000,-70.8667,29
+"L'Avenir, QC",45.7667,-72.3000,73
+"Grand Valley, ON",43.9500,-80.3667,19
+"Parksville, BC",49.3150,-124.3120,18
+"Goderich, ON",43.7333,-81.7000,85
+"McAdam, NB",45.5944,-67.3258,81
+"Terrace, BC",54.5164,-128.5997,28
+"Fort Saskatchewan, AB",53.7128,-113.2133,43
+"Sorel-Tracy, QC",46.0333,-73.1167,66
+"Obedjiwan, QC",48.6686,-74.9289,60
+"Oliver, BC",49.1844,-119.5500,47
+"Kamsack, SK",51.5650,-101.8947,34
+"Sainte-Helene-de-Bagot, QC",45.7333,-72.7333,74
+"Enniskillen, ON",42.8167,-82.1250,17
+"Duncan, BC",48.7787,-123.7079,92
+"Saint-Remi, QC",45.2667,-73.6167,63
+"L'Ancienne-Lorette, QC",46.8000,-71.3500,64
+"Sainte-Anne-de-Sorel, QC",46.0500,-73.0667,20
+"Okotoks, AB",50.7250,-113.9750,45
+"Fruitvale, BC",49.1161,-117.5414,27
+"Grand Bank, NL",47.1000,-55.7833,75
+"Wainfleet, ON",42.9250,-79.3750,99
+"Mansfield-et-Pontefract, QC",45.8611,-76.7392,94
+"Oxford, NS",45.7306,-63.8733,28
+"Kapuskasing, ON",49.4167,-82.4333,22
+"Blackfalds, AB",52.3833,-113.8000,17
+"Cantley, QC",45.5667,-75.7833,47
+"Coaldale, AB",49.7333,-112.6167,74
+"Saskatoon, SK",52.1333,-106.6833,17
+"Clarington, ON",43.9350,-78.6083,34
+"Wakefield, NB",46.2406,-67.6248,61
+"Mississauga, ON",43.6000,-79.6500,53
+"Saint-Jean-sur-Richelieu, QC",45.3167,-73.2667,69
+"Miltonvale Park, PE",46.3180,-63.2370,35
+"Maple Ridge, BC",49.2167,-122.6000,75
+"Smooth Rock Falls, ON",49.2833,-81.6333,22
+"Southwold, ON",42.7500,-81.3167,70
+"Pontiac, QC",45.5833,-76.1333,42
+"Waswanipi, QC",49.7883,-75.9544,95
+"Lac-aux-Sables, QC",46.8667,-72.4000,46
+"Perth, ON",44.9000,-76.2500,43
+"Red Deer, AB",52.2681,-113.8111,42
+"Buffalo Narrows, SK",55.8769,-108.5244,66
+"Hay River, NT",60.7531,-115.9004,23
+"Glenelg, NB",46.9455,-65.2893,87
+"Carleton-sur-Mer, QC",48.1000,-66.1333,86
+"Front of Yonge, ON",44.5333,-75.8667,47
+"Hearst, ON",49.6869,-83.6544,60
+"Cornwall, ON",45.0275,-74.7400,67
+"Biggar, SK",52.0590,-107.9790,73
+"Point Edward, ON",42.9931,-82.4083,42
+"Saint-Honore, QC",48.5333,-71.0833,31
+"Witless Bay, NL",47.2800,-52.8300,92
+"Sainte-Marie, QC",46.4500,-71.0333,28
+"Igloolik, NU",69.3817,-81.6811,81
+"Sainte-Catherine-de-Hatley, QC",45.2500,-72.0500,81
+"Fort St. James, BC",54.4431,-124.2542,47
+"Lumsden, SK",50.6463,-104.8676,15
+"Shannon, QC",46.8833,-71.5167,81
+"Stewiacke, NS",45.1422,-63.3483,69
+"Wellesley, ON",43.5500,-80.7167,26
+"Torbay, NL",47.6500,-52.7333,80
+"Strathmore, AB",51.0378,-113.4003,78
+"St. Laurent, MB",50.4300,-97.7933,79
+"Tracadie, NB",47.5124,-64.9101,85
+"Saint-Cyprien-de-Napierville, QC",45.1833,-73.4167,18
+"Beaumont, AB",53.3572,-113.4147,13
+"Brockville, ON",44.5833,-75.6833,54
+"LaSalle, ON",42.2167,-83.0667,55
+"Coleraine, QC",45.9649,-71.3734,92
+"Saint-Lazare-de-Bellechasse, QC",46.6500,-70.8000,52
+"Bridgewater, NS",44.3700,-64.5200,15
+"Merritt, BC",50.1128,-120.7897,77
+"Swan Hills, AB",54.7106,-115.4133,86
+"North Stormont, ON",45.2167,-75.0000,78
+"Hinchinbrooke, QC",45.0500,-74.1000,14
+"Behchoko, NT",62.8184,-115.9933,60
+"Northampton, NB",46.1313,-67.4713,84
+"Irishtown-Summerside, NL",48.9833,-57.9500,31
+"Ramara, ON",44.6333,-79.2167,40
+"Saint-Honore-de-Shenley, QC",45.9667,-70.8333,42
+"Amherstburg, ON",42.1000,-83.0833,78
+"Saint-Jean-de-Dieu, QC",48.0000,-69.0500,36
+"Swift Current, SK",50.2881,-107.7939,74
+"Port Colborne, ON",42.8833,-79.2500,30
+"Nantes, QC",45.6333,-71.0333,37
+"Saint-Hugues, QC",45.8000,-72.8667,44
+"Reynolds, MB",49.7678,-95.8842,52
+"Saugeen Shores, ON",44.4333,-81.3667,89
+"Centreville, NS",45.1300,-64.5224,19
+"Brudenell, Lyndoch and Raglan, ON",45.3167,-77.4000,29
+"Berthier-sur-Mer, QC",46.9167,-70.7333,41
+"Emo, ON",48.6333,-93.8333,14
+"Rossburn, MB",50.7272,-100.7408,55
+"Osoyoos, BC",49.0325,-119.4661,25
+"Strathroy-Caradoc, ON",42.9575,-81.6167,67
+"Hudson Bay No. 394, SK",53.0295,-102.3122,41
+"Saint Stephen, NB",45.2000,-67.2833,76
+"Bon Accord, AB",53.8328,-113.4189,50
+"Pemberton, BC",50.3203,-122.8053,10
+"Saint-Lucien, QC",45.8667,-72.2667,50
+"Fermont, QC",52.7833,-67.0833,51
+"Saint-Cyrille-de-Wendover, QC",45.9333,-72.4333,43
+"Baie-Comeau, QC",49.2167,-68.1500,19
+"Augusta, ON",44.7511,-75.6003,77
+"Stukely-Sud, QC",45.3167,-72.4167,13
+"Pelican Narrows, SK",55.1883,-102.9342,46
+"Banff, AB",51.1781,-115.5719,96
+"Manouane, QC",47.2091,-74.3833,36
+"Wellington, NB",46.4768,-64.7478,26
+"Labrador City, NL",52.9500,-66.9167,34
+"Charlo, NB",48.0000,-66.3200,33
+"Sainte-Martine, QC",45.2500,-73.8000,37
+"Shellbrook, SK",53.2167,-106.4000,40
+"Stuartburn, MB",49.1331,-96.5158,55
+"Sainte-Marguerite, QC",46.5167,-70.9333,78
+"Deux-Montagnes, QC",45.5333,-73.8833,44
+"West Lincoln, ON",43.0667,-79.5667,95
+"Quebec City, QC",46.8139,-71.2081,65
+"Saint-Narcisse, QC",46.5667,-72.4667,11
+"Minto-Odanah, MB",50.2406,-99.8056,92
+"Winkler, MB",49.1817,-97.9397,67
+"Boisbriand, QC",45.6200,-73.8300,82
+"Adjala-Tosorontio, ON",44.1333,-79.9333,99
+"Grindrod, BC",50.6300,-119.1314,42
+"Mulmur, ON",44.1917,-80.1083,42
+"Morden, MB",49.1919,-98.1006,58
+"Grimsby, ON",43.2000,-79.5500,43
+"Springdale, NL",49.4974,-56.0727,68
+"Woodstock, NB",46.1522,-67.5983,85
+"St. Francois Xavier, MB",49.9903,-97.6722,25
+"St. Anthony, NL",51.3725,-55.5947,85
+"Sainte-Barbe, QC",45.1667,-74.2000,67
+"Edmonton, AB",53.5344,-113.4903,16
+"Saint-Henri, QC",46.7000,-71.0667,69
+"Coldstream, BC",50.2200,-119.2481,40
+"Upper Miramichi, NB",46.5254,-66.2085,66
+"Central Frontenac, ON",44.7167,-76.8000,64
+"Brighton, NB",46.3316,-67.3585,43
+"Nelson, BC",49.5000,-117.2833,63
+"Hamilton Township, ON",44.0540,-78.2164,97
+"Longue-Rive, QC",48.5500,-69.2500,44
+"West Grey, ON",44.1833,-80.8167,92
+"Saint-Raphael, QC",46.8000,-70.7500,22
+"Brockton, ON",44.1667,-81.2167,34
+"Kirkland Lake, ON",48.1500,-80.0333,86
+"North Dumfries, ON",43.3200,-80.3800,41
+"Deer Lake, NL",49.1744,-57.4269,99
+"Valcourt, QC",45.5000,-72.3167,72
+"Albanel, QC",48.8833,-72.4500,95
+"Cookshire, QC",45.3729,-71.6720,22
+"Hawkesbury, ON",45.6000,-74.6000,14
+"Cardston, AB",49.2025,-113.3019,26
+"Canmore, AB",51.0890,-115.3590,33
+"Saint-Gabriel, QC",46.3000,-73.3833,68
+"Pinawa, MB",50.1707,-95.9547,18
+"Nakusp, BC",50.2434,-117.8002,45
+"Belledune, NB",47.9000,-65.8167,61
+"St. Paul, AB",53.9928,-111.2972,82
+"Lorette, MB",49.7414,-96.8761,60
+"Sexsmith, AB",55.3508,-118.7825,36
+"Springbrook, AB",52.1796,-113.8850,24
+"Saint-Marc-des-Carrieres, QC",46.6833,-72.0500,81
+"Granby, QC",45.4000,-72.7333,56
+"Naramata, BC",49.5886,-119.5838,70
+"Saint-Basile, QC",46.7500,-71.8167,36
+"Saint-Frederic, QC",46.3000,-70.9667,87
+"Southwest Middlesex, ON",42.7500,-81.7000,23
+"Huntingdon, QC",45.0800,-74.1700,49
+"Saint John, NB",45.2806,-66.0761,97
+"Huron Shores, ON",46.2833,-83.2000,30
+"Plantagenet, ON",45.5321,-74.9956,59
+"Waskaganish, QC",51.3674,-78.7069,31
+"Plaster Rock, NB",46.8833,-67.3833,70
+"Boischatel, QC",46.9000,-71.1500,69
+"Roxton Falls, QC",45.5667,-72.5167,72
+"Maidstone, SK",53.0920,-109.2940,77
+"Drayton Valley, AB",53.2222,-114.9769,80
+"Wood Buffalo, AB",57.6042,-111.3284,41
+"Thames Centre, ON",43.0300,-81.0800,60
+"Nipawin No. 487, SK",53.2881,-104.0544,55
+"Norfolk-Treherne, MB",49.6653,-98.5967,25
+"West Interlake, MB",50.9837,-98.3572,29
+"Pointe-des-Cascades, QC",45.3333,-73.9667,88
+"Centre Hastings, ON",44.4167,-77.4417,53
+"Langham, SK",52.3667,-106.9667,14
+"Vermilion, AB",53.3542,-110.8528,18
+"Black River-Matheson, ON",48.5333,-80.4667,34
+"St-Pierre-Jolys, MB",49.4403,-96.9844,96
+"North Frontenac, ON",44.9500,-76.9000,34
+"Bas Caraquet, NB",47.8000,-64.8333,73
+"Fernie, BC",49.5042,-115.0628,27
+"Richmond Hill, ON",43.8667,-79.4333,49
+"Saint-Nazaire, QC",48.5833,-71.5333,58
+"Port Coquitlam, BC",49.2625,-122.7811,21
+"Marmora and Lake, ON",44.6425,-77.7372,64
+"Falmouth, NS",44.9967,-64.1634,20
+"Notre-Dame-de-Lourdes, QC",46.1000,-73.4333,91
+"Armstrong, MB",50.6400,-97.4950,46
+"Cleveland, QC",45.6700,-72.0800,26
+"Kingston, NB",45.4663,-66.0217,75
+"Saint-Gervais, QC",46.7167,-70.8833,68
+"Cap Sante, QC",46.6667,-71.7833,38
+"Minto, NB",46.1497,-66.1067,98
+"Ajax, ON",43.8583,-79.0364,24
+"Nipawin, SK",53.3572,-104.0192,43
+"L'Islet-sur-Mer, QC",47.1000,-70.3500,36
+"Saint David, NB",45.2918,-67.1983,32
+"Perth East, ON",43.4700,-80.9500,91
+"Sackville, NB",45.9000,-64.3667,44
+"Minitonas-Bowsman, MB",52.1433,-100.9772,64
+"Sainte-Anne-des-Plaines, QC",45.7617,-73.8204,81
+"Penhold, AB",52.1333,-113.8667,66
+"Saint-Pacome, QC",47.4000,-69.9500,58
+"Saint-Come, QC",46.2700,-73.7800,68
+"Tay Valley, ON",44.8667,-76.3833,69
+"Morris, MB",49.3986,-97.4592,28
+"Cardwell, NB",45.7848,-65.3037,62
+"La Macaza, QC",46.3667,-74.7667,54
+"Lebel-sur-Quevillon, QC",49.0500,-76.9833,77
+"Carleton Place, ON",45.1333,-76.1333,11
+"Hillsborough, NB",45.9052,-64.7652,94
+"Eston, SK",51.1500,-108.7500,74
+"Saint-Valere, QC",46.0667,-72.1000,69
+"Repentigny, QC",45.7333,-73.4667,22
+"Clarence-Rockland, ON",45.4833,-75.2000,30
+"Barrington, NS",43.5646,-65.5639,77
+"Victoria, BC",48.4283,-123.3647,99
+"Orillia, ON",44.6000,-79.4167,69
+"Saint-Gilles, QC",46.5167,-71.3667,32
+"Carberry, MB",49.8689,-99.3594,26
+"Spruce Grove, AB",53.5450,-113.9008,32
+"Cambridge, ON",43.3972,-80.3114,11
+"North Saanich, BC",48.6142,-123.4200,26
+"Madoc, ON",44.5833,-77.5167,90
+"Tara, ON",44.4793,-81.1445,90
+"Saint-Leon-de-Standon, QC",46.4833,-70.6167,71
+"Waldheim, SK",52.6500,-106.6167,24
+"L'Ange-Gardien, QC",45.5833,-75.4500,39
+"Howick, ON",43.9000,-81.0700,67
+"Fredericton, NB",45.9636,-66.6431,29
+"Yellowhead, MB",50.4847,-100.4828,10
+"Bedford, QC",45.1167,-72.9833,77
+"Leduc, AB",53.2594,-113.5492,30
+"Saint-Wenceslas, QC",46.1667,-72.3333,61
+"Yamaska-Est, QC",46.0000,-72.9200,77
+"Richmond, NB",46.0776,-67.7248,44
+"Princeville, QC",46.1667,-71.8833,19
+"Saint-Jacques, NB",47.5634,-68.3693,24
+"McCreary, MB",50.7494,-99.4850,49
+"Lac du Bonnet, MB",50.2577,-96.1209,24
+"Pitt Meadows, BC",49.2333,-122.6833,83
+"Pictou, NS",45.6814,-62.7119,23
+"Wemindji, QC",53.0440,-78.7384,25
+"Rosetown, SK",51.5500,-107.9833,37
+"Strong, ON",45.7500,-79.4000,85
+"Saint-Joachim, QC",47.0500,-70.8500,55
+"Ferme-Neuve, QC",46.7000,-75.4500,36
+"Ritchot, MB",49.6647,-97.1167,94
+"Grand Manan, NB",44.6900,-66.8200,57
+"Bury, QC",45.4667,-71.5000,33
+"Port Hardy, BC",50.7225,-127.4928,88
+"Prairie Lakes, MB",49.4034,-99.6298,13
+"Taloyoak, NU",69.5554,-93.4972,96
+"Bowden, AB",51.9306,-114.0256,41
+"Manitouwadge, ON",49.1333,-85.8333,40
+"Saint-Maxime-du-Mont-Louis, QC",49.2333,-65.7333,10
+"Whitecourt, AB",54.1417,-115.6833,41
+"Saint-Joachim-de-Shefford, QC",45.4500,-72.5333,42
+"Saint-Odilon-de-Cranbourne, QC",46.3667,-70.6833,11
+"Rouyn-Noranda, QC",48.2333,-79.0167,60
+"Reinland, MB",49.1331,-97.5942,17
+"Shippegan, NB",47.7439,-64.7178,76
+"Greenstone, ON",50.0000,-86.7333,69
+"Gjoa Haven, NU",68.6448,-95.8912,74
+"Mahone Bay, NS",44.4489,-64.3819,32
+"Gore, QC",45.7700,-74.2500,38
+"Sainte-Clotilde-de-Horton, QC",45.9833,-72.2333,52
+"Regina, SK",50.4547,-104.6067,20
+"Saint-Elie-de-Caxton, QC",46.4833,-72.9667,15
+"Shaunavon, SK",49.6510,-108.4120,55
+"Mackenzie, BC",55.3381,-123.0944,70
+"Gibsons, BC",49.4028,-123.5036,72
+"Saint-Alexandre, QC",45.2333,-73.1167,36
+"Sainte-Henedine, QC",46.5500,-70.9833,41
+"Greater Madawaska, ON",45.2722,-76.8589,37
+"Beaverlodge, AB",55.2094,-119.4292,96
+"Buckland No. 491, SK",53.3276,-105.7804,93
+"Adstock, QC",46.0500,-71.0800,39
+"Whitehorse, YT",60.7029,-135.0691,18
+"Lappe, ON",48.5693,-89.3573,87
+"Redcliff, AB",50.0792,-110.7783,98
+"Midland, ON",44.7500,-79.8833,38
+"Spallumcheen, BC",50.4462,-119.2121,39
+"La Ronge, SK",55.1000,-105.3000,10
+"Lumby, BC",50.2494,-118.9656,29
+"Saint-Ambroise-de-Kildare, QC",46.0833,-73.5500,18
+"Pelham, ON",43.0333,-79.3333,79
+"Westville, NS",45.5500,-62.7000,14
+"Oakville, ON",43.4500,-79.6833,75
+"Elton, MB",49.9750,-99.8658,35
+"Saint-Simon, QC",45.7190,-72.8463,18
+"North Norfolk, MB",49.9308,-98.8356,13
+"Salluit, QC",62.2013,-75.6337,74
+"Lambton Shores, ON",43.1833,-81.9000,84
+"Viking, AB",53.0953,-111.7769,33
+"Lac-Nominingue, QC",46.4000,-75.0333,16
+"Riviere-Bleue, QC",47.4333,-69.0500,42
+"Kimberley, BC",49.6697,-115.9775,98
+"Rogersville, NB",46.7167,-65.4167,84
+"Renfrew, ON",45.4717,-76.6831,75
+"Richelieu, QC",45.4500,-73.2500,19
+"Mascouche, QC",45.7500,-73.6000,82
+"Timmins, ON",48.4667,-81.3333,85
+"Saint-Jerome, QC",45.7833,-74.0000,22
+"Sayabec, QC",48.5667,-67.6833,42
+"Duck Lake No. 463, SK",52.9596,-106.2089,81
+"Houston, BC",54.3975,-126.6419,50
+"Saint-Laurent-de-l'Ile-d'Orleans, QC",46.8667,-71.0167,51
+"Saint-Philippe, QC",45.3500,-73.4700,38
+"Chambly, QC",45.4311,-73.2873,53
+"Mont-Orford, QC",45.3661,-72.1838,54
+"Terrasse-Vaudreuil, QC",45.4000,-73.9833,30
+"Saint-Leonard-d'Aston, QC",46.1000,-72.3667,10
+"Macdonald, MB",49.6725,-97.4472,52
+"Perce, QC",48.5333,-64.2167,10
+"Saint-Claude, QC",45.6667,-71.9833,37
+"Faraday, ON",45.0000,-77.9167,58
+"Saint-Alphonse-Rodriguez, QC",46.1833,-73.7000,57
+"Yamaska, QC",46.0236,-72.9391,80
+"Sainte-Anne-de-la-Perade, QC",46.5833,-72.2000,27
+"Delson, QC",45.3700,-73.5500,23
+"Calgary, AB",51.0500,-114.0667,71
+"Sutton, QC",45.0910,-72.5792,44
+"Kerrobert, SK",51.9200,-109.1272,97
+"Bancroft, ON",45.0500,-77.8500,40
+"Trent Lakes, ON",44.6667,-78.4333,26
+"Gracefield, QC",46.0926,-75.9574,98
+"Saint-Felicien, QC",48.6500,-72.4500,38
+"West St. Paul, MB",50.0119,-97.1150,50
+"Cochrane, AB",51.1890,-114.4670,56
+"Hindon Hill, ON",44.9333,-78.7333,91
+"Saint-Louis-de-Gonzague, QC",45.2000,-73.9800,88
+"Riding Mountain West, MB",50.8347,-101.0961,48
+"Saint-Bernard, QC",46.5000,-71.1333,15
+"Saint-Zacharie, QC",46.1333,-70.3667,40
+"Denmark, NB",47.1155,-67.4771,58
+"Melfort, SK",52.8564,-104.6100,70
+"Blind River, ON",46.1833,-82.9500,11
+"Muskoka Falls, ON",45.1264,-79.5580,18
+"Ormstown, QC",45.1300,-74.0000,61
+"Southampton, NB",46.0789,-67.3124,37
+"Paspebiac, QC",48.0333,-65.2500,49
+"Yellowknife, NT",62.4709,-114.4053,27
+"Huntsville, ON",45.3333,-79.2167,55
+"Sainte-Beatrix, QC",46.2000,-73.6167,45
+"Sainte-Brigide-d'Iberville, QC",45.3167,-73.0667,52
+"Blandford-Blenheim, ON",43.2333,-80.6000,53
+"Qualicum Beach, BC",49.3500,-124.4333,75
+"Sainte-Melanie, QC",46.1333,-73.5167,75
+"Cavan Monaghan, ON",44.2000,-78.4667,62
+"Langenburg, SK",50.8333,-101.7000,66
+"Lac-Superieur, QC",46.2000,-74.4667,93
+"Niagara Falls, ON",43.0600,-79.1067,57
+"Eeyou Istchee Baie-James, QC",52.3382,-75.1977,78
+"Hope, BC",49.3858,-121.4419,92
+"Foam Lake, SK",51.6500,-103.5333,32
+"Roland, MB",49.3547,-97.8997,33
+"Sainte-Victoire-de-Sorel, QC",45.9500,-73.0833,67
+"Vernon, BC",50.2670,-119.2720,99
+"Ottawa, ON",45.4247,-75.6950,52
+"Belleville, ON",44.1667,-77.3833,28
+"Maple Creek No. 111, SK",49.8044,-109.6508,22
+"Les Mechins, QC",49.0000,-66.9833,68
+"Happy Valley, NL",53.3396,-60.4467,94
+"Ashcroft, BC",50.7256,-121.2806,45
+"South Huron, ON",43.3200,-81.5000,60
+"North Cypress-Langford, MB",49.9969,-99.3982,88
+"Brant, ON",43.1167,-80.3667,72
+"Mississippi Mills, ON",45.2167,-76.2000,55
+"Brock, ON",44.3167,-79.0833,62
+"Dundurn No. 314, SK",51.8261,-106.5416,99
+"Saint-Jude, QC",45.7667,-72.9833,84
+"Notre-Dame-du-Nord, QC",47.6000,-79.4833,11
+"Hebertville, QC",48.4000,-71.6833,97
+"Georgian Bluffs, ON",44.6500,-81.0333,21
+"Anmore, BC",49.3144,-122.8564,67
+"Stone Mills, ON",44.4500,-76.9167,94
+"Saint-Prosper, QC",46.2167,-70.4833,63
+"Cobourg, ON",43.9667,-78.1667,44
+"Milton, ON",43.5083,-79.8833,40
+"Rideau Lakes, ON",44.6667,-76.2167,74
+"Matane, QC",48.8500,-67.5333,10
+"Souris, PE",46.3554,-62.2542,21
+"Elizabethtown-Kitley, ON",44.7000,-75.8833,77
+"Regina Beach, SK",50.7900,-104.9900,10
+"Shippagan, NB",47.8557,-64.6012,70
+"Champlain, QC",46.4500,-72.3500,57
+"Grassland, MB",49.4306,-100.3103,94
+"Oxbow, SK",49.2333,-102.1667,38
+"Moose Jaw No. 161, SK",50.4433,-105.5091,58
+"Hudson Hope, BC",56.0316,-121.9057,49
+"Oromocto, NB",45.8488,-66.4788,36
+"Lake Country, BC",50.0833,-119.4142,42
+"Glenboro-South Cypress, MB",49.6650,-99.3708,79
+"Corner Brook, NL",48.9287,-57.9260,56
+"La Pocatiere, QC",47.3667,-70.0333,61
+"Lorne, MB",49.4436,-98.7494,53
+"Lavaltrie, QC",45.8833,-73.2833,80
+"Ponoka, AB",52.6833,-113.5667,52
+"Williams Lake, BC",52.1294,-122.1383,88
+"Eckville, AB",52.3622,-114.3614,26
+"Humboldt, SK",52.2019,-105.1231,21
+"Wetaskiwin, AB",52.9694,-113.3769,40
+"Lions Bay, BC",49.4581,-123.2369,24
+"Saint James, NB",45.3822,-67.3427,18
+"Hilliers, BC",49.3022,-124.4727,72
+"Saint-Victor, QC",46.1500,-70.9000,61
+"Kincardine, ON",44.1667,-81.6333,19
+"Notre-Dame-du-Laus, QC",46.0833,-75.6167,73
+"La Malbaie, QC",47.6500,-70.1500,89
+"Saint-Flavien, QC",46.5167,-71.6000,24
+"Tyendinaga, ON",44.3000,-77.2000,84
+"Chertsey, QC",46.1700,-73.9200,16
+"Dawn-Euphemia, ON",42.7000,-82.0167,50
+"Twillingate, NL",49.6444,-54.7436,63
+"Clyde River, NU",70.4632,-68.4822,50
+"Saint-Ferreol-les-Neiges, QC",47.1167,-70.8500,77
+"Newmarket, ON",44.0500,-79.4667,62
+"Saint Martins, NB",45.4563,-65.4395,79
+"Thompson, MB",55.7433,-97.8553,63
+"Ingersoll, ON",43.0392,-80.8836,87
+"Thessalon, ON",46.2500,-83.5500,74
+"Saint-Ours, QC",45.8833,-73.1500,63
+"Matagami, QC",49.7500,-77.6333,88
+"Carnduff, SK",49.1670,-101.7830,66
+"Saint-Charles, NB",46.6692,-65.0184,85
+"Pointe-Claire, QC",45.4500,-73.8167,33
+"Sainte-Sophie, QC",45.8200,-73.9000,56
+"Saint-Jean-Port-Joli, QC",47.2167,-70.2667,12
+"Mercier, QC",45.3200,-73.7500,74
+"Saint-Hyacinthe, QC",45.6167,-72.9500,25
+"Argyle, MB",49.3697,-99.1506,75
+"Lake Cowichan, BC",48.8258,-124.0542,31
+"Piedmont, QC",45.9000,-74.1300,23
+"Harbour Main-Chapel's Cove-Lakeview, NL",47.4337,-53.1458,20
+"Port Alberni, BC",49.2339,-124.8050,32
+"Wellington, ON",43.9579,-77.3534,59
+"Raymond, AB",49.4658,-112.6508,73
+"Saint-Bonaventure, QC",45.9667,-72.6833,81
+"Saint-Donat, QC",46.3167,-74.2167,97
+"Sainte-Therese-de-Gaspe, QC",48.4167,-64.4167,40
+"Sainte-Angele-de-Monnoir, QC",45.3833,-73.1000,67
+"Cold Lake, AB",54.4642,-110.1825,74
+"Vaughan, ON",43.8333,-79.5000,55
+"Saint-Georges-de-Clarenceville, QC",45.0667,-73.2500,92
+"Saint-Antonin, QC",47.7667,-69.4833,46
+"Northeastern Manitoulin and the Islands, ON",45.9667,-81.9333,12
+"Deloraine-Winchester, MB",49.1775,-100.4322,85
+"Thurso, QC",45.5969,-75.2433,19
+"Old Chelsea, QC",45.5000,-75.7833,74
+"Creston, BC",49.0900,-116.5100,72
+"One Hundred Mile House, BC",51.6413,-121.3127,13
+"Chatsworth, ON",44.3800,-80.8700,49
+"Trinity Bay North, NL",48.4978,-53.0860,35
+"Maugerville, NB",46.1301,-66.2859,51
+"Stephenville Crossing, NL",48.5167,-58.4167,93
+"Melville, SK",50.9306,-102.8078,72
+"Abbotsford, BC",49.0500,-122.3167,45
+"Normandin, QC",48.8333,-72.5333,82
+"Gatineau, QC",45.4833,-75.6500,94
+"Ile-a-la-Crosse, SK",55.4500,-107.8833,99
+"Vaudreuil-sur-le-Lac, QC",45.4000,-74.0333,26
+"Fort Erie, ON",42.9167,-79.0167,68
+"Berwick, NS",45.0475,-64.7360,65
+"Plaisance, QC",45.6167,-75.1167,42
+"Saint-Colomban, QC",45.7300,-74.1300,20
+"Studholm, NB",45.8133,-65.5747,37
+"Herouxville, QC",46.6667,-72.6167,45
+"Canora, SK",51.6339,-102.4369,91
+"Vulcan, AB",50.4000,-113.2500,75
+"Saint-Albert, QC",46.0000,-72.0833,58
+"Trenton, NS",45.6193,-62.6332,98
+"Three Hills, AB",51.7072,-113.2647,75
+"Langley, BC",49.1044,-122.5827,19
+"Nipigon, ON",49.0153,-88.2683,64
+"Claresholm, AB",50.0194,-113.5783,85
+"Davidson, SK",51.2667,-105.9667,12
+"Cote-Saint-Luc, QC",45.4687,-73.6673,78
+"Springfield, NB",45.7005,-65.8079,42
+"Middlesex Centre, ON",43.0500,-81.4500,50
+"Sainte-Genevieve-de-Berthier, QC",46.0833,-73.2167,55
+"South Algonquin, ON",45.4967,-78.0239,43
+"Middleton, NS",44.9418,-65.0686,13
+"Golden, BC",51.3019,-116.9667,34
+"Chetwynd, BC",55.6972,-121.6333,68
+"Saint-Polycarpe, QC",45.3000,-74.3000,10
+"Lincoln, NB",45.8716,-66.5437,51
+"Paquetville, NB",47.6334,-65.1803,23
+"Morris-Turnberry, ON",43.8500,-81.2500,70
+"Roberval, QC",48.5200,-72.2300,23
+"Dawson Creek, BC",55.7606,-120.2356,86
+"Kingsville, ON",42.1000,-82.7167,34
+"Saint-Felix-de-Kingsey, QC",45.8000,-72.1833,27
+"Sainte-Jeanne-d'Arc, QC",48.8575,-72.0939,28
+"Temiscaming, QC",46.7167,-79.1000,67
+"Gravelbourg, SK",49.8740,-106.5550,92
+"McNab/Braeside, ON",45.4500,-76.5000,94
+"Mont-Carmel, QC",47.4397,-69.8586,26
+"Westfield Beach, NB",45.3432,-66.2868,20
+"Saint-Damien, QC",46.3300,-73.4800,16
+"Redwater, AB",53.9489,-113.1067,25
+"Moonbeam, ON",49.3500,-82.1500,64
+"Moose Jaw, SK",50.3933,-105.5519,43
+"Espanola, ON",46.2500,-81.7667,84
+"Fort St. John, BC",56.2465,-120.8476,95
+"Saint-Ambroise, QC",48.5500,-71.3333,12
+"Tingwick, QC",45.8873,-71.9244,72
+"Saint-Isidore, QC",45.3000,-73.6800,94
+"Otterburn Park, QC",45.5333,-73.2167,38
+"Flat Rock, NL",47.7086,-52.7144,38
+"Kawartha Lakes, ON",44.3500,-78.7500,75
+"Lake of Bays, ON",45.3043,-79.0180,87
+"Gillam, MB",56.3472,-94.7078,95
+"Hanna, AB",51.6383,-111.9419,92
+"Lethbridge, AB",49.6942,-112.8328,24
+"Bertrand, NB",47.7622,-65.0686,27
+"Perth, NB",46.7393,-67.6984,88
+"Dundas, NB",46.3155,-64.6947,54
+"East Zorra-Tavistock, ON",43.2333,-80.7833,49
+"Hastings Highlands, ON",45.2333,-77.9333,33
+"Mono, ON",44.0167,-80.0667,44
+"Saint-Gabriel-de-Brandon, QC",46.2667,-73.3833,13
+"Scott, QC",46.5120,-71.0770,70
+"Saint-Ubalde, QC",46.7500,-72.2667,34
+"Temiskaming Shores, ON",47.5167,-79.6833,65
+"Berthierville, QC",46.0833,-73.1833,53
+"Acton Vale, QC",45.6500,-72.5667,70
+"Swan Valley West, MB",51.9978,-101.3944,58
+"Uashat, QC",50.2330,-66.3947,21
+"Markham, ON",43.8767,-79.2633,31
+"Saint-Simeon, QC",48.0667,-65.5667,53
+"Grande-Riviere, QC",48.4000,-64.5000,56
+"Osler, SK",52.3700,-106.5400,91
+"Saint-Germain-de-Grantham, QC",45.8333,-72.5667,83
+"Turner Valley, AB",50.6739,-114.2786,81
+"Portneuf, QC",46.7000,-71.8833,65
+"Bowen Island, BC",49.3833,-123.3833,42
+"Britannia No. 502, SK",53.4236,-109.7772,76
+"Vauxhall, AB",50.0689,-112.0975,60
+"Aurora, ON",44.0000,-79.4667,87
+"Wallace-Woodworth, MB",49.9156,-100.9389,82
+"Tofino, BC",49.1275,-125.8852,98
+"Papineau-Cameron, ON",46.3000,-78.7333,84
+"Wemotaci, QC",47.9219,-73.7872,49
+"Saint-Thomas, QC",46.0167,-73.3500,68
+"Causapscal, QC",48.3667,-67.2333,19
+"Youbou, BC",48.8562,-124.1731,15
+"Saint-Damien-de-Buckland, QC",46.6333,-70.6667,64
+"Oliver Paipoonge, ON",48.3900,-89.5200,77
+"Charlottetown, PE",46.2403,-63.1347,32
+"Gander, NL",48.9569,-54.6089,92
+"Rigaud, QC",45.4833,-74.3000,73
+"Caledon, ON",43.8667,-79.8667,61
+"Alberta Beach, AB",53.6767,-114.3500,42
+"White Rock, BC",49.0250,-122.8028,60
+"Ripon, QC",45.7833,-75.1000,86
+"Camrose, AB",53.0167,-112.8333,79
+"North Grenville, ON",44.9667,-75.6500,63
+"Leamington, ON",42.0667,-82.5833,27
+"Sainte-Marcelline-de-Kildare, QC",46.1167,-73.6000,96
+"Grande Prairie, AB",55.1708,-118.7947,24
+"Arnprior, ON",45.4333,-76.3500,46
+"Provost, AB",52.3539,-110.2686,61
+"Botwood, NL",49.1500,-55.3667,23
+"Clarkes Beach, NL",47.5447,-53.2824,23
+"Riviere-Rouge, QC",46.4167,-74.8667,97
+"Sables-Spanish Rivers, ON",46.2333,-82.0000,16
+"Chute-aux-Outardes, QC",49.1167,-68.4000,79
+"Parrsboro, NS",45.3998,-64.3312,69
+"Wembley, AB",55.1572,-119.1392,63
+"South Stormont, ON",45.0833,-74.9667,86
+"Norton, NB",45.6387,-65.6955,23
+"Wilkie, SK",52.4167,-108.7000,79
+"Portugal Cove-St. Philip's, NL",47.6272,-52.8506,41
+"Saint-Benoit-Labre, QC",46.0667,-70.8000,35
+"Beauport, QC",46.9667,-71.3000,43
+"Gaspe, QC",48.8333,-64.4833,47
+"Sainte-Croix, QC",46.6200,-71.7300,80
+"Deschambault, QC",46.6436,-72.0236,21
+"Bow Island, AB",49.8667,-111.3667,34
+"Labelle, QC",46.2833,-74.7333,90
+"Birch Hills, SK",52.9833,-105.4333,43
+"North Huron, ON",43.8300,-81.4200,34
+"Grenfell, SK",50.4167,-102.9167,65
+"East Ferris, ON",46.2667,-79.3000,49
+"Amherst, QC",46.0500,-74.7667,89
+"Paradise, NL",47.5333,-52.8667,54
+"The Blue Mountains, ON",44.4833,-80.3833,40
+"Botsford, NB",46.1145,-63.9804,37
+"Sainte-Catherine, QC",45.4000,-73.5800,43
+"Dryden, ON",49.7833,-92.8333,21
+"Simonds, NB",45.3145,-65.8030,77
+"Saint-Leonard, NB",47.1625,-67.9250,41
+"Saint-Cuthbert, QC",46.1500,-73.2333,23
+"Dollard-des-Ormeaux, QC",45.4833,-73.8167,85
+"Saguenay, QC",48.4167,-71.0667,74
+"Saint-Barnabe, QC",46.4000,-72.8833,12
+"Saint-Cyprien, QC",47.9000,-69.0167,52
+"Gimli, MB",50.6619,-97.0297,70
+"Atholville, NB",47.9894,-66.7125,66
+"Saint-Sauveur, QC",45.9000,-74.1700,59
+"Wicklow, NB",46.5017,-67.7067,79
+"Saint-Basile-le-Grand, QC",45.5333,-73.2833,16
+"Saint-Sylvestre, QC",46.3667,-71.2333,38
+"Saint-Etienne-des-Gres, QC",46.4333,-72.7667,25
+"Frampton, QC",46.4667,-70.8000,45
+"Sainte-Emelie-de-l'Energie, QC",46.3167,-73.6500,47
+"Chateauguay, QC",45.3800,-73.7500,97
+"Brigham, QC",45.2500,-72.8500,74
+"High River, AB",50.5808,-113.8744,53
+"East Kelowna, BC",49.8625,-119.5833,63
+"Malahide, ON",42.7928,-80.9361,91
+"Toronto, ON",43.7417,-79.3733,61
+"Prince George, BC",53.9169,-122.7494,39
+"Saint-Liboire, QC",45.6500,-72.7667,15
+"St. Alban's, NL",47.8753,-55.8414,48
+"Ragueneau, QC",49.0667,-68.5333,25
+"Sainte-Anne-de-la-Pocatiere, QC",47.3500,-70.0000,44
+"Amherst, NS",45.8167,-64.2167,31
+"Stouffville, ON",43.9667,-79.2500,92
+"Saltair, BC",48.9504,-123.7637,25
+"Otonabee-South Monaghan, ON",44.2333,-78.2333,93
+"Lumsden No. 189, SK",50.6734,-104.7686,77
+"Bonavista, NL",48.6597,-53.1208,63
+"Melancthon, ON",44.1500,-80.2667,19
+"Saint-Eustache, QC",45.5700,-73.9000,76
+"Saint-Roch-de-l'Achigan, QC",45.8500,-73.6000,15
+"Pont-Rouge, QC",46.7500,-71.7000,97
+"Longlaketon No. 219, SK",50.9386,-104.6913,46
+"Saint-Justin, QC",46.2500,-73.0833,76
+"Huron-Kinloss, ON",44.0500,-81.5333,66
+"Fort Frances, ON",48.6167,-93.4000,27
+"Baker Lake, NU",64.3287,-96.0308,54
+"Halifax, NS",44.6475,-63.5906,93
+"Peel, NB",46.4058,-67.5278,87
+"Rimouski, QC",48.4500,-68.5300,98
+"Stony Plain, AB",53.5264,-114.0069,27
+"Levis, QC",46.8000,-71.1833,58
+"Thunder Bay, ON",48.3822,-89.2461,62
+"Montcalm, MB",49.1775,-97.3247,74
+"West Vancouver, BC",49.3667,-123.1667,14
+"city_ascii, province_id",lat,lng,66
+"Centre Wellington, ON",43.7000,-80.3667,34
+"Contrecoeur, QC",45.8500,-73.2333,90
+"Mont-Joli, QC",48.5800,-68.1800,29
+"Nouvelle, QC",48.1333,-66.3167,27
+"Sainte-Therese, QC",45.6333,-73.8500,21
+"Lac-des-Ecorces, QC",46.5500,-75.3500,84
+"Channel-Port aux Basques, NL",47.5694,-59.1361,24
+"Saint-Arsene, QC",47.9167,-69.4333,20
+"Beaver River, SK",54.3531,-109.5575,26
+"Desbiens, QC",48.4167,-71.9500,73
+"Cap Pele, NB",46.2172,-64.2822,67
+"La Presentation, QC",45.6667,-73.0500,71
+"Seguin, ON",45.2882,-79.8116,38
+"Pointe-aux-Outardes, QC",49.0500,-68.4333,33
+"Assiginack, ON",45.7333,-81.8000,79
+"St. Louis No. 431, SK",52.8277,-105.7873,41
+"Saint-Hilarion, QC",47.5667,-70.4000,97
+"Sainte-Anne-du-Sault, QC",46.1733,-72.1415,75
+"Pembroke, ON",45.8167,-77.1000,10
+"Woodstock, ON",43.1306,-80.7467,13
+"Weedon-Centre, QC",45.7000,-71.4667,96
+"New Glasgow, NS",45.5926,-62.6455,27
+"Logan Lake, BC",50.4911,-120.8153,51
+"Windsor, NS",44.9803,-64.1292,21
+"Saint-Martin, QC",45.9667,-70.6500,66
+"Saint-Narcisse-de-Rimouski, QC",48.2800,-68.4300,74
+"North Dundas, ON",45.0833,-75.3500,23
+"Bayfield, ON",43.5615,-81.6983,15
+"Saint-Calixte, QC",45.9500,-73.8500,68
+"Notre-Dame-des-Neiges, QC",48.1167,-69.1667,97
+"Truro, NS",45.3647,-63.2800,30
+"Elkford, BC",50.0214,-114.9158,81
+"North Perth, ON",43.7300,-80.9500,13
+"Pointe-Lebel, QC",49.1667,-68.2000,10
+"Dufferin, MB",49.5319,-98.0700,45
+"Peachland, BC",49.7736,-119.7369,78
+"Sainte-Madeleine, QC",45.6000,-73.1000,96
+"Ellice-Archie, MB",50.3239,-101.2729,81
+"South Qu'Appelle No. 157, SK",50.5389,-104.0141,20
+"Brooks, AB",50.5642,-111.8989,30
+"Dudswell, QC",45.5833,-71.5833,53
+"Lloydminster, SK",53.2783,-110.0050,29
+"Prevost, QC",45.8700,-74.0800,61
+"Casselman, ON",45.3000,-75.0833,25
+"Portage La Prairie, MB",49.9728,-98.2919,17
+"Penetanguishene, ON",44.7667,-79.9333,74
+"South Bruce, ON",44.0333,-81.2000,65
+"Rawdon, QC",46.0500,-73.7167,86
+"Buctouche, NB",46.4719,-64.7249,39
+"Grey, MB",49.7094,-98.0736,44
+"Saint-Damase, QC",45.5333,-73.0000,59
+"Saint-Barthelemy, QC",46.1833,-73.1333,90
+"Squamish, BC",49.7017,-123.1589,20
+"Lameque, NB",47.7925,-64.6532,34
+"Cape Breton, NS",46.1389,-60.1931,67
+"Sioux Narrows-Nestor Falls, ON",49.4000,-94.0800,75
+"Souris-Glenwood, MB",49.6208,-100.2581,40
+"Hanover, ON",44.1500,-81.0333,85
+"Wendake, QC",46.8693,-71.3628,39
+"New-Wes-Valley, NL",49.1500,-53.5833,33
+"Lincoln, ON",43.1300,-79.4300,71
+"Sicamous, BC",50.8378,-118.9703,43
+"Coquitlam, BC",49.2839,-122.7919,23
+"Deep River, ON",46.1000,-77.4917,72
+"Uxbridge, ON",44.1167,-79.1333,35
+"Grenville-sur-la-Rouge, QC",45.6500,-74.6333,28
+"Weyburn No. 67, SK",49.6535,-103.8348,48
+"Shediac, NB",46.2167,-64.5333,99
+"McMasterville, QC",45.5500,-73.2333,10
+"Saint-Majorique-de-Grantham, QC",45.9333,-72.5833,48
+"Essex, ON",42.0833,-82.9000,71
+"Outlook, SK",51.5000,-107.0500,52
+"Westlock, AB",54.1522,-113.8511,16
+"Fort-Coulonge, QC",45.8500,-76.7333,74
+"Saint-Liguori, QC",46.0167,-73.5667,81
+"Smithers, BC",54.7819,-127.1681,89
+"Magnetawan, ON",45.6667,-79.6333,10
+"La Tuque, QC",48.0652,-74.0528,50
+"Owen Sound, ON",44.5667,-80.9333,22
+"Sainte-Lucie-des-Laurentides, QC",46.1300,-74.1800,84
+"Compton, QC",45.2333,-71.8167,43
+"Montmagny, QC",46.9833,-70.5500,97
+"Kitimat, BC",54.0000,-128.7000,68
+"Markstay, ON",46.4912,-80.4717,45
+"Stirling-Rawdon, ON",44.3667,-77.5917,23
+"Manning, AB",56.9142,-117.6272,17
+"Sarnia, ON",42.9994,-82.3089,30
+"Clarendon, QC",45.6500,-76.5167,94
+"Medicine Hat, AB",50.0417,-110.6775,46
+"Pennfield Ridge, NB",45.1924,-66.6858,99
+"Kentville, NS",45.0775,-64.4958,34
+"Grand Bay-Westfield, NB",45.3608,-66.2415,27
+"Madawaska Valley, ON",45.5000,-77.6667,12
+"Larouche, QC",48.4500,-71.5167,79
+"Puslinch, ON",43.4500,-80.1667,67
+"Saint-Paul, QC",45.9833,-73.4500,23
+"Flin Flon, SK",54.7667,-101.8778,67
+"Saint-Ludger, QC",45.7500,-70.7000,17
+"Burford, ON",43.1036,-80.4240,93
+"Saint-Andre-d'Argenteuil, QC",45.5667,-74.3333,92
+"Saint-Lambert-de-Lauzon, QC",46.5865,-71.2271,82
+"Sainte-Marthe, QC",45.4000,-74.3000,13
+"Kelowna, BC",49.8881,-119.4956,33
+"Sainte-Julie, QC",45.5833,-73.3333,46
+"Taylor, BC",56.1590,-120.6878,63
+"Powassan, ON",46.0825,-79.3619,63
+"Wilton No. 472, SK",53.1240,-109.7885,88
+"Burgeo, NL",47.6000,-57.6333,15
+"New Tecumseth, ON",44.0833,-79.7500,51
+"Saint-Norbert-d'Arthabaska, QC",46.1000,-71.8167,40
+"Falher, AB",55.7372,-117.2014,19
+"Burin, NL",47.0500,-55.1800,22
+"Sainte-Anne-des-Lacs, QC",45.8500,-74.1333,36
+"Beauharnois, QC",45.3200,-73.8700,74
+"Saint-Antoine-de-Tilly, QC",46.6667,-71.5833,31
+"Saint-Stanislas, QC",46.6167,-72.4000,35
+"Vegreville, AB",53.4928,-112.0522,18
+"Bathurst, NB",47.6200,-65.6500,51
+"Pessamit, QC",49.0485,-68.6814,21
+"Saint-Amable, QC",45.6500,-73.3000,45
+"Parry Sound, ON",45.3333,-80.0333,59
+"Elk Point, AB",53.8967,-110.8972,11
+"Sainte-Petronille, QC",46.8500,-71.1333,43
+"Alfred and Plantagenet, ON",45.5667,-74.9167,21
+"Watrous, SK",51.6841,-105.4661,80
+"Crowsnest Pass, AB",49.5955,-114.5136,97
+"Conestogo, ON",43.5441,-80.4997,47
+"New Bandon, NB",47.6912,-65.2900,24
+"Alnwick/Haldimand, ON",44.0833,-78.0333,45
+"Wabana, NL",47.6500,-52.9333,90
+"Victoria, MB",49.6644,-98.9153,44
+"La Guadeloupe, QC",45.9500,-70.9300,78
+"Sussex, NB",45.7167,-65.5167,81
+"Severn, ON",44.7500,-79.5167,65
+"Burton, NB",45.8009,-66.4066,97
+"Delta, BC",49.0847,-123.0586,50
+"Westbank, BC",49.8423,-119.6743,98
+"Chateau-Richer, QC",46.9667,-71.0167,27
+"Barriere, BC",51.1803,-120.1261,29
+"Grand Falls, NL",48.9578,-55.6633,61
+"Ville-Marie, QC",47.3333,-79.4333,39
+"Kipling, SK",50.1015,-102.6324,19
+"Petitcodiac, NB",45.9333,-65.1667,67
+"Saint-Elzear, QC",46.4000,-71.0667,24
+"View Royal, BC",48.4517,-123.4339,12
+"Chambord, QC",48.4333,-72.0667,31
+"Disraeli, QC",45.9000,-71.3500,27
+"Ucluelet, BC",48.9358,-125.5433,93
+"Potton, QC",45.0833,-72.3667,11
+"Caplan, QC",48.1000,-65.6833,24
+"Ignace, ON",49.4167,-91.6667,42
+"Princeton, BC",49.4589,-120.5060,45
+"La Peche, QC",45.6833,-75.9833,80
+"Clanwilliam-Erickson, MB",50.5061,-99.8156,77
+"Popkum, BC",49.1911,-121.7553,48
+"Rosser, MB",49.9900,-97.4592,81
+"Bonnyville, AB",54.2667,-110.7500,92
+"Saint-Hubert-de-Riviere-du-Loup, QC",47.8167,-69.1500,20
+"Nobleford, AB",49.8822,-113.0531,31
+"Essa, ON",44.2500,-79.7833,60
+"Innisfail, AB",52.0333,-113.9500,20
+"Drummond/North Elmsley, ON",44.9667,-76.2000,35
+"Saint-Paul-de-l'Ile-aux-Noix, QC",45.1333,-73.2833,14
+"Saint Andrews, NB",45.0740,-67.0521,18
+"Glovertown, NL",48.6667,-54.0500,28
+"Havelock-Belmont-Methuen, ON",44.5667,-77.9000,61
+"Saint-Alexandre-de-Kamouraska, QC",47.6817,-69.6250,78
+"Shawville, QC",45.6000,-76.4833,51
+"Bassano, AB",50.7833,-112.4667,61
+"Saint-Francois-de-la-Riviere-du-Sud, QC",46.8833,-70.7167,95
+"Saint-Pierre-de-l'Ile-d'Orleans, QC",46.8833,-71.0667,53
+"Virden, MB",49.8508,-100.9317,24
+"Rankin Inlet, NU",62.8300,-92.1321,76
+"Schreiber, ON",48.8167,-87.2667,70
+"Yamachiche, QC",46.2667,-72.8333,39
+"Sioux Lookout, ON",50.1000,-91.9167,99
+"Saint-Anaclet-de-Lessard, QC",48.4800,-68.4200,89
+"Two Borders, MB",49.2668,-101.1124,83
+"Brownsburg, QC",45.6703,-74.4467,71
+"Bracebridge, ON",45.0333,-79.3000,57
+"Port Hope, ON",43.9500,-78.3000,74
+"Selkirk, MB",50.1436,-96.8839,52
+"Beaupre, QC",47.0500,-70.9000,59
+"Yarmouth, NS",43.8361,-66.1175,61
+"Kelsey, MB",53.7356,-101.3950,65
+"Saint-Zenon, QC",46.5500,-73.8167,31
+"South Frontenac, ON",44.5081,-76.4939,81
+"Esterhazy, SK",50.6500,-102.0667,30
+"Bois-des-Filion, QC",45.6667,-73.7500,83
+"Bentley, AB",52.4667,-114.0500,60
+"Frontenac Islands, ON",44.2000,-76.3833,39
+"Stoke, QC",45.5333,-71.8000,61
+"New Westminster, BC",49.2069,-122.9111,42
+"Victoria, NL",47.7675,-53.2411,72
+"Saint-Hippolyte, QC",45.9300,-74.0200,70
+"Sparwood, BC",49.7331,-114.8853,71
+"Caraquet, NB",47.7853,-64.9592,57
+"Elliot Lake, ON",46.3833,-82.6500,17
+"Crabtree, QC",45.9667,-73.4667,51
+"Forestville, QC",48.7333,-69.0833,20
+"Coombs, BC",49.3008,-124.4049,29
+"Lacolle, QC",45.0833,-73.3667,26
+"Saint-Cesaire, QC",45.4167,-73.0000,90
+"Saint-Tite, QC",46.7333,-72.5667,97
+"St. John's, NL",47.4817,-52.7971,61
+"Beloeil, QC",45.5667,-73.2000,28
+"Riverdale, MB",49.9750,-100.2789,95
+"Wickham, QC",45.7500,-72.5000,79
+"Dunsmuir, BC",49.3696,-124.5772,33
+"White City, SK",50.4353,-104.3572,51
+"Venise-en-Quebec, QC",45.0833,-73.1333,73
+"Taber, AB",49.7847,-112.1508,15
+"Edmundston, NB",47.3765,-68.3253,54
+"Sainte-Cecile-de-Milton, QC",45.4833,-72.7500,32
+"St. Lawrence, NL",46.9244,-55.3928,71
+"Senneterre, QC",48.3833,-77.2333,75
+"Saint-Quentin, NB",47.5135,-67.3921,71
+"Cap-Chat, QC",49.1000,-66.6833,71
+"Georgina, ON",44.3000,-79.4333,45
+"Les Iles-de-la-Madeleine, QC",47.3833,-61.8667,76
+"Bishops Falls, NL",49.0167,-55.5167,67
+"Chester, NS",44.6500,-64.3000,36
+"Sherbrooke, QC",45.4000,-71.9000,57
+"Saint-Theodore-d'Acton, QC",45.6833,-72.5833,73
+"Brighton, ON",44.1222,-77.7642,19
+"Saint-Joseph-de-Sorel, QC",46.0446,-73.1308,13
+"Donnacona, QC",46.6747,-71.7294,44
+"Dysart et al, ON",45.2042,-78.4047,43
+"Sainte-Luce, QC",48.5500,-68.3800,88
+"St. George, NB",45.1333,-66.8167,95
+"Welland, ON",42.9833,-79.2333,44
+"Mervin No. 499, SK",53.5455,-108.8762,71
+"Saint-Antoine, NB",46.3629,-64.7530,52
+"Baie-Saint-Paul, QC",47.4500,-70.5000,35
+"Notre-Dame-du-Mont-Carmel, QC",46.4833,-72.6500,74
+"Preeceville, SK",51.9580,-102.6673,60
+"La Minerve, QC",46.2500,-74.9333,77
+"Kugluktuk, NU",67.8055,-115.3223,15
+"Manners Sutton, NB",45.6417,-67.0609,50
+"St. Catharines, ON",43.1833,-79.2333,27
+"West Elgin, ON",42.5833,-81.6667,32
+"Didsbury, AB",51.6658,-114.1311,80
+"Guelph, ON",43.5500,-80.2500,96
+"Onoway, AB",53.7011,-114.1981,15
+"Alma, QC",48.5500,-71.6500,41
+"Listuguj, QC",48.0609,-66.7491,73
+"Petawawa, ON",45.9000,-77.2833,32
+"Harrison Park, MB",50.5563,-100.1674,49
+"St. George's, NL",48.4275,-58.4778,20
+"Laurierville, QC",46.3000,-71.6500,92
+"Frenchman Butte, SK",53.6052,-109.4298,29
+"Gambo, NL",48.7833,-54.2167,50
+"Lakeshore, MB",51.2440,-99.6562,31
+"Saint Marys, NB",46.1748,-66.4897,13
+"Campbellton, NB",48.0050,-66.6731,19
+"Danville, QC",45.7833,-72.0167,63
+"Woolwich, ON",43.5667,-80.4833,41
+"Sault Ste. Marie, ON",46.5333,-84.3500,93
+"Lac-Megantic, QC",45.5833,-70.8833,27
+"Warwick, ON",43.0000,-81.8917,36
+"Les Coteaux, QC",45.2800,-74.2300,60
+"Beausejour, MB",50.0622,-96.5161,17
+"Riverview, NB",46.0613,-64.8052,53
+"Saint-Bruno-de-Montarville, QC",45.5333,-73.3500,36
+"Les Cedres, QC",45.3000,-74.0500,23
+"Sainte-Thecle, QC",46.8167,-72.5000,98
+"Prince Albert, SK",53.2000,-105.7500,23
+"Saint-Bernard-de-Lacolle, QC",45.0833,-73.4167,81
+"Sainte-Sabine, QC",45.2333,-73.0167,69
+"Adelaide-Metcalfe, ON",42.9500,-81.7000,65
+"Beachburg, ON",45.7303,-76.8559,94
+"Saint-Apollinaire, QC",46.6167,-71.5167,50
+"Upton, QC",45.6500,-72.6833,11
+"Kindersley No. 290, SK",51.4894,-109.0979,69
+"Saint-Francois-Xavier-de-Brompton, QC",45.5333,-72.0500,67
+"East Broughton, QC",46.2167,-71.0667,55
+"Amqui, QC",48.4667,-67.4333,74
+"La Broquerie, MB",49.3994,-96.5103,37
+"Calmar, AB",53.2500,-113.7833,99
+"Collingwood, ON",44.5000,-80.2167,58
+"Westmount, QC",45.4833,-73.6000,93
+"Neebing, ON",48.1833,-89.4667,32
+"Logy Bay-Middle Cove-Outer Cove, NL",47.6300,-52.6800,27
+"King, ON",44.0463,-79.6044,13
+"Val-David, QC",46.0300,-74.2200,87
+"Rougemont, QC",45.4333,-73.0500,79
+"Battleford, SK",52.7383,-108.3153,55
+"Kensington, PE",46.4333,-63.6500,90
+"Rosthern No. 403, SK",52.6206,-106.3967,80
+"Morinville, AB",53.8022,-113.6497,38
+"Neguac, NB",47.2333,-65.0500,32
+"Saint-Clet, QC",45.3500,-74.2200,71
+"Sainte-Ursule, QC",46.2833,-73.0333,93
+"Sundre, AB",51.7972,-114.6406,13
+"Val-Morin, QC",46.0000,-74.1800,36
+"Port Hawkesbury, NS",45.6153,-61.3642,17
+"Tay, ON",44.7167,-79.7667,75
+"Saint-Jean-Baptiste, QC",45.5167,-73.1167,20
+"Argyle, NS",43.8000,-65.8500,11
+"Airdrie, AB",51.2917,-114.0144,41
+"Baie-du-Febvre, QC",46.1300,-72.7200,98
+"Alberton, PE",46.8167,-64.0667,58
+"Stonewall, MB",50.1344,-97.3261,32
+"Dorchester, NB",45.9016,-64.5161,30
+"Vallee-Jonction, QC",46.3667,-70.9167,65
+"Sainte-Elisabeth, QC",46.0833,-73.3500,25
+"Louiseville, QC",46.2500,-72.9500,93
+"Saint-Malachie, QC",46.5333,-70.7667,68
+"Pohenegamook, QC",47.4667,-69.2167,10
+"Brandon, MB",49.8483,-99.9500,38
+"Keremeos, BC",49.2025,-119.8294,74
+"Picture Butte, AB",49.8731,-112.7800,24
+"Florenceville, NB",46.4435,-67.6152,22
+"Saint-Michel, QC",45.2333,-73.5667,18
+"Saint-Valerien-de-Milton, QC",45.5667,-72.7167,26
+"Windsor, QC",45.5667,-72.0000,25
+"Peterborough, ON",44.3000,-78.3167,82
+"Sainte-Clotilde, QC",45.1500,-73.6833,12
+"Riviere-Beaudette, QC",45.2333,-74.3333,30
+"Ethelbert, MB",51.5364,-100.4981,85
+"Dauphin, MB",51.1992,-100.0633,10
+"Fort Simpson, NT",61.8082,-121.3199,32
+"Newcastle, NB",47.1725,-65.5551,31
+"St. Andrews, MB",50.2700,-96.9747,23
+"Prescott, ON",44.7167,-75.5167,41
+"Comox, BC",49.6733,-124.9022,76
+"Burlington, ON",43.3167,-79.8000,35
+"Drummondville, QC",45.8833,-72.4833,38
+"Trent Hills, ON",44.3142,-77.8514,67
+"Steinbach, MB",49.5258,-96.6839,70
+"Lac-Brome, QC",45.2167,-72.5167,77
+"Digby, NS",44.6222,-65.7606,46
+"Trois-Pistoles, QC",48.1200,-69.1800,87
+"Whitby, ON",43.8833,-78.9417,99
+"Clearview, ON",44.3981,-80.0742,84
+"Riviere-du-Loup, QC",47.8333,-69.5333,74
+"Dildo, NL",47.5685,-53.5471,78
+"Montague, PE",46.1652,-62.6500,40
+"Saint-Rene-de-Matane, QC",48.7000,-67.3833,96
+"L' Isle-Verte, QC",48.0167,-69.3333,12
+"Gananoque, ON",44.3300,-76.1700,83
+"Hanover, MB",49.4433,-96.8492,90
+"Gilbert Plains, MB",51.1547,-100.4381,45
+"Amulet, QC",48.2938,-79.0274,41
+"Carignan, QC",45.4500,-73.3000,53
+"Lachute, QC",45.6500,-74.3333,62
+"Perth South, ON",43.3000,-81.1500,83
+"Quispamsis, NB",45.4322,-65.9462,51
+"Lorrainville, QC",47.3613,-79.3382,13
+"Sagamok, ON",46.1529,-82.2072,13
+"Saint-Casimir, QC",46.6500,-72.1333,17
+"North Glengarry, ON",45.3333,-74.7333,54
+"Pickering, ON",43.8354,-79.0890,22
+"Saint-Antoine-sur-Richelieu, QC",45.7833,-73.1833,30
+"Saint-Norbert, QC",46.1667,-73.3167,63
+"Gibbons, AB",53.8278,-113.3228,69
+"Saint-Urbain, QC",47.5500,-70.5333,26
+"Hinton, AB",53.4114,-117.5639,84
+"Saint-Gabriel-de-Rimouski, QC",48.4209,-68.1791,28
+"Claremont, ON",43.9741,-79.1316,90
+"Val-d'Or, QC",48.1000,-77.7833,89
+"Conception Bay South, NL",47.5167,-52.9833,13
+"Meadow Lake, SK",54.1242,-108.4358,13
+"Wilmot, ON",43.4000,-80.6500,37
+"Arborg, MB",50.9075,-97.2182,43
+"Torch River No. 488, SK",53.5445,-104.4619,67
+"Saint-Fabien, QC",48.3000,-68.8700,93
+"Asbestos, QC",45.7667,-71.9333,70
+"Church Point, NS",44.3333,-66.1167,53
+"Les Escoumins, QC",48.3500,-69.4000,47
+"Bonnechere Valley, ON",45.5333,-77.1000,44
+"Kippens, NL",48.5492,-58.6236,34
+"Creighton, SK",54.7561,-101.8973,65
+"Northern Rockies, BC",59.0000,-123.7500,27
+"Shelburne, NS",43.7633,-65.3236,42
+"Upham, NB",45.5083,-65.6618,28
+"New Carlisle, QC",48.0167,-65.3333,29
+"Cowichan Bay, BC",48.7666,-123.6743,70
+"Rockwood, MB",50.2856,-97.2869,55
+"Minto, ON",43.9167,-80.8667,68
+"Whitewater Region, ON",45.7167,-76.8333,24
+"Sainte-Justine, QC",46.4000,-70.3500,64
+"La Loche, SK",56.4833,-109.4333,68
+"Powerview-Pine Falls, MB",50.5661,-96.1981,40
+"Edenwold No. 158, SK",50.5166,-104.3451,25
+"Ellison, BC",49.9646,-119.3178,90
+"Pointe-Calumet, QC",45.5000,-73.9700,79
+"Humbermouth, NL",49.0156,-58.1678,38
+"Povungnituk, QC",60.0477,-77.2751,45
+"Pinehouse, SK",55.5136,-106.5986,82
+"St.-Charles, ON",46.3422,-80.4497,38
+"Blucher, SK",52.0134,-106.2176,83
+"Oak Bay, BC",48.4264,-123.3228,87
+"Balgonie, SK",50.4880,-104.2690,73
+"Pierreville, QC",46.0667,-72.8167,74
+"Iqaluit, NU",63.7598,-68.5107,92
+"Barrie, ON",44.3711,-79.6769,20
+"Pasadena, NL",49.0161,-57.6050,87
+"East St. Paul, MB",49.9772,-97.0103,42
+"Erin, ON",43.7667,-80.0667,46
+"Wilmot, NB",46.3463,-67.7099,51
+"Quesnel, BC",52.9784,-122.4927,87
+"Valemount, BC",52.8284,-119.2659,41
+"Pincher Creek, AB",49.4861,-113.9500,14
+"Plympton-Wyoming, ON",43.0167,-82.0833,84
+"Asphodel-Norwood, ON",44.3531,-78.0183,99
+"North Kawartha, ON",44.7500,-78.1000,93
+"Hudson, QC",45.4500,-74.1500,11
+"McKellar, ON",45.4833,-79.8500,36
+"Pipestone, MB",49.6653,-101.1444,80
+"Battle River No. 438, SK",52.7343,-108.4452,78
+"Martensville, SK",52.2897,-106.6667,90
+"Tweed, ON",44.6000,-77.3333,78
+"Notre-Dame-des-Pins, QC",46.1833,-70.7167,51
+"Morin-Heights, QC",45.9000,-74.2500,78
+"Fox Creek, AB",54.3950,-116.8092,73
+"Alnwick, NB",47.2656,-65.2292,96
+"Arviat, NU",61.0996,-94.1688,83
+"Wasaga Beach, ON",44.5206,-80.0167,18
+"Lac-Etchemin, QC",46.4000,-70.5000,93
+"The Nation / La Nation, ON",45.3500,-75.0333,40
+"Mont-Tremblant, QC",46.1167,-74.6000,89
+"Fogo Island, NL",49.6667,-54.1833,56
+"Highlands East, ON",44.9667,-78.2500,46
+"Sacre-Coeur-Saguenay, QC",48.2479,-69.8540,60
+"Clermont, QC",47.6833,-70.2333,22
+"Saint-Anselme, QC",46.6333,-70.9667,23
+"La Conception, QC",46.1500,-74.7000,41
+"Saint-Paul-d'Abbotsford, QC",45.4333,-72.8833,53
+"Chilliwack, BC",49.1577,-121.9509,73
+"North Middlesex, ON",43.1500,-81.6333,80
+"Pangnirtung, NU",66.1436,-65.6829,51
+"Saint-Christophe-d'Arthabaska, QC",46.0333,-71.8833,98
+"Saint-Aubert, QC",47.1833,-70.2167,82
+"Burnaby, BC",49.2667,-122.9667,54
+"Lloydminster, AB",53.2807,-110.0350,92
+"Cornwallis, MB",49.7981,-99.8481,81
+"Winnipeg, MB",49.8844,-97.1464,79
+"Thorold, ON",43.1167,-79.2000,44
+"Saint-Constant, QC",45.3700,-73.5700,95
+"Deleage, QC",46.3833,-75.9167,81
+"Frontenac, QC",45.5800,-70.8300,32
+"Saint-Charles-Borromee, QC",46.0500,-73.4667,18
+"Wotton, QC",45.7333,-71.8000,99
+"Smiths Falls, ON",44.9000,-76.0167,10
+"Coverdale, NB",46.0003,-64.8859,35
+"Meaford, ON",44.5800,-80.7300,19
+"Vancouver, BC",49.2500,-123.1000,33
+"Saint-Charles-sur-Richelieu, QC",45.6833,-73.1833,40
+"Chapleau, ON",47.8333,-83.4000,76
+"Moosomin, SK",50.1420,-101.6700,28
+"Mitchell, MB",49.5363,-96.7634,40
+"L'Isle-aux-Coudres, QC",47.4000,-70.3833,58
+"Akwesasne, QC",45.0155,-74.5769,80
+"Red Lake, ON",51.0333,-93.8333,69
+"Flin Flon (Part), MB",54.7712,-101.8419,68
+"Nanton, AB",50.3494,-113.7717,12
+"Kamloops, BC",50.6761,-120.3408,79
+"Swan River, MB",52.1058,-101.2667,12
+"Harbour Grace, NL",47.6917,-53.2167,83
+"Montreal, QC",45.5089,-73.5617,51
+"Cape Dorset, NU",64.2237,-76.5405,75
+"Sylvan Lake, AB",52.3083,-114.0964,44
+"Carbonear, NL",47.7375,-53.2294,36
+"Malpeque, PE",46.5000,-63.6667,38
+"Chandler, QC",48.3500,-64.6833,79
+"Burns Lake, BC",54.2292,-125.7625,51
+"Coteau-du-Lac, QC",45.3000,-74.1800,13
+"Addington Highlands, ON",45.0000,-77.2500,66
+"Tring-Jonction, QC",46.2667,-70.9833,60
+"South-West Oxford, ON",42.9500,-80.8000,49
+"South Bruce Peninsula, ON",44.7333,-81.2000,41
+"Courtenay, BC",49.6878,-124.9944,12
+"Chapais, QC",49.7819,-74.8544,43
+"Enderby, BC",50.5508,-119.1397,13
+"Grand-Remous, QC",46.6167,-75.9000,39
+"Stellarton, NS",45.5567,-62.6600,80
+"Frelighsburg, QC",45.0461,-72.8106,59
+"Lantz, NS",44.9894,-63.4736,73
+"Brenda-Waskada, MB",49.1775,-100.7019,25
+"Shellbrook No. 493, SK",53.3545,-106.2553,99
+"Saint-Jacques-le-Mineur, QC",45.2833,-73.4167,25
+"Armstrong, ON",47.7083,-79.8250,25
+"Stratford, ON",43.3708,-80.9819,92
+"Upper Island Cove, NL",47.6472,-53.2233,51
+"Cartier, MB",49.9161,-97.7000,76
+"Saint-Pamphile, QC",46.9667,-69.7833,61
+"Zorra, ON",43.1500,-80.9500,89
+"Becancour, QC",46.3333,-72.4333,67
+"Degelis, QC",47.5500,-68.6500,38
+"Summerland, BC",49.6006,-119.6778,89
+"Emerson-Franklin, MB",49.1333,-97.0331,72
+"L'Ascension-de-Notre-Seigneur, QC",48.7000,-71.6833,98
+"Greater Napanee, ON",44.2500,-76.9500,63
+"Lambton, QC",45.8300,-71.0800,96
+"Sainte-Agathe-de-Lotbiniere, QC",46.3833,-71.4167,85
+"Hampton, NB",45.5330,-65.8330,81
+"La Dore, QC",48.7200,-72.6500,26
+"West Nipissing / Nipissing Ouest, ON",46.3667,-79.9167,30
+"Metchosin, BC",48.3819,-123.5378,43
+"Durham, NB",47.7631,-66.0849,78
+"Assiniboia, SK",49.6167,-105.9833,12
+"Alvinston, ON",42.8489,-81.9049,68
+"Lakeshore, ON",42.2399,-82.6511,71
+"Holyrood, NL",47.3833,-53.1333,97
+"Oka, QC",45.4700,-74.0800,24
+"Greenwich, NB",45.5112,-66.1229,80
+"Racine, QC",45.5000,-72.2500,66
+"Carling, ON",45.4333,-80.2167,40
+"Cumberland, BC",49.6206,-125.0261,46
+"Wawa, ON",47.9931,-84.7736,42
+"Penticton, BC",49.4911,-119.5886,10
+"St. Clair, ON",42.7833,-82.3500,98
+"Saint George, NB",45.2916,-66.8501,41
+"Sainte-Anne-de-Sabrevois, QC",45.2000,-73.2167,41
+"Sainte-Agathe-des-Monts, QC",46.0500,-74.2800,72
+"Saint-Denis-de-Brompton, QC",45.4500,-72.0833,71
+"Blainville, QC",45.6700,-73.8800,51
+"Messines, QC",46.2333,-76.0167,91
+"Macdonald, Meredith and Aberdeen Additional, ON",46.4833,-84.0667,70
+"St. Marys, ON",43.2583,-81.1333,48
+"Lorraine, QC",45.6833,-73.7833,42
+"Saint-Placide, QC",45.5333,-74.2000,18
+"Pouch Cove, NL",47.7670,-52.7670,16
+"Waterloo, ON",43.4667,-80.5167,38
+"Altona, MB",49.1044,-97.5625,99
+"Iroquois Falls, ON",48.7667,-80.6667,60
+"Douglas, NB",46.2819,-66.9420,83
+"Grey Highlands, ON",44.3333,-80.5000,76
+"Winnipeg Beach, MB",50.5058,-96.9742,34
+"Saint-Gedeon, QC",48.5000,-71.7667,50
+"Maliotenam, QC",50.2114,-66.1911,22
+"Melbourne, QC",45.5800,-72.1700,13
+"Kaleden, BC",49.3926,-119.5955,19
+"Saint-Alexis-des-Monts, QC",46.4667,-73.1333,11
+"Richmond, BC",49.1667,-123.1333,91
+"Sainte-Genevieve-de-Batiscan, QC",46.5333,-72.3333,28
+"New Maryland, NB",45.8911,-66.6847,33
+"Landmark, MB",49.6711,-96.8179,16
+"Athens, ON",44.6250,-75.9500,25
+"Saint-Edouard-de-Lotbiniere, QC",46.5667,-71.8333,35
+"Hensall, ON",43.4345,-81.5040,77
+"Varennes, QC",45.6833,-73.4333,67
+"Saint-Blaise-sur-Richelieu, QC",45.2167,-73.2833,80
+"Marystown, NL",47.1667,-55.1667,46
+"Nauwigewauk, NB",45.4812,-65.8738,54
+"Sainte-Anne-de-Beaupre, QC",47.0167,-70.9333,73
+"Wabasca, AB",55.9855,-113.8566,85
+"Saint-Robert, QC",45.9667,-73.0000,37
+"Hemmingford, QC",45.0833,-73.5833,92
+"Saint-Louis, NB",46.7048,-65.1046,55
+"Laval, QC",45.5833,-73.7500,33
+"Brampton, ON",43.6833,-79.7667,63
+"Shawinigan, QC",46.5667,-72.7500,28
+"Coaticook, QC",45.1333,-71.8000,83
+"Northern Bruce Peninsula, ON",45.0800,-81.3800,26
+"Bruederheim, AB",53.8042,-112.9278,20
+"Headingley, MB",49.8681,-97.3908,49
+"Lac-Drolet, QC",45.7200,-70.8500,70
+"Louise, MB",49.1772,-98.8794,23
+"Vaudreuil-Dorion, QC",45.4000,-74.0333,85
+"Spiritwood No. 496, SK",53.4435,-107.4495,16
+"Saint-Sulpice, QC",45.8333,-73.3500,96
+"Hamilton, ON",43.2567,-79.8692,48
+"Wabush, NL",52.9081,-66.8690,25
+"Rocky Mountain House, AB",52.3753,-114.9217,31
+"Bay Bulls, NL",47.3158,-52.8103,39
+"Pilot Butte, SK",50.4667,-104.4167,45
+"Harbour Breton, NL",47.4833,-55.8333,84
+"Teulon, MB",50.3858,-97.2611,74
+"Surrey, BC",49.1900,-122.8489,51
+"Magrath, AB",49.4239,-112.8683,70
+"Kitchener, ON",43.4186,-80.4728,93
+"Saint-Marc-sur-Richelieu, QC",45.6833,-73.2000,97
+"Queens, NS",44.0333,-64.7167,82
+"Mont-Saint-Gregoire, QC",45.3333,-73.1667,30
+"Marathon, ON",48.7500,-86.3667,71
+"Minnedosa, MB",50.2453,-99.8428,98
+"Northesk, NB",47.2569,-66.2613,61
+"Estevan, SK",49.1392,-102.9861,32
+"Harrison Hot Springs, BC",49.3000,-121.7819,50
+"Musquash, NB",45.1836,-66.3514,23
+"L'Assomption, QC",45.8333,-73.4167,99
+"Stephenville, NL",48.5500,-58.5667,28
+"Cochrane, ON",49.0667,-81.0167,16
+"Invermere, BC",50.5083,-116.0303,22
+"Dalhousie, NB",48.1000,-66.6167,57
+"Saint-Andre, NB",47.1392,-67.7444,81
+"Cornwall, PE",46.2407,-63.2009,69
+"Mayerthorpe, AB",53.9503,-115.1336,12
+"Laurentian Hills, ON",46.1333,-77.5500,66
+"De Salaberry, MB",49.4403,-96.9844,43
+"Kedgwick, NB",47.6456,-67.3431,90
+"Mission, BC",49.1337,-122.3112,40
+"Saint Mary, NB",46.3987,-64.8681,37
+"Saint-Mathieu-du-Parc, QC",46.5667,-72.9167,37
+"Saint-Eugene, QC",45.8000,-72.7000,50
+"Saint-Gedeon-de-Beauce, QC",45.8500,-70.6333,12
+"Plessisville, QC",46.2167,-71.7833,43
+"Tillsonburg, ON",42.8667,-80.7333,51
+"Saint-Modeste, QC",47.8333,-69.4000,36
+"Sainte-Marthe-sur-le-Lac, QC",45.5300,-73.9300,33
+"Dalmeny, SK",52.3411,-106.7733,21
+"Perry, ON",45.5000,-79.2833,81
+"Port-Cartier, QC",50.0333,-66.8667,59
+"Estevan No. 5, SK",49.1308,-103.0126,76
+"Mont-Laurier, QC",46.5500,-75.5000,40
+"Weldford, NB",46.5221,-65.1114,44
+"Stanstead, QC",45.0167,-72.1000,18
+"Olds, AB",51.7928,-114.1067,71
+"Sifton, MB",49.6653,-100.6678,92
+"East Gwillimbury, ON",44.1333,-79.4167,30
+"Napierville, QC",45.1833,-73.4000,24
+"Saint-Pascal, QC",47.5333,-69.8000,78
+"Sainte-Marie-Salome, QC",45.9333,-73.5000,70
+"Vanscoy No. 345, SK",52.0073,-107.0552,81
+"Centreville-Wareham-Trinity, NL",48.9879,-53.9069,31
+"Killaloe, Hagarty and Richards, ON",45.6000,-77.5000,99
+"South Glengarry, ON",45.2000,-74.5833,78
+"Saint-Leonard-de-Portneuf, QC",46.8833,-71.9167,71
+"Grande-Vallee, QC",49.2167,-65.1333,84
+"Lamont, AB",53.7603,-112.7778,80
+"Fort Macleod, AB",49.7256,-113.3975,80
+"St. Albert, AB",53.6303,-113.6258,77
+"Saint-Guillaume, QC",45.8833,-72.7667,67
+"Saint-Aime-des-Lacs, QC",47.6833,-70.3000,61
+"Sainte-Catherine-de-la-Jacques-Cartier, QC",46.8500,-71.6167,60
+"Goulds, NL",47.4517,-52.7647,90
+"Waterloo, QC",45.3500,-72.5167,76
+"Sainte-Adele, QC",45.9500,-74.1300,56
+"Rossland, BC",49.0786,-117.7992,15
+"North Battleford, SK",52.7575,-108.2861,29
+"London, ON",42.9836,-81.2497,67
+"Saint-Fulgence, QC",48.4500,-70.9000,22
+"East Angus, QC",45.4833,-71.6667,47
+"Bonaventure, QC",48.0500,-65.4833,98
+"Petrolia, ON",42.8833,-82.1417,20
+"St. Thomas, ON",42.7750,-81.1833,38
+"Rosedale, MB",50.4397,-99.5389,19
+"Bonfield, ON",46.2167,-79.1333,33
+"Ashfield-Colborne-Wawanosh, ON",43.8667,-81.6000,46
+"Les Eboulements, QC",47.4833,-70.3167,30
+"Macklin, SK",52.3300,-109.9400,63
+"Chibougamau, QC",49.9167,-74.3667,35
+"Nisga'a, BC",55.1078,-129.4293,52
+"Cocagne, NB",46.3406,-64.6200,82
+"Windsor, ON",42.2833,-83.0000,29
+"Sainte-Anne-de-Bellevue, QC",45.4039,-73.9525,17
+"Saint-Joseph-de-Beauce, QC",46.3000,-70.8833,30
+"Queensbury, NB",45.9918,-67.0632,82
+"Lyster, QC",46.3667,-71.6167,15
+"New Richmond, QC",48.1667,-65.8667,86
+"Memramcook, NB",46.0000,-64.5500,87
+"Saint-Armand, QC",45.0333,-73.0500,15
+"Austin, QC",45.1833,-72.2833,50
+"Saint-Esprit, QC",45.9000,-73.6667,97
+"Coalhurst, AB",49.7457,-112.9319,36
+"Gordon, NB",46.8363,-67.1913,19
+"Saint-Augustin-de-Desmaures, QC",46.7333,-71.4667,56
+"Kenora, ON",49.7667,-94.4833,80
+"Selwyn, ON",44.4167,-78.3333,87
+"Saint-Ignace-de-Loyola, QC",46.0667,-73.1333,59
+"Laird, ON",46.3833,-84.0667,64
+"Blanc-Sablon, QC",51.4167,-57.1333,13
+"Mattawa, ON",46.3167,-78.7000,11
+"Bayham, ON",42.7333,-80.7833,14
+"Waterville, QC",45.2667,-71.9000,47
+"Chestermere, AB",51.0500,-113.8225,30
+"Stettler, AB",52.3236,-112.7192,38
+"Chase, BC",50.8189,-119.6844,60
+"Saint-Zotique, QC",45.2500,-74.2500,37
+"Grimshaw, AB",56.1908,-117.6117,22
+"Southgate, ON",44.1000,-80.5833,49
+"Wentworth-Nord, QC",45.8500,-74.4500,48
+"Fort Smith, NT",60.0260,-112.0821,80
+"Salaberry-de-Valleyfield, QC",45.2500,-74.1300,81
+"Stanley, MB",49.1331,-98.0656,16
+"Saint-Vallier, QC",46.8833,-70.8167,63
+"Eastman, QC",45.3341,-72.3041,14
+"Saint-Mathias-sur-Richelieu, QC",45.4667,-73.2667,40
+"Girardville, QC",49.0000,-72.5500,74
+"Highlands, BC",48.5200,-123.5000,10
+"L'Anse-Saint-Jean, QC",48.2333,-70.2000,94
+"Dawson, YT",64.0464,-139.3893,12
+"Gravenhurst, ON",44.9167,-79.3667,12
+"Amaranth, ON",43.9833,-80.2333,30
+"Dutton/Dunwich, ON",42.6667,-81.5000,82
+"Chisholm, ON",46.1000,-79.2333,14
+"Laurier-Station, QC",46.5333,-71.6333,77
+"Port McNeill, BC",50.5903,-127.0847,16
+"Saint-Charles-de-Bellechasse, QC",46.7667,-70.9500,85
+"Baie Verte, NL",49.9167,-56.1833,94
+"Bifrost-Riverton, MB",51.0603,-97.1436,82
+"Brossard, QC",45.4667,-73.4500,42
+"L'Isle-aux-Allumettes, QC",45.8667,-77.0667,19
+"Val-Shefford, QC",45.3500,-72.5667,40
+"Grahamdale, MB",51.4200,-98.3733,66
+"Duchess, AB",50.7333,-111.9000,90
+"Saint-Patrice-de-Sherrington, QC",45.1667,-73.5167,60
+"Slave Lake, AB",55.2853,-114.7706,30
+"Saanich, BC",48.4840,-123.3810,41
+"Devon, AB",53.3633,-113.7322,79
+"Irricana, AB",51.3189,-113.6106,13
+"Mashteuiatsh, QC",48.5690,-72.2495,42
+"Hatley, QC",45.2700,-71.9500,75
+"Saint-Pierre-les-Becquets, QC",46.5000,-72.2000,26
+"Saint-Paulin, QC",46.4167,-73.0333,45
+"Powell River, BC",49.8353,-124.5247,48
+"Lajord No. 128, SK",50.1965,-104.2507,71
+"Tache, MB",49.7081,-96.6736,19
+"McDougall, ON",45.4500,-80.0167,36
+"Dieppe, NB",46.0989,-64.7242,57
+"Algonquin Highlands, ON",45.4000,-78.7500,35
+"Price, QC",48.6017,-68.1227,26
+"Wedgeport, NS",43.7323,-65.9797,13
+"Saint-Agapit, QC",46.5667,-71.4333,15
+"Noyan, QC",45.0667,-73.3000,80
+"South Dundas, ON",44.9167,-75.2667,11
+"Tres-Saint-Sacrement, QC",45.1833,-73.8500,77
+"Nain, NL",56.5422,-61.6928,62
+"Valleyview, AB",55.0686,-117.2683,67
+"Charlemagne, QC",45.7167,-73.4833,72
+"Saint-Michel-du-Squatec, QC",47.8800,-68.7200,71
+"Sooke, BC",48.3761,-123.7378,42
+"Sainte-Marie-Madeleine, QC",45.6000,-73.1000,73
+"Chipman, NB",46.1710,-65.8840,22
+"Saint-Mathieu, QC",45.3167,-73.5164,92
+"Lanigan, SK",51.8500,-105.0333,10
+"Kuujjuaq, QC",58.1429,-68.3742,97
+"Neepawa, MB",50.2289,-99.4656,80
+"Loyalist, ON",44.2500,-76.7500,91
+"Hanwell, NB",45.8681,-66.7947,61
+"Cambridge Bay, NU",69.1528,-105.1707,92
+"Esquimalt, BC",48.4306,-123.4147,40
+"Barrhead, AB",54.1167,-114.4000,71
+"Henryville, QC",45.1333,-73.1833,13
+"Labrecque, QC",48.6667,-71.5333,78
+"Tiny, ON",44.6833,-79.9500,57
+"Arran-Elderslie, ON",44.4000,-81.2000,64
+"Atikokan, ON",48.7500,-91.6167,23
+"Temiscouata-sur-le-Lac, QC",47.6800,-68.8800,43
+"Telkwa, BC",54.6972,-127.0500,52
+"Shuniah, ON",48.5833,-88.8333,54
+"Grand Forks, BC",49.0333,-118.4400,27
+"Central Manitoulin, ON",45.7167,-82.2000,67
+"Mossey River, MB",51.7550,-99.9664,85
+"Hamiota, MB",50.1964,-100.6342,24
+"Hudson Bay, SK",52.8510,-102.3920,80
+"Yorkton, SK",51.2139,-102.4628,55
+"Saint-Andre-Avellin, QC",45.7167,-75.0667,88
+"Kent, BC",49.2833,-121.7500,21
+"Ladysmith, BC",48.9975,-123.8203,84
+"Hardwicke, NB",47.0208,-65.0302,68
+"Saint-Patrice-de-Beaurivage, QC",46.4167,-71.2333,25
+"Saint-Joseph, NB",47.5580,-68.3082,61
+"Richmond, QC",45.6667,-72.1500,79
+"Crossfield, AB",51.4333,-114.0333,31
+"Saint-Jean-de-Matha, QC",46.2300,-73.5300,26
+"WestLake-Gladstone, MB",50.2862,-98.8415,44
+"Saint-Joseph-du-Lac, QC",45.5333,-74.0000,65
+"Val-Joli, QC",45.6000,-71.9700,39
+"Bay Roberts, NL",47.5847,-53.2783,60
+"Miramichi, NB",47.0196,-65.5072,23
+"Bromont, QC",45.3167,-72.6500,54
+"Admaston/Bromley, ON",45.5292,-76.8969,90
+"Fossambault-sur-le-Lac, QC",46.8667,-71.6167,50
+"High Prairie, AB",55.4325,-116.4861,30
+"Carstairs, AB",51.5619,-114.0953,96
+"Saint-Narcisse-de-Beaurivage, QC",46.4833,-71.2333,39
+"Callander, ON",46.1781,-79.4125,15
+"Notre-Dame-du-Portage, QC",47.7667,-69.6167,48
+"Saint-Tite-des-Caps, QC",47.1333,-70.7667,44
+"Kingsey Falls, QC",45.8500,-72.0667,13
+"Carlyle, SK",49.6333,-102.2667,32
+"Windermere, BC",50.4856,-115.9948,90
+"Grenville, QC",45.6333,-74.6000,76
+"Saint-Lambert, QC",45.5000,-73.5167,68
+"Chisasibi, QC",53.6645,-78.7938,86
+"Wasagamack, MB",53.9056,-94.9412,35
+"Tecumseh, ON",42.2431,-82.9256,69
+"Mille-Isles, QC",45.8200,-74.2200,49
+"Saint-Michel-des-Saints, QC",46.6833,-73.9167,70
+"Trois-Rivieres, QC",46.3500,-72.5500,47
+"Saint-Maurice, QC",46.4667,-72.5333,64
+"Glenella-Lansdowne, MB",50.4163,-99.2097,54
+"Melita, MB",49.2681,-100.9958,30
+"Wellington North, ON",43.9000,-80.5700,60
+"Vanderhoof, BC",54.0143,-124.0089,53
+"Armstrong, BC",50.4483,-119.1961,65
+"Eel River Crossing, NB",48.0125,-66.4208,36
+"Saint-Joseph-de-Coleraine, QC",45.9700,-71.3700,51
+"Saint-Gabriel-de-Valcartier, QC",46.9333,-71.4667,75
+"Prairie View, MB",50.3304,-100.9803,35
+"Balmoral, NB",47.9667,-66.4500,36
+"Beaubassin East / Beaubassin-est, NB",46.1726,-64.3122,24
+"Saint-Alexis, QC",45.9333,-73.6167,60
+"Amos, QC",48.5667,-78.1167,62
+"Russell-Binscarth, MB",50.7272,-101.3689,47
+"Alexander, MB",50.4222,-96.0750,63
+"Beresford, NB",47.7181,-65.8794,89
+"Cobalt, ON",47.4000,-79.6833,58
+"Mistissini, QC",50.5707,-73.6829,34
+"Sussex Corner, NB",45.7122,-65.4719,24
+"Riviere-Heva, QC",48.2333,-78.2167,10
+"West Perth, ON",43.4700,-81.2000,55
+"Saint-Jacques, QC",45.9500,-73.5667,58
+"Clearwater, BC",51.6500,-120.0333,87
+"Port-Daniel--Gascons, QC",48.1833,-64.9667,29
+"Pointe-a-la-Croix, QC",48.0167,-66.6833,14
+"Carman, MB",49.4992,-98.0008,82
+"Castlegar, BC",49.3256,-117.6661,82
+"Salmo, BC",49.1942,-117.2778,58
+"La Prairie, QC",45.4200,-73.5000,61
+"L'Ile-Perrot, QC",45.3833,-73.9500,99
+"Vercheres, QC",45.7833,-73.3500,25
+"Fort Qu'Appelle, SK",50.7667,-103.7833,77
+"Marieville, QC",45.4333,-73.1667,24
+"Notre-Dame-du-Bon-Conseil, QC",46.0000,-72.3500,18
+"Georgian Bay, ON",44.9833,-79.8167,33
+"Riviere-Ouelle, QC",47.4333,-70.0167,94
+"Macamic, QC",48.7500,-79.0000,80
+"North Vancouver, BC",49.3641,-123.0066,33
+"Saint-Anicet, QC",45.1200,-74.3500,78
+"Athabasca, AB",54.7197,-113.2856,12
+"Whitehead, MB",49.7981,-100.2575,20
+"Notre-Dame-des-Prairies, QC",46.0500,-73.4333,35
+"Innisfil, ON",44.3000,-79.5833,73
+"Baie-d'Urfe, QC",45.4167,-73.9167,41
+"Papineauville, QC",45.6167,-75.0167,73
+"Nanaimo, BC",49.1642,-123.9364,19
+"Lacombe, AB",52.4683,-113.7369,31
+"Jasper, AB",52.9013,-118.1312,19
+"Piney, MB",49.2069,-95.8333,24
+"Saint-Louis-du-Ha! Ha!, QC",47.6700,-68.9800,68
+"Saint-Alphonse-de-Granby, QC",45.3333,-72.8167,48
+"St. Clements, MB",50.2689,-96.6742,88
+"Joliette, QC",46.0167,-73.4500,56
+"Lucan Biddulph, ON",43.2000,-81.3833,13
+"Brebeuf, QC",46.0667,-74.6667,13
+"North Bay, ON",46.3000,-79.4500,46
+"Bluewater, ON",43.4500,-81.6000,64
+"Prince Rupert, BC",54.3122,-130.3271,44
+"Antigonish, NS",45.6167,-61.9833,88
+"Indian Head, SK",50.5333,-103.6667,47
+"Saint-Denis, QC",45.7833,-73.1500,32
+"Cowansville, QC",45.2000,-72.7500,91
+"Longueuil, QC",45.5333,-73.5167,54
+"Saint-Francois-du-Lac, QC",46.0667,-72.8333,46
+"Horton, ON",45.5000,-76.6667,76
+"North Algona Wilberforce, ON",45.6167,-77.2000,12
+"Placentia, NL",47.2458,-53.9611,84
+"Lakeview, BC",49.9026,-119.5699,56
+"Quinte West, ON",44.1833,-77.5667,99
+"Canwood No. 494, SK",53.4574,-106.7768,20
+"Springfield, MB",49.9292,-96.6939,79
+"Noonan, NB",45.9544,-66.4868,23
+"Rothesay, NB",45.3831,-65.9969,88
+"Warman, SK",52.3219,-106.5842,47
+"Saint-Chrysostome, QC",45.1000,-73.7667,93
+"Halton Hills, ON",43.6300,-79.9500,77
+"Grand View, MB",51.1550,-100.7892,35
+"East Garafraxa, ON",43.8500,-80.2500,58
+"Pembina, MB",49.1775,-98.5408,72
+"Saint-Felix-de-Valois, QC",46.1700,-73.4300,98
+"Warfield, BC",49.0953,-117.7344,31
+"Beaconsfield, QC",45.4333,-73.8667,23
+"Oshawa, ON",43.9000,-78.8500,98
+"Orkney No. 244, SK",51.2557,-102.6469,36
+"Lac-Bouchette, QC",48.2500,-72.1800,60
+"Victoriaville, QC",46.0500,-71.9667,18
+"Delisle, SK",51.9254,-107.1333,29
+"Roxton-Sud, QC",45.5521,-72.5265,56
+"Oro-Medonte, ON",44.5667,-79.5833,61
+"Dorval, QC",45.4500,-73.7500,80
+"Wynyard, SK",51.7667,-104.1833,52
+"Fisher, MB",51.0825,-97.6611,16
+"Boucherville, QC",45.6000,-73.4500,21
+"Mont-Royal, QC",45.5161,-73.6431,58
+"Saint-Faustin--Lac-Carre, QC",46.0813,-74.4668,79
+"Ste. Anne, MB",49.6186,-96.5708,37
+"Dunham, QC",45.1333,-72.8000,97
+"Saint-Ferdinand, QC",46.1000,-71.5667,78
+"Saint-Michel-de-Bellechasse, QC",46.8667,-70.9167,99
+"Peace River, AB",56.2339,-117.2897,32
+"Two Hills, AB",53.7150,-111.7461,12
+"Pond Inlet, NU",72.6808,-77.7503,59
+"Wainwright, AB",52.8333,-110.8667,91
+"Errington, BC",49.2874,-124.3433,33
+"Aylmer, ON",42.7667,-80.9833,91
+"Durham-Sud, QC",45.6667,-72.3333,98
+"Prince, ON",46.5333,-84.5000,46
+"Armour, ON",45.6289,-79.3436,85
+"Boissevain, MB",49.1779,-100.0955,15
+"Saints-Anges, QC",46.4167,-70.8833,82
+"Trecesson, QC",48.6500,-78.3167,95
+"Stoneham-et-Tewkesbury, QC",47.1667,-71.4333,48
+"Bradford West Gwillimbury, ON",44.1333,-79.6333,60
+"Sudbury, ON",46.4900,-81.0100,97
+"Saint-Georges-de-Cacouna, QC",47.9167,-69.5000,59
+"Petit Rocher, NB",47.7839,-65.7159,23
+"Allardville, NB",47.4321,-65.4383,61
+"Champlain, ON",45.5333,-74.6500,99
+"Mandeville, QC",46.3667,-73.3500,52
+"Lery, QC",45.3500,-73.8000,17
+"Lac-au-Saumon, QC",48.4167,-67.3500,73
+"Sainte-Brigitte-de-Laval, QC",47.0000,-71.2000,66
+"Saint-Come--Liniere, QC",46.0667,-70.5167,11
+"Tumbler Ridge, BC",55.1333,-121.0000,58
+"Godmanchester, QC",45.0800,-74.2500,98
+"Repulse Bay, NU",66.5628,-86.3186,68
+"Russell, ON",45.2569,-75.3583,56
+"South River, ON",45.8417,-79.3750,98
+"L'Epiphanie, QC",45.8500,-73.4833,34
+"Hillsburg-Roblin-Shell River, MB",51.3343,-101.2929,23
+"St. Joseph, ON",46.2667,-84.0000,61
+"Whistler, BC",50.1208,-122.9544,18
+"Shelburne, ON",44.0833,-80.2000,64
+"Unity, SK",52.4333,-109.1667,54
+"Mount Pearl Park, NL",47.5189,-52.8058,85
+"Cranbrook, BC",49.5097,-115.7667,11
+"Barraute, QC",48.4333,-77.6333,35
+"Hampstead, QC",45.4833,-73.6333,76
+"Cedar, BC",49.0853,-123.8259,34
+"Saint-Ephrem-de-Beauce, QC",46.0516,-70.9374,70
+"Niverville, MB",49.6056,-97.0417,35
+"Mistassini, QC",48.8229,-72.2154,35
+"Alonsa, MB",50.9794,-99.0796,15
+"Merrickville, ON",44.8539,-75.8269,23
+"Laird No. 404, SK",52.5696,-106.7312,37
+"Sechelt, BC",49.4742,-123.7542,98
+"Sainte-Marguerite-du-Lac-Masson, QC",46.0560,-74.0723,84
+"Legal, AB",53.9492,-113.5950,31
+"Malartic, QC",48.1333,-78.1333,17
+"Leeds and the Thousand Islands, ON",44.4500,-76.0800,57
+"Ayer's Cliff, QC",45.1667,-72.0500,10
+"Southesk, NB",46.9901,-66.4336,37
+"Sainte-Anne-des-Monts, QC",49.1333,-66.5000,23
+"Campbell River, BC",50.0244,-125.2475,21
+"Farnham, QC",45.2833,-72.9833,66
+"Thetford Mines, QC",46.1000,-71.3000,36
+"Deseronto, ON",44.2000,-77.0500,96
+"Clarenville, NL",48.1566,-53.9650,93
+"Metabetchouan-Lac-a-la-Croix, QC",48.4333,-71.8667,25
+"Grunthal, MB",49.4065,-96.8603,97
+"Brantford, ON",43.1667,-80.2500,52
+"French River / Riviere des Francais, ON",46.1667,-80.5000,48
+"Maple Creek, SK",49.9167,-109.4667,97
+"Orangeville, ON",43.9167,-80.1167,86
+"Laurentian Valley, ON",45.7681,-77.2239,66
+"Havelock, NB",45.9523,-65.3885,36
+"Wolfville, NS",45.0833,-64.3667,66
+"High Level, AB",58.5169,-117.1361,79
+"Komoka, ON",42.9580,-81.4001,15
+"Terrace Bay, ON",48.8000,-87.1000,37
+"Englehart, ON",47.8167,-79.8667,20
+"Saint-Bruno-de-Guigues, QC",47.4667,-79.4333,23
+"Drumheller, AB",51.4636,-112.7194,34
+"Lillooet, BC",50.6864,-121.9364,92
+"Saint-Edouard, QC",45.2333,-73.5167,90
+"Montague, ON",44.9667,-75.9667,56
+"Kindersley, SK",51.4678,-109.1567,18
+"Herbertville, QC",48.3473,-71.6784,44
+"Palmarolle, QC",48.6667,-79.2000,91
+"Cartwright-Roblin, MB",49.1331,-99.2797,84
+"Woodlands, MB",50.2408,-97.7358,75
+"Edwardsburgh/Cardinal, ON",44.8333,-75.5000,18
+"Grand Falls, NB",47.0344,-67.7394,22
+"Saint-Pie, QC",45.5000,-72.9000,65
+"Central Huron, ON",43.6300,-81.5700,39
+"Salisbury, NB",46.0776,-65.1996,63
+"Pincourt, QC",45.3833,-73.9833,62
+"Edson, AB",53.5817,-116.4344,25
+"Beckwith, ON",45.0833,-76.0667,45
+"Cramahe, ON",44.0833,-77.8833,73
+"Hillsburgh, ON",43.7914,-80.1354,64
+"Massey Drive, NL",48.9372,-57.9000,23
+"Candiac, QC",45.3800,-73.5200,54
+"Sorrento, BC",50.8832,-119.4782,15
+"Stratford, PE",46.2167,-63.0893,86
+"Sidney, BC",48.6506,-123.3986,35
+"Maniwaki, QC",46.3750,-75.9667,41
+"Saint-Raymond, QC",46.9000,-71.8333,49
+"Grande Cache, AB",53.8773,-119.1199,78
+"Montreal-Ouest, QC",45.4536,-73.6472,28
+"Trail, BC",49.0950,-117.7100,24
+"Rosemere, QC",45.6369,-73.8000,59
+"Moncton, NB",46.1328,-64.7714,15
+"Colwood, BC",48.4236,-123.4958,36
+"Inukjuak, QC",58.4824,-78.1309,42
+"Kirkland, QC",45.4500,-73.8667,41
+"Roxton Pond, QC",45.4833,-72.6667,57
+"Niagara-on-the-Lake, ON",43.2553,-79.0717,44
+"Norwich, ON",42.9833,-80.6000,47
+"Rosthern, SK",52.6500,-106.3333,12
+"Lunenburg, NS",44.3833,-64.3167,26
+"Meadow Lake No. 588, SK",54.1213,-108.2837,67
+"Coldwell, MB",50.6389,-98.0417,39
+"Saint-Lazare, QC",45.4000,-74.1333,26
+"Nicolet, QC",46.2167,-72.6167,67
+"Franklin Centre, QC",45.0467,-73.9005,91
+"Prince Albert No. 461, SK",53.1089,-105.6574,88
+"Oyen, AB",51.3522,-110.4739,24
+"Fortune, NL",47.0733,-55.8217,89
+"Val-des-Monts, QC",45.6500,-75.6667,28
+"Blumenort, MB",49.6033,-96.7006,88
+"Black Diamond, AB",50.6881,-114.2333,27
+"Beauceville, QC",46.2000,-70.7833,77
+"Saint-Bruno, QC",48.4667,-71.6500,37
+"Saint-Roch-de-Richelieu, QC",45.8833,-73.1667,55
+"Kingsclear, NB",45.8796,-66.8695,72
+"Rama, SK",51.7578,-103.0008,20
+"Central Saanich, BC",48.5142,-123.3839,72
+"Richibucto, NB",46.6189,-64.8385,24
+"Maria, QC",48.1667,-65.9833,83
+"Saint-David-de-Falardeau, QC",48.6167,-71.1167,13
+"Springwater, ON",44.4333,-79.7333,45
