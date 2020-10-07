@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 Tested working with PHP5.4 and above (including PHP 7 )
 
  */
-require_once 'https://raw.githubusercontent.com/2020-Programming-Outreach/Discover-and-Ignite/gh-pages/html-email-form-with-attachment/vendor/autoload.php';
+require_once './html-email-form-with-attachment/vendor/autoload.php';
 
 use FormGuide\Handlx\FormHandler;
 
