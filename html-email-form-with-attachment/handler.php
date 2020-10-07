@@ -6,12 +6,12 @@ error_reporting(E_ALL);
 Tested working with PHP5.4 and above (including PHP 7 )
 
  */
-require_once './vendor/autoload.php';
+require_once 'https://raw.githubusercontent.com/2020-Programming-Outreach/Discover-and-Ignite/gh-pages/html-email-form-with-attachment/vendor/autoload.php';
 
 use FormGuide\Handlx\FormHandler;
 
 
-$pp = new FormHandler(); 
+$pp = new FormHandler();
 
 $validator = $pp->getValidator();
 $validator->fields(['name','email'])->areRequired()->maxLength(50);
@@ -22,6 +22,6 @@ $validator->field('message')->maxLength(6000);
 $pp->attachFiles(['image']);
 
 
-$pp->sendEmailTo('someone@gmail.com'); // ← Your email here
+$pp->sendEmailTo('discoverandignite2020@gmail.com'); // ← Your email here
 
 echo $pp->process($_POST);
