@@ -34,24 +34,57 @@ title: Index
             <a data-toggle="modal" data-target="#exampleModal" class="btn btn-lg btn-secondary">Submit!</a>
           </p>
           <!-- Button trigger modal -->
-        
+
 
         <!-- Modal -->
         <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <h5 class="modal-title" id="exampleModalLabel">Submission</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                 </button>
               </div>
+              <!--body of submission-->
               <div class="modal-body">
-                ...
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <h2>Challenge Submission</h2>
+                            <p> Submit the three Parts to the challenge below: </p>
+                            <form method="POST" action="https://formspree.io/f/mvovzqje" enctype=multipart/form-data>
+                                <div class="form-group">
+                                    <label for="name"> Name:</label>
+                                    <input type="text" class="form-control" id="name" name="name" required maxlength="50">
+                                </div>
+                                <div class="form-group">
+                                    <label for="email"> Email:</label>
+                                    <input type="email" class="form-control" id="email" name="email" required maxlength="50">
+                                </div>
+                                <div class="form-group">
+                                    <label for="name"> Message:</label>
+                                    <textarea class="form-control" type="textarea" name="message" id="message" placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
+                                </div>
+                                <div class="form-group">
+                                    <label for="name"> Part 1:</label>
+                                    <input type="file" class="form-control" id="Part1" name="part1" required>
+                                    <label for="name"> Part 2:</label>
+                                    <input type="file" class="form-control" id="Part2" name="part2" required>
+                                    <label for="name"> Part 3:</label>
+                                    <input type="file" class="form-control" id="Part2" name="part3" required>
+                                </div>
+
+                                <button type="submit" class="btn btn-lg btn-success pull-right" id="btnContactUs">Post It! &rarr;</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
               </div>
               <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
+                <p class="lead">
+                  <a class="btn btn-lg btn-secondary" data-dismiss="modal">Close</a>
+                </p>
               </div>
             </div>
           </div>
